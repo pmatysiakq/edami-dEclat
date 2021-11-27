@@ -2,7 +2,9 @@
 
 ## dEclatV1
 
-It's a **1st phase** of the Project. This dEclat implementation is based on [that dEclat Java implementation](http://www.philippe-fournier-viger.com/spmf/Eclat_dEclat.php)
+It's a **1st phase** of the Project. This dEclat implementation is based on [that dEclat Java implementation](http://www.philippe-fournier-viger.com/spmf/Eclat_dEclat.php).
+
+You can see `Java code` in the `./dEclatV1/dEclat-Java-example/`
 
 ## dEclatV2
 

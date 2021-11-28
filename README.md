@@ -19,12 +19,12 @@ You can see `Java code` in the `./dEclatV1/dEclat-Java-example/`
 
 ## Phase 2
 
-- [ ] Read the article about the algorithm
+- [x] Read the article about the algorithm
 - [ ] Implement second version of dEclat algorithm
 
 ## Report
 
-- [ ] Describe the dEclat algorithm
+- [x] Describe the dEclat algorithm
 - [ ] Write the pseudo-code of the dEclat algorithm
 - [ ] Describe experiment
 - [ ] Prepare test data (source: Twitter)

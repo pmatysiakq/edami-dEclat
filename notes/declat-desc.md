@@ -4,11 +4,11 @@ dEclat algorithm is a more efficient variation of the Eclat algorithm. Both ment
 
 This algorithm requires two input parameters: data in the form of "transactions" and minimal support (minSupp) parameter which indicates a treshold of acceptance. In simplified terms, we can say that this algorithm is all about computing the support of the itemsets and comparing with minSupp parameter.
 
-As output we expect a group of items, which are called "frequents itemsets". A group of items is frequent when they are present together in at least "minSupp + 1" transactions - which means that their support is grater than minSupp parameter.
+As output, we expect a group of items, which are called "frequents itemsets". A group of items is frequent when they are present together in at least "minSupp + 1" transactions - which means that their support is grater than minSupp parameter.
 
 The limitations of the algorithm are that the items in transations are assumed to be sorted by lexicographical order in a transaction and each transation in a set is unique, there are no duplicate transactions in a single itemset.
 
-It is neither the only nor the best algorithm to find frequent itemsets, but it is definitely one of the best. The advantage of dEclat is due to vertical representation of the data - it uses Depth first search for discovering frequent itemsets.
+It is neither the only, nor the best algorithm to find frequent itemsets, but it is definitely one of the best. The advantage of dEclat is due to vertical representation of the data - it uses Depth first search for discovering frequent itemsets.
 
 The most important advantage of dEclat algorithm is that it's faster than many of other algorithms and at the same time needs less memory - for example compared with Apriori and Eclat algorithms.
 

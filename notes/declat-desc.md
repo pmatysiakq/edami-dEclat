@@ -1,6 +1,7 @@
 ## dEclat Description
 
-dEclat algorithm is more efficient variation of the Eclat algorithm.
+The diffset format (the difference of two sets) has drastically reduced the running time and memory usage of the Eclat algorithm and the Eclat algorithm using diffset format is called dEclat algorithm 
+thus dEclat algorithm is more efficient variation of the Eclat algorithm.
 Both mentioned algorithms are used for discovering frequent itemsets in a transactional database.
 The main difference, between this two algorithms, is a structure which is implemented on top of them.
 dEclat uses "difflists" to represent differential lists of transaction identifiers, 

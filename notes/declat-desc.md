@@ -32,7 +32,8 @@ comparing with e.g. Apriori or Eclat algorithms.
 Looking at disadvantages, we may point out, that dEclat algorithm is suitable for a dense database, but degrades with spare database, 
 and it needs to switch between tidset and diffset for a sparse database
 
-
+## Pseudo code
+![img_3.png](img_3.png)
 
 ## References
 

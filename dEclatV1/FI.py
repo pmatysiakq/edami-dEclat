@@ -1,4 +1,4 @@
-class FrequentItemset:
+class FI:
 
     def __init__(self, setx):
         self.itemset = setx
@@ -10,3 +10,6 @@ class FrequentItemset:
 
     def get_supp(self):
         return self.supp
+
+    def get_itemset(self):
+        return self.itemset

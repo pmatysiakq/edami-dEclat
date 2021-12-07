@@ -1,41 +1,40 @@
-import re
-import tweepy, os
+import re, tweepy, os
+
 
 class Data:
 
     def __init__(self, user):
-        self.data_path = Data.get_twitts(user)
+        self.data_path = Data.get_twitts(user)  # This may be divided into two steps: 1 - get tweets, 2 - load from file
         self.database = self.create_database()
         self.unique_words = self.get_unique_words()
-        self.unique_numbers = self.get_unique_numbers()
         self.discretized_data = self.disc_data()
+        self.unique_numbers = self.get_unique_numbers()
         self.dictionary = self.disc_words()
-        self.tweet_count = len(self.database)
 
     def create_database(self):
         with open(self.data_path, "r", encoding='utf-8') as file:
             tweets = file.readlines()
-        data = []
+        data = list()
         id = 0
         for tweet in tweets:
-            temp_tweet = []
+            temp_tweet = list()
             tweet = tweet.strip()
             tweet = tweet.split()
             for i in range(len(tweet)):
                 tweet[i] = tweet[i].strip("!#$%^&*(){}[];:\"\\,./<>?|“")
             for word in tweet:
-                if re.match("^[a-zA-Z’]+$", word):
-                    if word not in temp_tweet and len(word) > 4:
+                if re.match("^[a-zA-Z’-]+$", word):
+                    if word not in temp_tweet and len(word) > 4:    # How long the single word should be
                         temp_tweet.append(word.lower())
-            if len(temp_tweet) >= 2:
+            if len(temp_tweet) >= 2: # Accept tweets composed of at least 2 words
                 id = id + 1
                 data.append([id, sorted(temp_tweet, reverse=False)])
 
         return data
 
     def get_unique_words(self):
-        data = self.create_database()
-        unique_data = []
+        data = self.database
+        unique_data = list()
         for tweet in data:
             for word in tweet[1]:
                 if word not in unique_data:
@@ -43,8 +42,8 @@ class Data:
         return unique_data
 
     def get_unique_numbers(self):
-        data = self.disc_data()
-        unique_data = []
+        data = self.discretized_data
+        unique_data = list()
         for tweet in data:
             for number in tweet[1]:
                 number = int(number)
@@ -53,7 +52,7 @@ class Data:
         return unique_data
 
     def disc_words(self):
-        unique_words = self.get_unique_words()
+        unique_words = self.unique_words
         dictionary = dict()
         i = 1
         for word in unique_words:
@@ -62,24 +61,27 @@ class Data:
         return dictionary
 
     def disc_data(self):
-        data = self.create_database()
+        data = self.database
         dictionary = self.disc_words()
 
-        discretize_data = []
+        d_data = list()
         for tweet in data:
             new_tweet = set()
             for word in tweet[1]:
                 new_tweet.add(dictionary[word])
-            discretize_data.append([tweet[0], new_tweet])
+            d_data.append([tweet[0], new_tweet])
 
-        return discretize_data
+        return d_data
 
+    # This method need to be adjusted in a way, that we can fetch more than 200 tweets
+    # We should also consider to fetch data before running algorithm and then load data
+    # from text file.
     @staticmethod
     def get_twitts(user):
+        # You have to export environment variables to authenticate to the API
         consumer_key = os.environ["CONSUMER_KEY"]
         consumer_secret = os.environ["CONSUMER_SECRET"]
-        # bearer_token = os.environ["BEARER_TOKEN"]
-
+        bearer_token = os.environ["BEARER_TOKEN"]
         access_token = os.environ["ACCESS_TOKEN"]
         access_token_secret = os.environ["ACCESS_TOKEN_SECRET"]
 

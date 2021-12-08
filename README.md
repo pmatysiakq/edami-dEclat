@@ -2,9 +2,8 @@
 
 ## dEclatV1
 
-It's a **1st phase** of the Project. This dEclat implementation is based on [that dEclat Java implementation](http://www.philippe-fournier-viger.com/spmf/Eclat_dEclat.php).
+It's a **1st phase** of the Project. This dEclat implementation is based on [this description](http://www.philippe-fournier-viger.com/spmf/Eclat_dEclat.php).
 
-You can see `Java code` in the `./dEclatV1/dEclat-Java-example/`
 
 ## dEclatV2
 
@@ -15,7 +14,7 @@ You can see `Java code` in the `./dEclatV1/dEclat-Java-example/`
 ## Phase 1
 
 - [x] Select algorithm
-- [ ] Implement algorithm base on the Java example
+- [x] Implement algorithm base on the Java example
 
 ## Phase 2
 
@@ -25,7 +24,7 @@ You can see `Java code` in the `./dEclatV1/dEclat-Java-example/`
 ## Report
 
 - [x] Describe the dEclat algorithm
-- [ ] Write the pseudo-code of the dEclat algorithm
+- [x] Write the pseudo-code of the dEclat algorithm
 - [ ] Describe experiment
 - [ ] Prepare test data (source: Twitter)
 - [ ] Provide experiment results

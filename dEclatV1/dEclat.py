@@ -39,6 +39,7 @@ class dEclat:
         for candidate in candidates:
             if candidate.get_supp() >= self.min_supp:
                 frequent_itemsets.append(candidate)
+                self.freq_isets.append(candidate) # Add FI of length 1 as FIs
 
         return frequent_itemsets
 

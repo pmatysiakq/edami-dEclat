@@ -10,14 +10,14 @@ def main():
     # get_200_tweets("Meta")
     # get_200_tweets("troyhunt")
 
-    declat = dEclat(data_path=r"data/combined.txt",
-                    min_supp=10,
+    declat = dEclat(data_path=r"data/tweets-Meta.txt",
+                    min_supp=8,
                     show_supp=True)
 
     declat.run_declat(save_fis=True,
-                      out_name="output-combined",
+                      out_name="output-meta",
                       spmf_file=True,
-                      spmf_name="spmf-transactions-combined")
+                      spmf_name="spmf-transactions-meta")
 
 
 if __name__ == "__main__":

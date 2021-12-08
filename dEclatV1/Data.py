@@ -23,10 +23,12 @@ class Data:
             for i in range(len(tweet)):
                 tweet[i] = tweet[i].strip("!#$%^&*(){}[];:\"\\,./<>?|“")
             for word in tweet:
-                if re.match("^[a-zA-Z’-]+$", word):
-                    if word not in temp_tweet and len(word) > 1:    # How long the single word should be
+                if re.match("^[a-zA-Z’\-]+$", word):
+                    # How long the single word should be - we don't find len(word) < 4 interesting
+                    if word not in temp_tweet and len(word) > 3:
                         temp_tweet.append(word.lower())
-            if len(temp_tweet) >= 2: # Accept tweets composed of at least 2 words
+            # Accept tweets composed of at least 2 words
+            if len(temp_tweet) >= 2:
                 id = id + 1
                 data.append([id, sorted(temp_tweet, reverse=False)])
 

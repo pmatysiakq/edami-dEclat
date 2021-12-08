@@ -1,0 +1,22 @@
+ -----------------------
+ --- min_supp = 10 ---
+ --- total_fis = 17 ---
+ -----------------------
+
+ #SUP: 69 | #FI: ['metaverse']
+ #SUP: 27 | #FI: ['will']
+ #SUP: 21 | #FI: ['with']
+ #SUP: 18 | #FI: ['will', 'metaverse']
+ #SUP: 18 | #FI: ['next']
+ #SUP: 18 | #FI: ['meta']
+ #SUP: 17 | #FI: ['your']
+ #SUP: 17 | #FI: ['wait']
+ #SUP: 16 | #FI: ['what']
+ #SUP: 16 | #FI: ['this']
+ #SUP: 16 | #FI: ['future']
+ #SUP: 14 | #FI: ['that']
+ #SUP: 12 | #FI: ['together']
+ #SUP: 12 | #FI: ['social']
+ #SUP: 12 | #FI: ['excited']
+ #SUP: 11 | #FI: ['metaverse', 'next']
+ #SUP: 11 | #FI: ['about']

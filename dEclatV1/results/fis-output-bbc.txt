@@ -1,31 +1,9 @@
+ -----------------------
  --- min_supp = 10 ---
- --- total_fis = 28 ---
+ --- total_fis = 4 ---
+ -----------------------
 
- --- Supp: 57 --- FI: ['of']
- --- Supp: 49 --- FI: ['to']
- --- Supp: 48 --- FI: ['in']
- --- Supp: 47 --- FI: ['the']
- --- Supp: 34 --- FI: ['for']
- --- Supp: 22 --- FI: ['us']
- --- Supp: 21 --- FI: ['rt']
- --- Supp: 21 --- FI: ['on']
- --- Supp: 19 --- FI: ['the', 'of']
- --- Supp: 19 --- FI: ['in', 'of']
- --- Supp: 19 --- FI: ['and']
- --- Supp: 17 --- FI: ['is']
- --- Supp: 16 --- FI: ['in', 'to']
- --- Supp: 16 --- FI: ['after']
- --- Supp: 15 --- FI: ['to', 'of']
- --- Supp: 14 --- FI: ['has']
- --- Supp: 13 --- FI: ['the', 'to']
- --- Supp: 13 --- FI: ['says']
- --- Supp: 13 --- FI: ['in', 'the']
- --- Supp: 13 --- FI: ['at']
- --- Supp: 12 --- FI: ['over']
- --- Supp: 11 --- FI: ['who']
- --- Supp: 11 --- FI: ['rt', 'in']
- --- Supp: 11 --- FI: ['into']
- --- Supp: 11 --- FI: ['be']
- --- Supp: 10 --- FI: ['women']
- --- Supp: 10 --- FI: ['rt', 'of']
- --- Supp: 10 --- FI: ['covid']
+ #SUP: 16 | #FI: ['after']
+ #SUP: 13 | #FI: ['says']
+ #SUP: 12 | #FI: ['over']
+ #SUP: 11 | #FI: ['into']

@@ -1,0 +1,200 @@
+@Shift2015 @JakRub That might be relevant for cracking leaked password hashes, but it won’t change the premise of using them in the first place
+@_whiteyau @j_opdenakker @SGgrc https://t.co/qOsdENvVou
+@Shift2015 Because so they’re so ingrained and we don’t have a better solution suitable for mass adoption without infeasibly high usability and cost burdens
+RT @j_opdenakker: When will passwords disappear?   Curious to learn what people think and why. So feel free to comment and retweet.  #infos…
+@j_opdenakker 48% of people are wrong 🙂
+RT @troyhunt: I get the weirdest emails ⚡️ https://t.co/kywHG0oGcb
+@vasudevram @PhoenixHawk @1Password No, because I ran out of characters 🙂  2 step / 2 factor / multi factor terms all get used a bit interchangeably. If you’d like the long explanation, try this: https://t.co/WDVQMfoOg8
+RT @troyhunt: From 10 years ago today to standing on a stage in London last year teaching other kids to code. So proud 🥲 https://t.co/S8rhY…
+I get the weirdest emails ⚡️ https://t.co/kywHG0oGcb
+@jarodmellor @disqus It’s link spam
+This is quality work by @1Password: "Burnout: The next great security threat at work". Check out the report, all sorts of great insights in there 😎 https://t.co/anAqi6CBp9 https://t.co/yuaGLo36Zw
+I've noticed this sneaky little spam technique popping up a lot in @disqus comments lately, just a single character linking to an external site https://t.co/hTrx0SkHgs
+Following the impacted Gravatar email addresses being loaded into @haveibeenpwned, they've released an FAQ. This helps answer some of the questions that were raised, including why people who had no idea what the service was had an email address there: https://t.co/RULaDZNK6R
+@jacobegner Alll good, thanks mate 🙂
+@luizrmgarcia Heaps on that here: https://t.co/3105fqEGIW
+From 10 years ago today to standing on a stage in London last year teaching other kids to code. So proud 🥲 https://t.co/S8rhYw0Dau
+@HereSeanTalks It’s an option for every party that has your data 🙂
+@mslavco @SamirGunic @haveibeenpwned I’ll put it another way: there are 11.7B records in @haveibeenpwned and less than 1% of them came from MD5 hashes. It’s a *very* unique situation and certainly not one I can justify spending significant time catering for.
+@HereSeanTalks It would differ by site, there’s no uniform way of requested your data be removed
+@theunixwizard Geez, wait until you hear about “religion”!
+@jacobegner Santa is lying to kids? That’s a really sad life view 😔
+This is so much better than every other corporate gift I’ve ever received 😍 https://t.co/dSIqhiGt52
+I feel like I need to write something up explaining what the term “breach” means. It doesn’t have to mean anything was hacked (a stolen laptop is a breach), nor does it mean security controls were circumvented (a publicly accessible backup is a breach) https://t.co/xspQihEnwS
+@TreeBoommm I’m pretty sure you can’t delete another family member’s private vault, it still remains on their local device (would need to confirm though)
+@GoodGuyMouse @1Password @LastPass DM sent 😎
+@SamirGunic @mslavco @haveibeenpwned There’s really no point, it’s extraordinarily rare to have emails as a hash and not in plain text. I mean, think about it: what possible reason would a provider store them in a non-reversible fashion? Gravatar is a unique use case.
+RT @troyhunt: Just blogged: A Password Manager Isn't Just for Christmas, It's for Life (So Here's 50% Off!) https://t.co/9mc3ilJNgH
+RT @troyhunt: Had to post this after a scammer tried to get my "one pee" address 🤣 Obviously she was reading a script and didn't know her "…
+@guygaechter @jamesbannan @1Password That’s U2F and yes, it’s good 🙂 Eveything else is already on the device, regardless of which app handles it.
+@sogorman74 That one… is a lot weirder again
+@GoldRushty Once you build the habit, it’s for life
+@GoodGuyMouse @1Password @LastPass Because I’ll personally send you a #pwnedmas swag pack if you do 🙂 https://t.co/DD8rEssysy
+@khoath Pinging @1Password on this, I know accessibility is important to them
+@VJmes @1Password I think it’s just families, start the process and see then let me know 🙂
+Just blogged: A Password Manager Isn't Just for Christmas, It's for Life (So Here's 50% Off!) https://t.co/9mc3ilJNgH
+That's half of US$4.99 a month which is about 8c per day for a family of 5 to totally transform their online security posture. I'd really like people to *gift* this to someone and volunteer their time to help a mate learn the importance of strong, unique passwords.
+People loved this tweet so I asked @1Password what they could do to help you all set up a mate for Christmas. They were like "cool, let's just take half off the price for the first 1,000 people". So, here it is: A Password Manager Isn't Just for Christmas: https://t.co/l8MBs1yaLl https://t.co/azCRzJABoz
+@BendiMK6 Yep, came out fine, just switched to white
+@neilpmas I don’t know that we get any more than other western nations TBH
+@daverdfw Yeah, but that was the last of the Azure Blue (I’ve been printing a few of these…)
+@Nerdwood 🤦‍♂️
+😢 https://t.co/VFRcviSb7Q
+I may have underestimated the amount of Azure Blue filament I needed so yeah, some of you are gonna get some pretty “unique” @haveibeenpwned prints! https://t.co/yIcVQS7nph
+This is so weird, imagine giving your kid a toy where imaginary fairies surveil them! Can’t we just go back to simpler times where we told kids there’s an old bloke with a beard who sees them when they’re sleeping? https://t.co/XImV4vONft
+Had to post this after a scammer tried to get my "one pee" address 🤣 Obviously she was reading a script and didn't know her "I" from her "1", maybe I should have just suggested a serif font? Also, could you "overseas people" please stop hacking me! https://t.co/h3MPabP5MD
+Working the 3D printer overtime to keep up with #pwnedmas 😎 Still got 2 and a half weeks to run, details here: https://t.co/DD8rEssysy https://t.co/6aH2AzBqsq
+RT @campuscodi: Interesting comment about the Ubiquiti insider/hacker. It all kind of adds up now. https://t.co/AmZHVbUhap
+@damn_dysania @1Password Pass phrases are great, plus turn on 2FA and you’re solid 👍
+@PixieCannibal Agree re parenting. The point is that even with the Twitter controls, porn is easily accessed by those who want it and a hard age gate on actual porn sites doesn’t change its easy access.
+@vasudevram @PhoenixHawk @1Password You’ve already got a single factor - your device! If you want genuine 2FA, use a U2F token. More on assessing risk of password managers: https://t.co/CH2UTzjCgo
+@mattaustin @rishi_singh86 @haveibeenpwned So unsubscribe. Or just delete the email. The vast majority of people want to know this, that’s who I need to cater for, not the edge cases.
+@mattaustin @rishi_singh86 @haveibeenpwned That’s in no way comparable. When someone pulls a huge volume of data from Twitter in a way it’s not intended to be accessed then redistributes it around for others to abuse, yes, I’ll want to see that notification.
+@PixieCannibal But all this is still dependent on user-provided, unverified age 🤷‍♂️
+@schnabel45 @Whozfoxy If only it was that simple. I give a lot of thought to this, just haven’t found a way to do it yet without other adverse effects.
+@shawn_woodward @1Password Nope, but I’ll post something else related this week, stand by 🙂
+@__narfanar Very unlikely, it’s extraordinarily unpopular: https://t.co/9yRMLLTb3N
+@mattaustin @rishi_singh86 @haveibeenpwned So I understand, are you saying you don’t want any notification whatsoever for an incident like this? This data is being passed around hacking forums alongside names and usernames where it can then be used to match to all kinds of other PII, and you don’t want to know?
+RT @troyhunt: Today I spent an hour getting a mate into @1Password. I bought him a year's worth at $4.99 per month for him, his wife and 3…
+@MrPeterLMorris @hamen @gravatar Templated wording, the description describes it most accurately
+@theDiverDK @haveibeenpwned Sure, DM me your details. Seriously 🙂
+@hhariri @hamen @gravatar https://t.co/AhE54K1mQj
+@MrPeterLMorris @hamen @gravatar That’s why it says “scraped data”. But you could also argue that “breach” is appropriate when the data is obtained and misused outside the intended scope with which it was provided.  https://t.co/FwiqpUFSsp
+@Whozfoxy Insane backlog and very little free time combined with loads of other breaches to deal with
+@OsintSupport @haveibeenpwned Loads of hard work and very low value compared to where else the time could be committed
+@4jochen @1Password @FIDOTrustKey Make it free and familiar. But it’s neither of those things, that’s why uptake is so limited.
+@samjones5000 Shady AF https://t.co/TKcPcEwB5N
+@dlgwynne To what?
+@considerITman @1Password @dashlane @LastPass Goes all the way back to this for me: https://t.co/eENtiJTDLJ
+@g_rossolini @haveibeenpwned Might I suggest using the delete button in the email client? 🙂
+@dlgwynne Yeah, but he’s gone now and the new guy is fine! Right? Guys? Oh…
+@andrevr Try sleeping with him
+@bonny_ken @1Password @haveibeenpwned Congrats!
+@ALT064ALT064 @PhoenixHawk @1Password 👆👍
+@ALT064ALT064 @1Password No, but I really should try and do something about that, stand by!
+@samcolman95 No
+“erect some kind of ‘porn firewall’ around the entire country. That idea ended proving unfeasible and was ultimately scrapped” - does this surprise anyone with half a clue of how the internet works? https://t.co/moXncbRlnC
+@PhoenixHawk @1Password There’s an argument that when everything is on the device, it’s more two step than two factor anyway. Plus, where do you store the recovery codes? 🤷‍♂️
+@stebets https://t.co/2GZRHnQlve
+@jamesbannan @1Password I already had stuff in Authy, started setting my mate up with the @1Password one today though
+@IgnatiusTeo @varseand Then you’re still doing unencrypted TLS handshakes through the ISP
+RT @troyhunt: I hate getting emails from this guy 😭 https://t.co/rkZrmzU7hp
+Disclosure: I'm on the @1Password Board of Advisors. But I still bought him the subscription (and I still buy mine too!) https://t.co/ySm4yNWll7
+Today I spent an hour getting a mate into @1Password. I bought him a year's worth at $4.99 per month for him, his wife and 3 kids and within an hour, had him going across devices and enabling 2FA on his things. Make this your Xmas present when you visit friends and family 😎
+It’s the final hours! https://t.co/y0sSfKSFEc
+@HamishOsborne If only there was information in that email to explain all that 🤔
+@Tim_8020 And SHA-256 (or 512, salted or not), is a rounding error away from being just as useless as MD5 compared to bcrypt, but that wouldn’t be a suitable approach for this use case 🙂
+@Tim_8020 This isn’t for storing passwords or preventing against brute force attacks, it’s to give external sites a string that can be easily generated from an email address to reference the associated avatar
+@adammw @haveibeenpwned Only cracked
+@mrcheeley I have a special place to send those 🙂
+I hate getting emails from this guy 😭 https://t.co/rkZrmzU7hp
+@AlkalineMoon @haveibeenpwned Not AFAIK, why would it?
+Oh - one more thing: personally, this won't stop me using Gravatar. I'm sympathetic to tech platforms providing services that by design, make data public and easily accessible but then need to defend against scraping. It's a hard problem.
+@omkelderman Emails send out alphabetically and I’m about half way through
+@nightpool https://t.co/tk4oUJtCpK
+At the very least, it's awareness. I want to know - *most* people want to know - when our personal data appears in places we didn't expect it to, and that's precisely what @haveibeenpwned does.
+What can you actually do about it? People often request that the impacted service delete their data. That obviously doesn't put the genie back in the bottle, but it's a reasonable action once trust is eroded.
+My data is in the Gravatar scrap (and it was in the LinkedIn scrape) and I agree. It's not massive in the scheme of things, but it's still frustrating and I want to know about it.
+The argument of "well, it's public data anyway" is a view held by the minority. The vast majority of people consistently say "I didn't expect my data to be used in this way and I'm unhappy it's now out there and being passed around in this format".
+Searching Twitter for your own polls is painful, but the results were consistent when asking about prior scraping incidents such as Facebook and LinkedIn earlier this year.
+For example, when Epik scraped and stored WHOIS records: https://t.co/w6Po1D5BU9
+Getting a few questions related to whether scraped data such as from Gravatar is worthy of being in @haveibeenpwned. Without exception, every time I ask how people feel about this, the overwhelming majority of people say "I want to know when this happens".
+Anyone else? I sent “a few”… https://t.co/TdVxiggnAc
+@Crackmacs Me too 😔
+@jroper @haveibeenpwned Every time I poll this, the responses are overwhelmingly in favour of loading scraped data. Incidents like this show the misuse of data (including mine) and possible actions include people requesting the impacted service to delete their account. Plus, it’s easily ignorable 🙂
+@varseand @drewrants I get your point, but it just puts us back at that same position where it’s a privacy compromise again and is unlikely to happen
+Next round of #pwnedmas winner emails about to go out to the USA, UK and New Zealand. Here’s what’s left of the book stash: https://t.co/0oTgnumDbB
+@varseand And that’s never gonna happen, it’s entirely counter to the “P” in VPN!
+RT @haveibeenpwned: New scraped data: Gravatar had 167M profiles scraped in Oct last year via an enumeration vector. 114M of the MD5 email…
+@RanAriGur Not really relevant, Edge can still calculate a SHA-1 hash client side and send it to the API
+@varseand So… VPN. Done.
+@jrmassar @IRMA_privacy If it’s a solved problem, why aren’t we seeing it on the sites in question?
+😎 https://t.co/8dcGf9Vjnq https://t.co/4UmREleXUL
+@nic0god If you don’t know, you don’t need it 🙂  But here’s the answer anyway: https://t.co/QP2TfqnSta
+Lastly, this is also why I’m so adamant about this position:  “Digital Parental Controls Are Not a Substitute for Actual Parenting”  https://t.co/NBfuHXwUYw
+This isn’t to justify the lack of appropriate age controls on websites, rather to recognise that it’s a much harder problem than what is trivialised by politicians. Preserving anonymity and freedom of expression whilst showing age appropriate content is extremely non-trivial.
+I accidentally stumbled across this recently (honestly!) when searching for the @rodemics account. The first search result was very similar; without clicking over to videos, it was right there up the top, very explicit and very in my face.
+So, there’s obviously a conscious attempt to exclude porn if not from the platform, then at least from the search results. But now, search for “rode”… or don’t, just see the (carefully cropped) screen cap below: https://t.co/ltje20N4AQ
+Maybe nobody on Twitter wants porn? Let’s try an image search… that’s actually really cool! No nudity, just cool galaxies. https://t.co/3L2T3PArsu
+Twitter has obviously made a conscious attempt to exclude porn from search results. Trying searching for “porn” videos and see what it gets you… or just look at this screen cap: https://t.co/lLnWCt5Rcw
+The other problem is that when it comes to limiting access to porn, putting a hard age gate on websites is only the tip of the iceberg. Let me demonstrate with an easy example (you might not want to try this from work):
+Which, of course, means eroding anonymity and we’re talking about precisely the sort of service where for many people, privacy is important. Doing identity proof whilst preserving anonymity is a hard problem to solve.
+But this is a much more nuanced challenge than the article suggests, starting with this problem: “a form of age assurance where users are asked to provide formal proof of their identity through passports, credit cards or other forms of identification known as hard identifiers”.
+Age verification for porn sites is in the news again. The basic premise is that a “hard proof” should be provided before people access porn to ensure they’re adults (apparently kids lie in response to the “are you 18 or over” questions 🤷‍♂️). https://t.co/18AjgbBqUS
+You can presently download hashes in both SHA-1 and NTLM format, but only query the k-anonymity API vis SHA-1, not NTLM. Would NTLM API queries be useful for you? And if so, why?
+Pwned Passwords in @haveibeenpwned is approaching a major milestone with a V8 release continuing hundreds of millions of new passwords, then the launch of the @FBI ingestion pipeline so they can feed in passwords discovered in their investigations. More agencies will join later.
+@jesus359 Hope she’s never seen them naked, that sounds like a *real* invasion of privacy! Appropriate measures at appropriate ages and levels of maturity.
+@jaspar @home_assistant Cheers mate, I’ve learned something 🙂
+@raymonvdm @bartmax Garmin kids activity tracker, definitely not a GPS tracker! https://t.co/8POOs2VFm6  These days she has an Apple Watch.
+@Slashyyyy See thread
+@epoxyaplan 1,630cc supercharged
+@vbastos_aus @sankara There’s a whole 1% left! https://t.co/0O9r4fnH8J
+@chrisfordoz @home_assistant Yep, that was it, already fixed 🙂
+@sankara Not unless there’s storm surge as well, this is within normal range
+@jaspar @home_assistant Actually, it’s a constant offset, that’s an easy fix 😎
+@jaspar @home_assistant This really needs to be configurable in the integration, might submit a PR for this one: https://t.co/3z2DUl0Lye
+@jaspar @home_assistant I gotcha now. Yep, you’ve nailed it! Datum was in MSL and not CD.
+This is actually starting to look pretty awesome 😎 https://t.co/wOz5LD4MiV
+@jaspar @home_assistant You can just see the station at the top of the JSON which aligns with the station I’ve linked to
+@thomasfuller98 @home_assistant They line up
+@_nickgurney Kinda too late for some things (tripped power once because I left a drill connected to mains on the floor). I want to know what it’s going to do, not what it’s already done.
+@jaspar @home_assistant Yep, same times and same station reported so pretty sure it’s correct
+@marc_ahx @home_assistant Cool, can you resolve my @home_assistant problem while you’re at it?
+@xn__mn8hzg @RThopalong It’s a question of age appropriateness: what’s appropriate for my 9 year old daughter will change when she’s older. For now, this is appropriate and consistent with most child development guidelines for kids going online.
+I’m trying to do a better job of tracking (and alerting) on massive tides after this one today almost floated things in my boat shed away (yeah, I know, first world problems!) But hey, sea level isn’t rising at all is it…? https://t.co/tjjHucl8er
+A *very* specific @home_assistant question: the WorldTides integration calls their API which returns the response you see in Postman with a negative low tide value. But their website expresses the tide in the (correct) positive values. Why? https://t.co/EhK0UMv03a https://t.co/ebJN81uiYd
+Just blogged: Weekly Update 272 https://t.co/Hblopvvhqc
+@Aschenbrenner Hue Go
+@jon_bottarini https://t.co/Yb9FQvIGMj
+Weekly update is up! New Elgato Key Lights; #pwnedmas Books Shipped; In-Person Talk; Ubiquiti (Insider) Breach; Explicit Breach Descriptions in HIBP https://t.co/1rab8wr3ix
+Now very cleanly mounted to the wall, in place before the acoustic panelling goes on https://t.co/KOBmyW6R9Z
+Timely reminder of why supervising kids on devices *always* beats just turning on the technical controls and letting them run wild. Where are you when your young kids are on phones, tablets and PCs? https://t.co/kBQTR829wG
+@height8 I wouldn’t say “infested”, just normal numbers 🙂
+@andrewlax3 @jkbckr @HackingDave Guns shooting at people? That just sounds like prime time news in the US! But that’s kinda the point around supervision: when your present, you can talk to them about these things and they *will* always get around technical controls: https://t.co/TKCqDcGKYj
+@cejay Yep
+Other end of the day looks awesome in a totally different way ⛈ https://t.co/C6H4oZ9oxc
+@m4nl5r Agree. Really dislike the way it sits down there on the task bar and you can’t snap it out. But the @home_assistant integration is great and I control it from there and the @elgato Stream Deck which is fine.
+I'm live! 👇 https://t.co/ZIwgmh8DUB
+@Pawp81 😮
+Going live with my weekly update in 5 mins (☕ first)! New Elgato Key Lights; #pwnedmas Books Shipped; In-Person Talk; Ubiquiti (Insider) Breach; Explicit Breach Descriptions in HIBP https://t.co/6lzYxcmNBD
+@Comte_Bezoukhov @charlottelyng I’m just a numbers guy: in the last 230 years, there have been 237 deaths by sharks. In well under one year, we’ve had way more deaths than that from COVID and that’s in a place that’s barely had the virus. I’ll stick to the shark-infested yet (almost) virus-free waters!
+@lxalln https://t.co/9fNLBm3NyD
+Data breach at @canadianbitcoin: https://t.co/Voovt53OW1
+How’s your weather looking? 05:45 and perfect here 😎 🦜 ☀️ https://t.co/MWCuLrlNoE
+@jkbckr @HackingDave My number one most important thing remains being present with them as much as possible when they’re on devices
+@Comte_Bezoukhov @charlottelyng No, not when we get to retain this quality of life
+@TheNatale @charlottelyng Keep up the good fight! We’re suffering down here and Americans holding rallies for us helps enormously 🤣
+@GDayJason @rodemics I know, right?! Look, it’s nothing anyone who’s been on the internet for a while hasn’t seen before, it’s just the ease of access alongside all the other mundane conversation we have here, such as this.
+@Esolitos @charlottelyng Yeah, good luck getting in…
+@red_nax_elA @charlottelyng @NDC_Conferences We’re kinda locked down down here and can’t leave. Clearly, we’re suffering 🤣
+It’s summer on the Gold Coast. We’ll emerge from here once it cools down, probably somewhere around May… 🌴 👙 ☀️ 🕶 🦈 https://t.co/XRQBReheZs
+I, uh, may have underestimated the cost of sending all these around the world 😮  Happy #pwnedmas! https://t.co/exCiWfUBoX
+Heading to do a real live talk in front of *real* people! This week’s live stream will therefore be at the end of the day, ~9 hours from now.
+New winners now emailed! They're from Ireland, the US, Italy, Australia and Sweden. Congrats!
+#pwnedmas is powering ahead and the book stash is dwindling. About to draw a bunch of new winners, still a few weeks to run, get on board here: https://t.co/DD8rEssysy https://t.co/eTLJH4CAA5
+@m_i_c_h_a_r Haha, no, details like that aren’t there. You can see the sloping steps in front of the opera house are missing too.
+@Skuldo @ublockorigin Nope, tools like that continue to be part of the problem: https://t.co/EqD1Jdmtqj
+RT @troyhunt: Whoa! At the time, I felt ⁦@Ubiquiti⁩ should have been more transparent in their communication of this breach, I need to go b…
+@ardjongsma @Scott_Helme He obviously hacked that with F12
+@the_jason_lee Ooh, which one? This is just salmon from Charis they sliced up for us on the spot. Been doing that quite a bit, just delicious and healthy.
+Damn I love this food! 🦐 🍣 https://t.co/OCcl7ROgfc
+Next problem: I started off by enabling ironing on all layers (runs the hot end of the printer over already extruded filament to smooth it out). It didn’t look great compared to no ironing (obvious which is which in the pic), so now I’m reprinting the tiles on the right. Ugh. https://t.co/ZZZGrHmVsU
+@Jockular It’s the same argument Max pundits always made. But that’s cool, ChromeOS doesn’t get viruses… until it does. Then something else comes along and someone else is directing these tweets at you 🙂
+@SKDBama No idea, just assuming a recent update fixed it
+Painting, painting, painting… https://t.co/jXKHZMR7RT
+@RiotousRadish @Ubiquiti Geez. But hey, where else have we recently heard from “an anonymous Ubiquiti insider”? Everything to be taken with a grain of salt.
+@Jockular Sounds like “Macs don’t get viruses” 🤣
+@AdamFowler_IT I’m going all in with the full Win 11 experience and will see how I feel about it after a bit
+@OUSAK @Ubiquiti Lesson: don’t try and extort your employer! Or anyone else, for that matter 🙂
+Sanding, sanding, sanding… https://t.co/XgedQePQfS
+Success! Took a cumulative Win 10 update today and after that, the 11 upgrade went just fine. That was a *very* suboptimal experience, but everything seems good now. https://t.co/4MkzrcJ2r3
+@Engrpiman Yep, same in most places, which raises an interesting question: how do you protect against a malicious insider? That’s a hard one.
+So, here's what the wall will look like: original source inspiration (no idea where it's from) and design for my office including wall, ceiling and "nook". This is gonna look awesome 😎 https://t.co/RYE6PZQWYA
+These recommendations really aren't aging well... https://t.co/m6gZhztlhK https://t.co/KOLSWX6wTC
+This is interesting: 6 days before the whistleblower piece, but also begs the question: how was Surfshark VPN linked back to him? Feds could have worked backwards and looked at which Ubiquiti insiders had paid for VPN services, seems like a profoundly dumb thing for him to do. https://t.co/FRLC3tYFfW
+It only takes one slip-up... https://t.co/AM4gdYI3D4  Reminds me of that old saying about defenders needing to get it right all the time and attackers only needing to succeed once. Well, the attacker *also* has to get their opsec right all the time!
+@eduitguy @delumini @Scott_Helme @Ubiquiti I can see multiple factors that would have influenced the way they communicated. However, it's hard to imagine there weren't options that would have mitigated damage further especially as rumours and misinformation ran unchecked.
+Plus, there's the question of how one individual acting alone (AFAIK) managed to wreak such havoc. I imagine that's something they'll be reflecting deeply on and as unpleasant as this is for them, I'd expect it to strengthen their controls and security posture.
+So @Ubiquiti was certainly the victim, but there are still things they could have done differently. The "vacuum of information" comment here is apt (but also, read the thread and see how the "whistleblower" really threw them under the bus) https://t.co/YsGNHEHJAE
+This headline is what really grabbed attention back in March: https://t.co/LntVyy8Odo  Of course @briankrebs couldn't have known at the time that the "whistleblower" was actually the perpetrator and given the guy's internal knowledge, he could have easily appeared authentic.
+Whoa! At the time, I felt ⁦@Ubiquiti⁩ should have been more transparent in their communication of this breach, I need to go back and read what was said then in light of this story. This guy certainly did a number on them. https://t.co/YxoeIYDYHe

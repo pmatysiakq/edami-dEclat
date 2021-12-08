@@ -33,29 +33,28 @@ class dEclat:
     def remove_non_frequent(self, candidates):
         frequent_itemsets = list()
         for candidate in candidates:
-            if candidate.get_supp() >= self.min_supp:
+            if candidate.get_supp() > self.min_supp:
                 frequent_itemsets.append(candidate)
                 self.freq_isets.append(candidate) # Add FI of length 1 as FIs
 
         return frequent_itemsets
 
-    # I'm not sure if it's working properly, yet.
     def declat_algorithm(self, P):
-        candidates = list()
+        T = list()
         for i in range(0, len(P)):
-            candidates_i = list()
+            new_P = list()
             for j in range(i+1, len(P)):
-                r = FI(P[i].get_itemset().union(P[j].get_itemset()))
-                r.difflist = r.difflist.union(calc_difflists(P[i], P[j]))
-                r.supp = (P[i].get_supp() - len(r.difflist))
-                if r.get_supp() >= self.min_supp:
-                    candidates_i.append(r)
+                r = FI((P[i].get_itemset()).union(P[j].get_itemset()))
+                r.set_difflist((r.get_difflist()).union(calc_difflists(P[i], P[j])))
+                r.set_supp(P[i].get_supp() - len(r.get_difflist()))
+                if r.get_supp() > self.min_supp:
+                    new_P.append(r)
                     if r not in self.freq_isets:
                         self.freq_isets.append(r)
-            if len(candidates_i) > 0:
-                candidates.append(candidates_i)
-        for i in range(len(candidates)):
-            self.declat_algorithm(candidates[i])
+            if len(new_P) > 0:
+                T.append(new_P)
+        for i in range(len(T)):
+            self.declat_algorithm(T[i])
 
     # Rediscretization of words. Print and save to text file discovered FIs
     def save_fis(self, file_name):
@@ -71,17 +70,18 @@ class dEclat:
                 array.append([fi.supp, setx])
 
         with open(f"results/fis-{file_name}.txt", "w", encoding='utf-8') as file:
+            file.write(f" -----------------------\n")
             file.write(f" --- min_supp = {self.min_supp} ---\n")
-            file.write(f" --- total_fis = {len(array)} ---\n\n")
+            file.write(f" --- total_fis = {len(array)} ---\n")
+            file.write(f" -----------------------\n\n")
             for supp, setx in sorted(array, reverse=True):
                 if self.show_supp:
-                    file.write(f" --- Supp: {supp} --- FI: {setx}\n")
-                    print(f" --- Supp: {supp} --- FI: {setx}")
+                    file.write(f" #SUP: {supp} | #FI: {setx}\n")
                 else:
-                    file.write(f"FI: {setx}\n")
-                    print(f"FI: {setx}")
+                    file.write(f"#FI: {setx}\n")
 
-        print(f"\nSAVED TO FILE \"results/fis-{file_name}.txt\"")
+        print(f"FOUND {len(array)} Frequent Itemsets")
+        print(f"SAVED TO FILE \"results/fis-{file_name}.txt\"")
 
     def run_declat(self, save_fis=True, out_name="output", spmf_file=True, spmf_name="std_db.txt"):
         self.declat_algorithm(self.initial_dataset)

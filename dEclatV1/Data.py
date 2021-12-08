@@ -1,10 +1,10 @@
-import re, tweepy, os
+import re
 
 
 class Data:
 
-    def __init__(self, user):
-        self.data_path = Data.get_twitts(user)  # This may be divided into two steps: 1 - get tweets, 2 - load from file
+    def __init__(self, data_path):
+        self.data_path = data_path
         self.database = self.create_database()
         self.unique_words = self.get_unique_words()
         self.discretized_data = self.disc_data()
@@ -73,7 +73,7 @@ class Data:
 
         return d_data
 
-    def save_db_in_standard_format(self):
+    def save_db_in_standard_format(self, file_name):
         """
         Save data in standard format to test with spmf
 
@@ -84,39 +84,8 @@ class Data:
         """
         db = self.discretized_data
 
-        with open("std_db.txt", 'w', encoding='utf-8') as file:
+        with open(f"spmf_data/{file_name}.txt", 'w', encoding='utf-8') as file:
             for tweet in db:
                 for word in tweet[1]:
                     file.write(str(word) + " ")
                 file.write("\n")
-
-    # This method need to be adjusted in a way, that we can fetch more than 200 tweets
-    # We should also consider to fetch data before running algorithm and then load data
-    # from text file.
-    @staticmethod
-    def get_twitts(user):
-        # You have to export environment variables to authenticate to the API
-        consumer_key = os.environ["CONSUMER_KEY"]
-        consumer_secret = os.environ["CONSUMER_SECRET"]
-        bearer_token = os.environ["BEARER_TOKEN"]
-        access_token = os.environ["ACCESS_TOKEN"]
-        access_token_secret = os.environ["ACCESS_TOKEN_SECRET"]
-
-        auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-        auth.set_access_token(access_token, access_token_secret)
-
-        api = tweepy.API(auth)
-
-        while True:
-            tweets = api.user_timeline(screen_name=user, count=200, tweet_mode='extended')
-            file_name = f"data/tweets-{user}.txt"
-            with open(file_name, "w", encoding='utf-8') as file:
-                i = 1
-                for tweet in tweets:
-                    tweet_text = tweet.full_text.replace("\n", " ")
-                    file.write(f"{tweet_text}\n")
-                    i += 1
-            if len(tweets) >= 200:
-                print(f"LOG::GetTwitterData:: Tweets count: {len(tweets)}")
-                break
-        return file_name

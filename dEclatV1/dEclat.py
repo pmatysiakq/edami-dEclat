@@ -1,11 +1,11 @@
 from Data import *
 from FI import *
+from Helpers import calc_difflists
 
 
 class dEclat:
-    def __init__(self, user, min_supp, show_supp=False):
-        self.user = user
-        self.data = Data(user)
+    def __init__(self, data_path, min_supp, show_supp=False):
+        self.data = Data(data_path)
         self.min_supp = min_supp
         self.freq_isets = list()
         self.initial_dataset = self.create_initial_itemsets()
@@ -30,10 +30,6 @@ class dEclat:
 
         return initial_fi
 
-    @staticmethod
-    def calc_difflists(set_A: FI, set_B: FI):
-        return set_B.difflist.difference(set_A.difflist)
-
     def remove_non_frequent(self, candidates):
         frequent_itemsets = list()
         for candidate in candidates:
@@ -44,13 +40,13 @@ class dEclat:
         return frequent_itemsets
 
     # I'm not sure if it's working properly, yet.
-    def run_declat(self, P):
+    def declat_algorithm(self, P):
         candidates = list()
         for i in range(0, len(P)):
             candidates_i = list()
             for j in range(i+1, len(P)):
                 r = FI(P[i].get_itemset().union(P[j].get_itemset()))
-                r.difflist = r.difflist.union(self.calc_difflists(P[i], P[j]))
+                r.difflist = r.difflist.union(calc_difflists(P[i], P[j]))
                 r.supp = (P[i].get_supp() - len(r.difflist))
                 if r.get_supp() >= self.min_supp:
                     candidates_i.append(r)
@@ -59,10 +55,10 @@ class dEclat:
             if len(candidates_i) > 0:
                 candidates.append(candidates_i)
         for i in range(len(candidates)):
-            self.run_declat(candidates[i])
+            self.declat_algorithm(candidates[i])
 
     # Rediscretization of words. Print and save to text file discovered FIs
-    def save_fis(self):
+    def save_fis(self, file_name):
         fis = self.freq_isets
         array = list()
         for fi in fis:
@@ -74,14 +70,22 @@ class dEclat:
             if [fi.supp, setx] not in array:
                 array.append([fi.supp, setx])
 
-        with open(f"results/fis-{self.user}.txt", "w", encoding='utf-8') as file:
+        with open(f"results/fis-{file_name}.txt", "w", encoding='utf-8') as file:
+            file.write(f" --- min_supp = {self.min_supp} ---\n")
+            file.write(f" --- total_fis = {len(array)} ---\n\n")
             for supp, setx in sorted(array, reverse=True):
                 if self.show_supp:
-                    file.write(f" --- Support: {supp} --- FI: {setx}\n")
-                    print(f" --- Support: {supp} --- FI: {setx}")
+                    file.write(f" --- Supp: {supp} --- FI: {setx}\n")
+                    print(f" --- Supp: {supp} --- FI: {setx}")
                 else:
                     file.write(f"FI: {setx}\n")
                     print(f"FI: {setx}")
 
-        print(f"\nSAVED TO FILE \"results/fis-{self.user}.txt\"")
+        print(f"\nSAVED TO FILE \"results/fis-{file_name}.txt\"")
 
+    def run_declat(self, save_fis=True, out_name="output", spmf_file=True, spmf_name="std_db.txt"):
+        self.declat_algorithm(self.initial_dataset)
+        if save_fis:
+            self.save_fis(out_name)
+        if spmf_file:
+            self.data.save_db_in_standard_format(spmf_name)

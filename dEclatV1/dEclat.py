@@ -4,7 +4,8 @@ from Helpers import calc_difflists
 
 
 class dEclat:
-    def __init__(self, data_path, min_supp, show_supp=False):
+    def __init__(self, data_path, min_supp, show_supp=False, show_one_elem_fi=True):
+        self.one_elem_fi = show_one_elem_fi
         self.data = Data(data_path)
         self.min_supp = min_supp
         self.freq_isets = list()
@@ -35,7 +36,8 @@ class dEclat:
         for candidate in candidates:
             if candidate.get_supp() > self.min_supp:
                 frequent_itemsets.append(candidate)
-                self.freq_isets.append(candidate) # Add FI of length 1 as FIs
+                if self.one_elem_fi:
+                    self.freq_isets.append(candidate) # Add FI of length 1 as FIs
 
         return frequent_itemsets
 

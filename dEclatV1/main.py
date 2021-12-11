@@ -21,20 +21,20 @@ def generate_data():
     # search_tweets_by_tags(words, "covid")
 
 
-def main():
+def main(data_path, min_supp, show_supp, show_one_elem_fi, save_fis, out_name, spmf_file, spmf_name):
 
     tracemalloc.start()
     start_time = time.time()
 
-    declat = dEclat(data_path=r"data/db-5g.txt",
-                    min_supp=20,    # elements, not percentage
-                    show_supp=True,
-                    show_one_elem_fi=False)
+    declat = dEclat(data_path=data_path,
+                    min_supp=min_supp,    # elements, not percentage
+                    show_supp=show_supp,
+                    show_one_elem_fi=show_one_elem_fi)
 
-    declat.run_declat(save_fis=True,
-                      out_name="output-5g",
-                      spmf_file=True,
-                      spmf_name="spmf-transactions-5g")
+    declat.run_declat(save_fis=save_fis,
+                      out_name=out_name,
+                      spmf_file=spmf_file,
+                      spmf_name=spmf_name)
 
     end_time = time.time()
     _, peak_memory_usage = tracemalloc.get_traced_memory()
@@ -48,5 +48,13 @@ if __name__ == "__main__":
 
     generate_data()
 
-    memory, exec_time = main()
+    memory, exec_time = main(data_path=r"data/db-covid.txt",
+                             min_supp=20,
+                             show_supp=True,
+                             show_one_elem_fi=True,
+                             save_fis=True,
+                             out_name="output-covid",
+                             spmf_file=True,
+                             spmf_name="spmf-transactions-covid")
+
     print(f"Maximum memory usage: {memory * 0.000001} Megabytes.\nTotal time ~ {exec_time} seconds.")

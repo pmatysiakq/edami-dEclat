@@ -15,6 +15,7 @@ def tweepy_auth():
 
     return api
 
+
 def get_200_tweets_by_user(user_name):
 
     api = tweepy_auth()

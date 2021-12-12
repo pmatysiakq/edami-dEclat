@@ -4,22 +4,21 @@ import tracemalloc, time
 
 def generate_data():
     pass
-    # get_200_tweets("BBCWorld")
-    # get_200_tweets("CNN")
-    # get_200_tweets("elonmusk")
-    # get_200_tweets("Meta")
-    # get_200_tweets("troyhunt")
+#get_200_tweets("BBCWorld")
+#get_200_tweets("CNN")
+#get_200_tweets("elonmusk")
+#get_200_tweets("Meta")
+#get_200_tweets("troyhunt")
 
-    # words = ["covid", "vaccine", "covid-19", "quarantine", "restrictions", "phizer", "moderna", "astrazeneca",
-    #          "fake covid", "wuhan", "coronavirus", "health", "pandemic", "virus", "corona", "stayhome", "lockdown",
-    #          "unvaccinated", "omicron", "sars-cov-2", "death", "antibodies", "plandemic"]
+words = ["covid", "vaccine", "covid-19", "quarantine", "restrictions", "phizer", "moderna", "astrazeneca",
+"fake covid", "wuhan", "coronavirus", "health", "pandemic", "virus", "corona", "stayhome", "lockdown",
+"unvaccinated", "omicron", "sars-cov-2", "death", "antibodies", "plandemic"]
     #
-    # search_tweets_by_tags(words, "covid")
+search_tweets_by_tags(words, "covid")
 
-    # words = ["covid fake plandemic", "covid-19 planned government", "fake covid sard-cov-2 pandemic", "covid-19 safe propaganda",
-    #          "sars covid", "covid flatten earth", "virus omicron holidays"]
-    # search_tweets_by_tags(words, "covid")
-
+words = ["covid fake plandemic", "covid-19 planned government", "fake covid sard-cov-2 pandemic", "covid-19 safe propaganda",
+"sars covid", "covid flatten earth", "virus omicron holidays"]
+search_tweets_by_tags(words, "covid")
 
 def main(data_path, min_supp, show_supp, show_one_elem_fi, save_fis, out_name, spmf_file, spmf_name):
 
@@ -53,7 +52,7 @@ if __name__ == "__main__":
                              show_supp=True,
                              show_one_elem_fi=True,
                              save_fis=True,
-                             out_name="output-covid",
+                             out_name="output-covid1",
                              spmf_file=True,
                              spmf_name="spmf-transactions-covid")
 

@@ -12,7 +12,7 @@ def generate_data():
 
 words = ["covid", "vaccine", "covid-19", "quarantine", "restrictions", "phizer", "moderna", "astrazeneca",
 "fake covid", "wuhan", "coronavirus", "health", "pandemic", "virus", "corona", "lockdown",
-"unvaccinated", "omicron", "sars-cov-2", "death", "antibodies", "plandemic","idiots","fear","happiness"]
+"unvaccinated", "omicron", "sars-cov-2", "death", "antibodies", "plandemic","government idiots","fear","happiness"]
     #
 search_tweets_by_tags(words, "covid")
 
@@ -52,7 +52,7 @@ if __name__ == "__main__":
                              show_supp=True,
                              show_one_elem_fi=True,
                              save_fis=True,
-                             out_name="output-covid1",
+                             out_name="output-covidtry1",
                              spmf_file=True,
                              spmf_name="spmf-transactions-covid")
 

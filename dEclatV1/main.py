@@ -11,14 +11,14 @@ def generate_data():
 #get_200_tweets("troyhunt")
 
 words = ["covid", "vaccine", "covid-19", "quarantine", "restrictions", "phizer", "moderna", "astrazeneca",
-"fake covid", "wuhan", "coronavirus", "health", "pandemic", "virus", "corona", "stayhome", "lockdown",
-"unvaccinated", "omicron", "sars-cov-2", "death", "antibodies", "plandemic"]
+"fake covid", "wuhan", "coronavirus", "health", "pandemic", "virus", "corona", "lockdown",
+"unvaccinated", "omicron", "sars-cov-2", "death", "antibodies", "plandemic","idiots","fear","happiness"]
     #
 search_tweets_by_tags(words, "covid")
 
-words = ["covid fake plandemic", "covid-19 planned government", "fake covid sard-cov-2 pandemic", "covid-19 safe propaganda",
-"sars covid", "covid flatten earth", "virus omicron holidays"]
-search_tweets_by_tags(words, "covid")
+#words = ["covid fake plandemic", "covid-19 planned government", "fake covid sard-cov-2 pandemic", "covid-19 safe propaganda",
+#"sars covid", "covid flatten earth", "virus omicron holidays"]
+#search_tweets_by_tags(words, "covid")
 
 def main(data_path, min_supp, show_supp, show_one_elem_fi, save_fis, out_name, spmf_file, spmf_name):
 

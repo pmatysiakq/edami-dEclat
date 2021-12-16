@@ -21,11 +21,11 @@ class Data:
             tweet = tweet.strip()
             tweet = tweet.split()
             for i in range(len(tweet)):
-                tweet[i] = tweet[i].strip("!#$%^&*(){}[];:\"\\,./<>?|“")
+                tweet[i] = tweet[i].strip("!#$%^&*(){}[];:\"\\,./<>?|")
             for word in tweet:
                 if re.match("^[a-zA-Z]|$[a-zA-Z]", word):
-                    # How long the single word should be - we don't find len(word) < 3 interesting
-                    if word not in temp_tweet and len(word) >= 3:
+                    # How long the single word should be - we don't find len(word) =< 3 interesting
+                    if word not in temp_tweet and len(word) > 3:
                         temp_tweet.append(word.lower())
             # Accept tweets composed of at least 2 words
             if len(temp_tweet) >= 2:

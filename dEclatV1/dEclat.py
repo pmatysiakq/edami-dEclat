@@ -4,14 +4,15 @@ from Helpers import calc_difflists
 
 
 class dEclat:
-    def __init__(self, data_path, min_supp, show_supp=False, show_one_elem_fi=True):
+    def __init__(self, data: Data, min_supp, show_supp=False, show_one_elem_fi=True):
         self.one_elem_fi = show_one_elem_fi
-        self.data = Data(data_path)
+        self.data = data
         self.min_supp = min_supp
         self.freq_isets = list()
         self.initial_dataset = self.create_initial_itemsets()
         self.show_supp = show_supp
 
+    # This method is slow, because it's burte-force. TODO
     def create_initial_itemsets(self):
         data = self.data.unique_numbers
         tweets = self.data.discretized_data
@@ -26,9 +27,7 @@ class dEclat:
                     candidate.increment_supp()
                 else:
                     candidate.difflist.add(tweet[0])
-
         initial_fi = self.remove_non_frequent(candidates)
-
         return initial_fi
 
     def remove_non_frequent(self, candidates):
@@ -42,6 +41,7 @@ class dEclat:
         return frequent_itemsets
 
     def declat_algorithm(self, P):
+        print("Start")
         T = list()
         for i in range(0, len(P)):
             new_P = list()
@@ -57,6 +57,7 @@ class dEclat:
                 T.append(new_P)
         for i in range(len(T)):
             self.declat_algorithm(T[i])
+        print("END")
 
     # Rediscretization of words. Print and save to text file discovered FIs
     def save_fis(self, file_name):

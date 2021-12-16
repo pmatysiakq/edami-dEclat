@@ -55,3 +55,15 @@ def search_tweets_by_tags(tag_list, db_name="tweets"):
 
 def calc_difflists(set_A: FI, set_B: FI):
     return set_B.difflist.difference(set_A.difflist)
+
+# Fetch tweets text from trump.csv database.. Source: Kaggle
+def parse_trump_dataset():
+    with open("data/trump.csv", "r", encoding="utf-8") as trumpy:
+        for line in trumpy.readlines():
+            with open("data/trump-tweets.txt", "a", encoding='utf-8') as file:
+                try:
+                    file.write(line.split(",")[4].strip("\n"))
+                    file.write("\n")
+                except Exception as e:
+                    print(f"Couldn't save line. Exception: {e}")
+

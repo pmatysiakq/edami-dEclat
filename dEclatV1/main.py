@@ -21,15 +21,19 @@ def generate_data():
     # search_tweets_by_tags(words, "covid")
 
 
-def main(data_path, min_supp, show_supp, show_one_elem_fi, save_fis, out_name, spmf_file, spmf_name):
+def main(data, min_supp, show_supp, show_one_elem_fi, save_fis, out_name, spmf_file, spmf_name):
 
-    tracemalloc.start()
-    start_time = time.time()
 
-    declat = dEclat(data_path=data_path,
+
+    declat = dEclat(data=data,
                     min_supp=min_supp,    # elements, not percentage
                     show_supp=show_supp,
                     show_one_elem_fi=show_one_elem_fi)
+
+    # Start time and memory tracking after initial data is created. It's cheating.
+    # TODO
+    tracemalloc.start()
+    start_time = time.time()
 
     declat.run_declat(save_fis=save_fis,
                       out_name=out_name,
@@ -46,15 +50,19 @@ def main(data_path, min_supp, show_supp, show_one_elem_fi, save_fis, out_name, s
 
 if __name__ == "__main__":
 
-    generate_data()
+    # generate_data()
 
-    memory, exec_time = main(data_path=r"data/db-covid.txt",
-                             min_supp=20,
+    # Load data before running FI mining
+    data = Data(r"data/trump-tweets.txt")
+    print("---> Data loaded")
+
+    memory, exec_time = main(data=data,
+                             min_supp=300,
                              show_supp=True,
-                             show_one_elem_fi=True,
+                             show_one_elem_fi=False,
                              save_fis=True,
-                             out_name="output-covid",
+                             out_name="output-trump",
                              spmf_file=True,
-                             spmf_name="spmf-transactions-covid")
+                             spmf_name="spmf-transactions-trump")
 
     print(f"Maximum memory usage: {memory * 0.000001} Megabytes.\nTotal time ~ {exec_time} seconds.")

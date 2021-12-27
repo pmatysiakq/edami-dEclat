@@ -6,8 +6,8 @@ class Eclat:
     def __init__(self):
         self.minsup_relative: int
         self.database: TransactionDatabase
-        self.start_time_stamp = 0
-        self.endTime = 0
+        self.start_timestamp = 0
+        self.end_timestamp = 0
         self.frequent_itemsets = []
         self.itemset_count = 0
         self.BUFFER_SIZE = 2000
@@ -18,10 +18,17 @@ class Eclat:
         self.peak_memory = None
 
     def run_algorithm(self, output: str, database: TransactionDatabase, minsupp: float):
+        """
+
+        :param output:
+        :param database:
+        :param minsupp:
+        :return: (start_time, end_time, memory, database.size, fi.size)
+        """
         self.output_file = open(output, "w")
         self.itemset_count = 0
         self.database = database
-        self.start_time_stamp = time.time()
+        self.start_timestamp = time.time()
         self.minsup_relative = int(math.ceil(minsupp * database.size))
 
         tracemalloc.start()
@@ -77,13 +84,13 @@ class Eclat:
                         self.itemset_buffer[0] = item_I
                     self.process_equivalence_class(self.itemset_buffer, 1, support_I,
                                                    equivalence_class_I_items, equivalence_class_I_tidsets)
-        self.endTime = time.time()
+        self.end_timestamp = time.time()
         self.output_file.close()
 
         _, self.peak_memory = tracemalloc.get_traced_memory()
         tracemalloc.stop()
 
-        return self.frequent_itemsets
+        return self.start_timestamp, self.end_timestamp, self.peak_memory, self.database.size, len(frequent_items)
 
     def process_equivalence_class(self, prefix: [], prefix_length: int, support_prefix: int,
                                   equivalence_class_items: [], equivalence_class_tidsets: []):
@@ -214,25 +221,42 @@ class Eclat:
 
     def print_stats(self):
         print("\n=============  dECLAT Based on SPMF Java implemetation - STATS =============")
-        temp = self.endTime - self.start_time_stamp
+        temp = self.end_timestamp - self.start_timestamp
         print(f" Transactions count from database: {self.database.size}")
         print(f" Frequent itemsets count: {self.itemset_count}")
         print(f" Total time ~ {temp * 100} ms")
         print(f" Maximum memory usage: {self.peak_memory * 0.000001} mb")
         print("===========================================================================")
 
+    def perform_experiment(self):
+        sup_values = [0.1, 0.08, 0.06, 0.04, 0.02, 0.008, 0.006, 0.004, 0.002, 0.0015, 0.0013, 0.0012, 0.0011]
+        results = open("../results/trump-experiment.csv", "w", encoding="utf-8")
+        input = "../input_data/trump-transactions.txt"
+        database = TransactionDatabase(file_path=input)
+        results.write("min_sup,total_time,peak_memory,db_size,fis_count")
+        for sup in sup_values:
+            output = f"../output/output-declat-{sup}.txt"
+            start_time, end_time, memory, db_size, fi_count = self.run_algorithm(output=output, database=database, minsupp=sup)
+            total_time = end_time - start_time
+            results.write(f"\n{sup},{total_time},{memory},{db_size},{fi_count}")
+            database.translate_integers_into_words(file_path=output)
+        results.close()
+
 
 if __name__ == "__main__":
-    input = "../input_data/elonmusk-transactions.txt"
-    # input = "../input_data/covid-transactions.txt"
-    # input = "../input_data/trump-transactions.txt"
-    output = "../output/output-declat.txt"
-    min_supp = 0.1
-
-    database = TransactionDatabase(file_path=input)
+    # input = "../input_data/elonmusk-transactions.txt"
+    # # input = "../input_data/covid-transactions.txt"
+    # # input = "../input_data/trump-transactions.txt"
+    # output = "../output/output-declat.txt"
+    # min_supp = 0.1
+    #
+    # database = TransactionDatabase(file_path=input)
+    #
+    # eclat = Eclat()
+    # eclat.run_algorithm(output=output, database=database, minsupp=min_supp)
+    # eclat.print_stats()
+    #
+    # database.translate_integers_into_words(file_path=output)
 
     eclat = Eclat()
-    eclat.run_algorithm(output=output, database=database, minsupp=min_supp)
-    eclat.print_stats()
-
-    database.translate_integers_into_words(file_path=output)
+    eclat.perform_experiment()

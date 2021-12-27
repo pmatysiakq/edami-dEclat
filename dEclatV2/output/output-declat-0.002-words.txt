@@ -1,0 +1,5150 @@
+believe #SUP: 151
+fool #SUP: 24
+this #SUP: 690
+action #SUP: 38
+again #SUP: 140
+america #SUP: 106
+back #SUP: 168
+bring #SUP: 30
+great #SUP: 589
+make #SUP: 172
+never #SUP: 475
+politicians #SUP: 39
+talk #SUP: 89
+they #SUP: 1142
+time #SUP: 274
+today #SUP: 130
+baltimore #SUP: 24
+destroyed #SUP: 29
+didn't #SUP: 26
+have #SUP: 961
+it's #SUP: 35
+jobs #SUP: 61
+like #SUP: 355
+needs #SUP: 25
+politician #SUP: 61
+said #SUP: 289
+that #SUP: 1667
+calls #SUP: 23
+high #SUP: 72
+looking #SUP: 118
+numbers #SUP: 94
+poll #SUP: 115
+reporter #SUP: 26
+then #SUP: 63
+told #SUP: 60
+when #SUP: 376
+dead #SUP: 65
+disaster #SUP: 160
+just #SUP: 629
+ratings #SUP: 222
+really #SUP: 232
+wallace #SUP: 24
+better #SUP: 94
+herself #SUP: 23
+than #SUP: 337
+with #SUP: 953
+dopey #SUP: 30
+hear #SUP: 45
+political #SUP: 127
+florida #SUP: 38
+governor #SUP: 133
+hope #SUP: 57
+morning #SUP: 68
+poorly #SUP: 60
+television #SUP: 37
+bush #SUP: 46
+court #SUP: 63
+down #SUP: 190
+hard #SUP: 151
+john #SUP: 126
+justice #SUP: 62
+once #SUP: 45
+remember #SUP: 88
+supreme #SUP: 38
+about #SUP: 506
+does #SUP: 139
+government #SUP: 63
+mexico #SUP: 55
+more #SUP: 345
+love #SUP: 46
+people #SUP: 689
+those #SUP: 60
+want #SUP: 282
+couldn’t #SUP: 20
+didn’t #SUP: 123
+elected #SUP: 32
+interesting #SUP: 22
+paid #SUP: 63
+fine #SUP: 19
+over #SUP: 210
+place #SUP: 90
+calling #SUP: 20
+credit #SUP: 24
+dropped #SUP: 31
+many #SUP: 364
+stock #SUP: 26
+thank #SUP: 117
+their #SUP: 503
+against #SUP: 244
+brought #SUP: 33
+charges #SUP: 28
+doesn’t #SUP: 110
+horrible #SUP: 88
+somebody #SUP: 19
+terrible #SUP: 147
+ineffective #SUP: 30
+iran #SUP: 59
+leadership #SUP: 41
+obama #SUP: 144
+weak #SUP: 148
+absolutely #SUP: 57
+border #SUP: 119
+control #SUP: 60
+disgraceful #SUP: 32
+need #SUP: 65
+security #SUP: 70
+southern #SUP: 35
+totally #SUP: 353
+please #SUP: 33
+speak #SUP: 21
+wanted #SUP: 56
+well #SUP: 84
+crimes #SUP: 27
+failed #SUP: 170
+illegal #SUP: 159
+immigrants #SUP: 27
+laws #SUP: 42
+says #SUP: 52
+will #SUP: 762
+become #SUP: 73
+country #SUP: 405
+fast #SUP: 48
+last #SUP: 192
+stop #SUP: 103
+were #SUP: 243
+thousands #SUP: 36
+best #SUP: 76
+highly #SUP: 77
+overrated #SUP: 21
+republican #SUP: 174
+what #SUP: 372
+years #SUP: 256
+boring #SUP: 67
+speech #SUP: 51
+deals #SUP: 29
+dummy #SUP: 25
+failing #SUP: 316
+from #SUP: 393
+look #SUP: 146
+magazine #SUP: 39
+such #SUP: 127
+works #SUP: 19
+deal #SUP: 139
+means #SUP: 31
+nothing #SUP: 447
+still #SUP: 52
+trump #SUP: 233
+constantly #SUP: 33
+level #SUP: 42
+lowest #SUP: 25
+military #SUP: 49
+republicans #SUP: 176
+continues #SUP: 41
+doing #SUP: 275
+nuclear #SUP: 21
+things #SUP: 104
+while #SUP: 118
+announced #SUP: 31
+everyone #SUP: 47
+getting #SUP: 116
+something #SUP: 63
+anyone #SUP: 70
+badly #SUP: 152
+enough #SUP: 32
+funny #SUP: 72
+money #SUP: 135
+much #SUP: 283
+seen #SUP: 67
+biggest #SUP: 67
+corruption #SUP: 45
+drug #SUP: 32
+jail #SUP: 22
+paying #SUP: 29
+eyes #SUP: 32
+fail #SUP: 28
+meet #SUP: 27
+pathetic #SUP: 66
+press #SUP: 73
+watching #SUP: 100
+can't #SUP: 67
+fired #SUP: 95
+imagine #SUP: 24
+long #SUP: 138
+sleepy #SUP: 201
+taking #SUP: 45
+crime #SUP: 153
+billion #SUP: 35
+corrupt #SUP: 270
+looks #SUP: 40
+them #SUP: 250
+don't #SUP: 82
+play #SUP: 33
+lost #SUP: 137
+spent #SUP: 51
+credibility #SUP: 86
+should #SUP: 446
+himself #SUP: 41
+made #SUP: 280
+zero #SUP: 84
+show #SUP: 151
+chance #SUP: 35
+firing #SUP: 22
+letter #SUP: 19
+wrote #SUP: 52
+loser #SUP: 71
+million #SUP: 61
+total #SUP: 244
+wasted #SUP: 26
+worst #SUP: 128
+congress #SUP: 141
+must #SUP: 194
+national #SUP: 62
+stand #SUP: 31
+doesn't #SUP: 63
+gave #SUP: 64
+understand #SUP: 35
+word #SUP: 28
+allowed #SUP: 72
+before #SUP: 151
+being #SUP: 256
+debate #SUP: 123
+forced #SUP: 43
+take #SUP: 103
+cover #SUP: 36
+liberal #SUP: 44
+losing #SUP: 49
+post #SUP: 134
+crazy #SUP: 241
+only #SUP: 312
+stories #SUP: 127
+write #SUP: 40
+right #SUP: 119
+after #SUP: 171
+dumb #SUP: 66
+care #SUP: 45
+lives #SUP: 26
+mccain #SUP: 23
+possible #SUP: 85
+situation #SUP: 20
+anybody #SUP: 19
+been #SUP: 450
+easily #SUP: 45
+election #SUP: 311
+would #SUP: 309
+quickly #SUP: 28
+treated #SUP: 31
+administration #SUP: 75
+done #SUP: 222
+help #SUP: 62
+ever #SUP: 160
+which #SUP: 159
+incompetent #SUP: 70
+point #SUP: 32
+soon #SUP: 38
+where #SUP: 80
+small #SUP: 39
+ashamed #SUP: 26
+since #SUP: 69
+real #SUP: 109
+reporters #SUP: 35
+steve #SUP: 33
+thanks #SUP: 23
+going #SUP: 262
+newspaper #SUP: 28
+phone #SUP: 22
+york #SUP: 188
+came #SUP: 54
+interest #SUP: 52
+knows #SUP: 53
+office #SUP: 61
+save #SUP: 19
+work #SUP: 153
+anti-trump #SUP: 32
+talking #SUP: 72
+waste #SUP: 33
+clue #SUP: 49
+stupid #SUP: 36
+don’t #SUP: 231
+there #SUP: 281
+scandal #SUP: 32
+event #SUP: 24
+iowa #SUP: 30
+seriously #SUP: 24
+team #SUP: 28
+coming #SUP: 64
+despite #SUP: 125
+give #SUP: 64
+your #SUP: 137
+gone #SUP: 91
+think #SUP: 90
+mention #SUP: 30
+rate #SUP: 53
+success #SUP: 34
+mayor #SUP: 72
+making #SUP: 60
+dangerous #SUP: 41
+dumbest #SUP: 25
+history #SUP: 174
+into #SUP: 121
+leader #SUP: 35
+most #SUP: 157
+borders #SUP: 35
+nation #SUP: 36
+wall #SUP: 105
+without #SUP: 57
+also #SUP: 127
+case #SUP: 97
+lawyer #SUP: 57
+legal #SUP: 19
+beat #SUP: 40
+easy #SUP: 29
+elizabeth #SUP: 76
+happy #SUP: 45
+results #SUP: 29
+donald #SUP: 22
+know #SUP: 147
+media #SUP: 745
+though #SUP: 27
+lies #SUP: 112
+majority #SUP: 19
+millions #SUP: 45
+truly #SUP: 55
+hurt #SUP: 29
+others #SUP: 94
+hates #SUP: 21
+wrong #SUP: 162
+polls #SUP: 144
+speaking #SUP: 20
+raise #SUP: 23
+taxes #SUP: 42
+california #SUP: 31
+candidates #SUP: 26
+good #SUP: 201
+wish #SUP: 20
+false #SUP: 150
+story #SUP: 234
+every #SUP: 80
+find #SUP: 49
+massive #SUP: 100
+tonight #SUP: 34
+even #SUP: 330
+highest #SUP: 37
+hatred #SUP: 50
+correct #SUP: 33
+energy #SUP: 51
+wasting #SUP: 27
+almost #SUP: 94
+fighting #SUP: 35
+support #SUP: 33
+angry #SUP: 107
+very #SUP: 625
+networks #SUP: 50
+other #SUP: 219
+paul #SUP: 38
+senator #SUP: 126
+immigration #SUP: 92
+worse #SUP: 109
+running #SUP: 70
+force #SUP: 45
+lead #SUP: 25
+least #SUP: 41
+world #SUP: 99
+change #SUP: 55
+fraudulent #SUP: 66
+president #SUP: 327
+tired #SUP: 26
+keep #SUP: 62
+apologize #SUP: 45
+statement #SUP: 67
+cannot #SUP: 38
+criminals #SUP: 20
+news #SUP: 1159
+report #SUP: 191
+public #SUP: 43
+reporting #SUP: 169
+inaccurately #SUP: 20
+bernie #SUP: 136
+sanders #SUP: 88
+different #SUP: 19
+left #SUP: 238
+another #SUP: 169
+campaign #SUP: 155
+candidate #SUP: 69
+always #SUP: 115
+romney #SUP: 51
+winning #SUP: 38
+anymore #SUP: 38
+yesterday #SUP: 69
+asked #SUP: 51
+next #SUP: 39
+hillary #SUP: 578
+nasty #SUP: 30
+phony #SUP: 180
+washington #SUP: 146
+both #SUP: 53
+events #SUP: 23
+turning #SUP: 19
+forward #SUP: 31
+rally #SUP: 24
+crowd #SUP: 42
+night #SUP: 151
+strength #SUP: 21
+wonderful #SUP: 48
+words #SUP: 35
+went #SUP: 60
+tomorrow #SUP: 21
+subject #SUP: 25
+embarrassed #SUP: 23
+focus #SUP: 29
+lightweight #SUP: 67
+state #SUP: 162
+trying #SUP: 97
+someone #SUP: 20
+little #SUP: 122
+respected #SUP: 27
+around #SUP: 37
+thing #SUP: 80
+marco #SUP: 63
+rubio #SUP: 74
+goes #SUP: 22
+notice #SUP: 19
+unfair #SUP: 59
+future #SUP: 22
+shows #SUP: 75
+won't #SUP: 19
+dishonest #SUP: 220
+refused #SUP: 24
+watched #SUP: 94
+called #SUP: 78
+including #SUP: 35
+allow #SUP: 51
+bill #SUP: 84
+rarely #SUP: 21
+record #SUP: 78
+vote #SUP: 121
+gang #SUP: 26
+senate #SUP: 118
+special #SUP: 51
+voting #SUP: 43
+because #SUP: 287
+party #SUP: 173
+saying #SUP: 67
+asking #SUP: 46
+crooked #SUP: 478
+given #SUP: 69
+book #SUP: 109
+mitt #SUP: 38
+wonder #SUP: 38
+some #SUP: 95
+refuse #SUP: 30
+seems #SUP: 22
+speaks #SUP: 19
+wacky #SUP: 30
+trouble #SUP: 23
+else #SUP: 26
+happen #SUP: 49
+mess #SUP: 78
+past #SUP: 48
+read #SUP: 53
+congratulations #SUP: 46
+heard #SUP: 41
+important #SUP: 40
+agree #SUP: 19
+dollars #SUP: 81
+puppet #SUP: 51
+china #SUP: 136
+russia #SUP: 192
+live #SUP: 40
+major #SUP: 73
+ridiculous #SUP: 92
+order #SUP: 83
+pushing #SUP: 42
+longer #SUP: 47
+able #SUP: 44
+third #SUP: 40
+whose #SUP: 23
+presidential #SUP: 146
+blew #SUP: 24
+changed #SUP: 31
+amazing #SUP: 43
+journal #SUP: 20
+street #SUP: 40
+supporters #SUP: 24
+watch #SUP: 147
+carson #SUP: 20
+biden #SUP: 266
+decision #SUP: 36
+family #SUP: 33
+person #SUP: 61
+countries #SUP: 55
+between #SUP: 41
+maybe #SUP: 27
+disgrace #SUP: 54
+scam #SUP: 96
+super #SUP: 33
+immediately #SUP: 24
+number #SUP: 25
+inaccurate #SUP: 62
+poor #SUP: 52
+purposely #SUP: 61
+polling #SUP: 41
+prior #SUP: 19
+start #SUP: 42
+losers #SUP: 22
+politics #SUP: 54
+slanted #SUP: 21
+check #SUP: 46
+system #SUP: 68
+clinton #SUP: 320
+isis #SUP: 37
+looked #SUP: 22
+matter #SUP: 44
+loves #SUP: 19
+debates #SUP: 28
+question #SUP: 22
+setting #SUP: 21
+these #SUP: 115
+business #SUP: 38
+tell #SUP: 43
+call #SUP: 123
+rated #SUP: 29
+kasich #SUP: 25
+thought #SUP: 55
+months #SUP: 25
+could #SUP: 98
+facts #SUP: 67
+kind #SUP: 25
+desperate #SUP: 40
+instead #SUP: 28
+negative #SUP: 61
+likes #SUP: 32
+article #SUP: 21
+piece #SUP: 23
+states #SUP: 146
+nice #SUP: 38
+probably #SUP: 26
+chris #SUP: 30
+companies #SUP: 39
+wouldn’t #SUP: 23
+favor #SUP: 21
+incorrect #SUP: 20
+smart #SUP: 38
+trade #SUP: 59
+biased #SUP: 76
+mistake #SUP: 31
+paper #SUP: 25
+same #SUP: 67
+establishment #SUP: 20
+part #SUP: 45
+problem #SUP: 81
+showing #SUP: 35
+strong #SUP: 47
+concerning #SUP: 21
+life #SUP: 25
+statements #SUP: 47
+tough #SUP: 35
+attack #SUP: 20
+hours #SUP: 20
+interview #SUP: 30
+gotten #SUP: 35
+close #SUP: 44
+sloppy #SUP: 24
+fight #SUP: 44
+happened #SUP: 44
+journalism #SUP: 20
+foreign #SUP: 39
+policy #SUP: 22
+broken #SUP: 19
+he’s #SUP: 45
+beginning #SUP: 31
+nobody #SUP: 52
+rates #SUP: 24
+building #SUP: 19
+through #SUP: 55
+obamacare #SUP: 80
+director #SUP: 27
+leaders #SUP: 32
+thugs #SUP: 22
+continue #SUP: 35
+caused #SUP: 20
+united #SUP: 115
+working #SUP: 116
+truth #SUP: 74
+ready #SUP: 24
+reports #SUP: 33
+spending #SUP: 38
+wasn’t #SUP: 21
+ohio #SUP: 26
+turned #SUP: 39
+away #SUP: 59
+fair #SUP: 46
+rather #SUP: 34
+having #SUP: 83
+year #SUP: 79
+wants #SUP: 79
+questions #SUP: 42
+recently #SUP: 26
+reported #SUP: 47
+e-mails #SUP: 19
+radical #SUP: 207
+term #SUP: 20
+dirty #SUP: 38
+happening #SUP: 47
+hate #SUP: 50
+power #SUP: 24
+released #SUP: 45
+cruz #SUP: 98
+respect #SUP: 36
+points #SUP: 23
+favorite #SUP: 22
+germany #SUP: 20
+conflicted #SUP: 33
+everybody #SUP: 37
+ahead #SUP: 19
+closed #SUP: 25
+according #SUP: 23
+process #SUP: 19
+together #SUP: 42
+bias #SUP: 28
+friend #SUP: 24
+can’t #SUP: 98
+first #SUP: 115
+using #SUP: 43
+unable #SUP: 23
+performance #SUP: 21
+written #SUP: 44
+true #SUP: 61
+idea #SUP: 23
+name #SUP: 27
+fact #SUP: 142
+lied #SUP: 52
+greatest #SUP: 65
+women #SUP: 37
+coverage #SUP: 50
+death #SUP: 21
+lying #SUP: 46
+perhaps #SUP: 38
+until #SUP: 30
+criminal #SUP: 19
+knowingly #SUP: 32
+stay #SUP: 22
+husband #SUP: 20
+needed #SUP: 20
+times #SUP: 160
+voters #SUP: 43
+dems #SUP: 256
+victory #SUP: 41
+virginia #SUP: 34
+late #SUP: 31
+committee #SUP: 39
+hearings #SUP: 23
+dying #SUP: 43
+sorry #SUP: 28
+took #SUP: 37
+embarrassment #SUP: 20
+giving #SUP: 46
+week #SUP: 51
+game #SUP: 42
+i’ve #SUP: 33
+sent #SUP: 26
+police #SUP: 30
+shot #SUP: 28
+anything #SUP: 79
+under #SUP: 77
+refuses #SUP: 49
+racist #SUP: 19
+agenda #SUP: 30
+blame #SUP: 19
+found #SUP: 29
+putting #SUP: 37
+everything #SUP: 78
+votes #SUP: 51
+based #SUP: 53
+failure #SUP: 21
+nervous #SUP: 44
+disgusting #SUP: 59
+answer #SUP: 20
+home #SUP: 20
+reason #SUP: 53
+primary #SUP: 40
+recent #SUP: 26
+investigation #SUP: 36
+expensive #SUP: 24
+free #SUP: 23
+covered #SUP: 23
+second #SUP: 23
+illegally #SUP: 48
+fraud #SUP: 109
+voted #SUP: 23
+voter #SUP: 32
+strongly #SUP: 27
+come #SUP: 63
+caught #SUP: 64
+cold #SUP: 30
+during #SUP: 62
+hearing #SUP: 22
+tried #SUP: 29
+ballot #SUP: 21
+used #SUP: 79
+stage #SUP: 23
+complete #SUP: 30
+liar #SUP: 20
+joke #SUP: 64
+carolina #SUP: 21
+playing #SUP: 41
+sick #SUP: 77
+tuesday #SUP: 24
+signed #SUP: 25
+missing #SUP: 24
+pass #SUP: 39
+conference #SUP: 19
+four #SUP: 27
+facebook #SUP: 27
+twitter #SUP: 45
+group #SUP: 25
+likewise #SUP: 25
+early #SUP: 21
+enforcement #SUP: 24
+race #SUP: 68
+lyin’ #SUP: 43
+lyin' #SUP: 32
+city #SUP: 35
+gets #SUP: 40
+anger #SUP: 20
+taken #SUP: 42
+knew #SUP: 58
+rigged #SUP: 177
+destroy #SUP: 35
+impossible #SUP: 21
+leave #SUP: 35
+ballots #SUP: 51
+actually #SUP: 86
+scarborough #SUP: 19
+goofy #SUP: 42
+warren #SUP: 66
+american #SUP: 149
+completely #SUP: 23
+democrats #SUP: 679
+open #SUP: 54
+vicious #SUP: 35
+november #SUP: 40
+entire #SUP: 24
+senators #SUP: 34
+federal #SUP: 46
+isn’t #SUP: 33
+spend #SUP: 19
+whole #SUP: 33
+proud #SUP: 20
+rest #SUP: 26
+relationship #SUP: 26
+proven #SUP: 48
+named #SUP: 27
+themselves #SUP: 29
+charge #SUP: 20
+economy #SUP: 58
+finally #SUP: 27
+haters #SUP: 35
+democrat #SUP: 240
+michael #SUP: 63
+exposed #SUP: 23
+less #SUP: 39
+tremendous #SUP: 60
+protect #SUP: 20
+judgement #SUP: 41
+handling #SUP: 30
+page #SUP: 19
+opponent #SUP: 20
+judge #SUP: 32
+days #SUP: 21
+enthusiasm #SUP: 21
+unfit #SUP: 22
+except #SUP: 26
+played #SUP: 21
+pocahontas #SUP: 24
+choice #SUP: 20
+safety #SUP: 21
+started #SUP: 28
+here #SUP: 32
+dollar #SUP: 19
+emails #SUP: 28
+meeting #SUP: 46
+chuck #SUP: 71
+todd #SUP: 20
+danger #SUP: 19
+general #SUP: 51
+social #SUP: 43
+convention #SUP: 24
+sound #SUP: 20
+crookedhillary #SUP: 24
+resign #SUP: 19
+weeks #SUP: 21
+pennsylvania #SUP: 29
+approved #SUP: 22
+disastrous #SUP: 19
+williams #SUP: 21
+democratic #SUP: 19
+bloomberg #SUP: 53
+lose #SUP: 29
+maga #SUP: 31
+secretary #SUP: 30
+conversation #SUP: 24
+hoax #SUP: 197
+service #SUP: 22
+replace #SUP: 26
+fiction #SUP: 26
+sources #SUP: 70
+department #SUP: 51
+stated #SUP: 31
+cities #SUP: 34
+arizona #SUP: 21
+makes #SUP: 28
+mainstream #SUP: 58
+jeff #SUP: 43
+powell #SUP: 20
+former #SUP: 36
+robert #SUP: 59
+lawyers #SUP: 40
+mark #SUP: 20
+so-called #SUP: 69
+server #SUP: 21
+incredible #SUP: 27
+information #SUP: 45
+discredited #SUP: 29
+steal #SUP: 20
+along #SUP: 37
+saturday #SUP: 33
+north #SUP: 53
+large #SUP: 21
+covering #SUP: 22
+evidence #SUP: 31
+collusion #SUP: 178
+economic #SUP: 28
+that’s #SUP: 46
+intelligence #SUP: 28
+sending #SUP: 22
+three #SUP: 53
+house #SUP: 191
+white #SUP: 103
+heading #SUP: 24
+deleted #SUP: 24
+mike #SUP: 117
+billions #SUP: 39
+russians #SUP: 19
+fake #SUP: 1251
+hunt #SUP: 325
+witch #SUP: 336
+james #SUP: 118
+higher #SUP: 20
+nancy #SUP: 162
+pelosi #SUP: 140
+schumer #SUP: 68
+enemy #SUP: 69
+cuomo #SUP: 35
+healthcare #SUP: 38
+russian #SUP: 94
+dishonesty #SUP: 23
+certain #SUP: 23
+disgraced #SUP: 23
+spied #SUP: 19
+korea #SUP: 43
+georgia #SUP: 44
+position #SUP: 21
+puerto #SUP: 24
+rico #SUP: 24
+investigate #SUP: 23
+fakenews #SUP: 26
+comey #SUP: 128
+roger #SUP: 25
+stone #SUP: 25
+richard #SUP: 21
+leaking #SUP: 21
+testimony #SUP: 32
+slow #SUP: 22
+powerful #SUP: 20
+district #SUP: 30
+cuts #SUP: 19
+exist #SUP: 38
+americans #SUP: 19
+amazon #SUP: 53
+adam #SUP: 69
+schiff #SUP: 109
+starting #SUP: 21
+wife #SUP: 23
+attorney #SUP: 27
+andrew #SUP: 37
+mccabe #SUP: 26
+prices #SUP: 23
+approval #SUP: 43
+corker #SUP: 26
+chief #SUP: 19
+players #SUP: 19
+alabama #SUP: 23
+worked #SUP: 29
+market #SUP: 23
+congresswoman #SUP: 21
+side #SUP: 28
+steyer #SUP: 19
+unhinged #SUP: 20
+weekend #SUP: 37
+brian #SUP: 33
+already #SUP: 45
+rating #SUP: 21
+daca #SUP: 30
+obstruction #SUP: 45
+cryin’ #SUP: 28
+aren’t #SUP: 42
+dossier #SUP: 36
+mueller #SUP: 183
+plus #SUP: 25
+hardly #SUP: 19
+either #SUP: 30
+it’s #SUP: 77
+peter #SUP: 22
+strzok #SUP: 23
+congressman #SUP: 29
+nato #SUP: 22
+testify #SUP: 21
+tariffs #SUP: 24
+opposite #SUP: 23
+comcast #SUP: 28
+bruce #SUP: 19
+won’t #SUP: 29
+opposition #SUP: 26
+cohen #SUP: 21
+within #SUP: 25
+suppression #SUP: 32
+mean #SUP: 19
+partisan #SUP: 19
+msnbc #SUP: 25
+harassment #SUP: 19
+impeachment #SUP: 156
+partner #SUP: 25
+psycho #SUP: 24
+reserve #SUP: 27
+michigan #SUP: 35
+lamestream #SUP: 103
+cummings #SUP: 21
+elijah #SUP: 24
+fredo #SUP: 29
+ukraine #SUP: 24
+ukrainian #SUP: 22
+whistleblower #SUP: 25
+shifty #SUP: 47
+biden’s #SUP: 31
+mini #SUP: 92
+bolton #SUP: 28
+msdnc #SUP: 57
+coronavirus #SUP: 19
+virus #SUP: 29
+swine #SUP: 32
+h1n1 #SUP: 24
+rino #SUP: 24
+mail-in #SUP: 30
+believe they #SUP: 35
+believe that #SUP: 71
+believe that hard #SUP: 24
+believe ratings #SUP: 23
+believe with #SUP: 23
+believe hard #SUP: 29
+believe people #SUP: 28
+believe country #SUP: 21
+believe news #SUP: 27
+believe news fake #SUP: 27
+believe democrats #SUP: 19
+believe fake #SUP: 27
+this back #SUP: 29
+this great #SUP: 70
+this great that #SUP: 23
+this great people #SUP: 24
+this great news #SUP: 21
+this great news fake #SUP: 20
+this great fake #SUP: 20
+this never #SUP: 103
+this never they #SUP: 25
+this never have #SUP: 19
+this never should #SUP: 23
+this never been #SUP: 34
+this never been media #SUP: 23
+this never media #SUP: 26
+this never media news #SUP: 20
+this never media fake #SUP: 20
+this never media news fake #SUP: 20
+this never news #SUP: 37
+this never news fake #SUP: 35
+this never fake #SUP: 38
+this they #SUP: 124
+this they have #SUP: 34
+this they that #SUP: 40
+this they just #SUP: 26
+this they just with #SUP: 19
+this they with #SUP: 39
+this they with about #SUP: 19
+this they with what #SUP: 20
+this they with about what #SUP: 19
+this they about #SUP: 20
+this they about what #SUP: 19
+this they people #SUP: 22
+this they their #SUP: 22
+this they what #SUP: 32
+this they been #SUP: 23
+this they media #SUP: 28
+this they media news #SUP: 22
+this they media fake #SUP: 23
+this they media news fake #SUP: 22
+this they very #SUP: 28
+this they news #SUP: 44
+this they news fake #SUP: 43
+this they fake #SUP: 44
+this time #SUP: 54
+this have #SUP: 94
+this have that #SUP: 30
+this have with #SUP: 28
+this have what #SUP: 26
+this have should #SUP: 19
+this have been #SUP: 27
+this have would #SUP: 19
+this have hunt #SUP: 21
+this have hunt witch #SUP: 21
+this have witch #SUP: 21
+this like #SUP: 42
+this like news #SUP: 20
+this like fake #SUP: 20
+this like news fake #SUP: 20
+this said #SUP: 24
+this that #SUP: 169
+this that just #SUP: 26
+this that with #SUP: 43
+this that people #SUP: 29
+this that country #SUP: 24
+this that what #SUP: 19
+this that should #SUP: 26
+this that been #SUP: 25
+this that election #SUP: 20
+this that media #SUP: 32
+this that media news #SUP: 21
+this that media fake #SUP: 22
+this that media news fake #SUP: 21
+this that very #SUP: 20
+this that news #SUP: 44
+this that news fake #SUP: 43
+this that states #SUP: 19
+this that democrats #SUP: 24
+this that fake #SUP: 50
+this that hunt #SUP: 22
+this that hunt witch #SUP: 22
+this that witch #SUP: 22
+this when #SUP: 26
+this disaster #SUP: 34
+this just #SUP: 73
+this just with #SUP: 30
+this just news #SUP: 19
+this just fake #SUP: 21
+this ratings #SUP: 28
+this ratings with #SUP: 20
+this really #SUP: 29
+this than #SUP: 30
+this than more #SUP: 22
+this with #SUP: 120
+this with about #SUP: 22
+this with about what #SUP: 19
+this with their #SUP: 23
+this with what #SUP: 32
+this with media #SUP: 20
+this with hatred #SUP: 20
+this with very #SUP: 21
+this with news #SUP: 37
+this with news fake #SUP: 37
+this with fake #SUP: 41
+this with hunt #SUP: 25
+this with hunt witch #SUP: 25
+this with witch #SUP: 25
+this political #SUP: 20
+this morning #SUP: 32
+this morning watched #SUP: 19
+this about #SUP: 54
+this about what #SUP: 20
+this more #SUP: 39
+this people #SUP: 70
+this people news #SUP: 24
+this people fake #SUP: 24
+this people news fake #SUP: 24
+this want #SUP: 19
+this over #SUP: 26
+this many #SUP: 32
+this thank #SUP: 24
+this their #SUP: 64
+this their news #SUP: 22
+this their fake #SUP: 22
+this their news fake #SUP: 22
+this against #SUP: 21
+this control #SUP: 21
+this totally #SUP: 29
+this well #SUP: 19
+this illegal #SUP: 28
+this will #SUP: 78
+this will country #SUP: 20
+this country #SUP: 62
+this stop #SUP: 21
+this were #SUP: 27
+this what #SUP: 73
+this years #SUP: 28
+this from #SUP: 43
+this look #SUP: 19
+this deal #SUP: 21
+this nothing #SUP: 45
+this trump #SUP: 23
+this doing #SUP: 19
+this much #SUP: 26
+this corrupt #SUP: 29
+this should #SUP: 82
+this should news #SUP: 22
+this should news fake #SUP: 20
+this should fake #SUP: 20
+this should hunt #SUP: 21
+this should hunt witch #SUP: 21
+this should witch #SUP: 21
+this made #SUP: 28
+this total #SUP: 26
+this must #SUP: 36
+this being #SUP: 30
+this only #SUP: 20
+this stories #SUP: 22
+this right #SUP: 24
+this been #SUP: 68
+this been media #SUP: 27
+this been news #SUP: 21
+this been news fake #SUP: 20
+this been fake #SUP: 20
+this election #SUP: 45
+this would #SUP: 47
+this done #SUP: 19
+this don’t #SUP: 29
+this there #SUP: 42
+this history #SUP: 29
+this most #SUP: 26
+this also #SUP: 26
+this know #SUP: 25
+this media #SUP: 92
+this media very #SUP: 22
+this media news #SUP: 62
+this media news fake #SUP: 62
+this media fake #SUP: 63
+this lies #SUP: 23
+this lies fake #SUP: 21
+this false #SUP: 31
+this story #SUP: 30
+this even #SUP: 43
+this hatred #SUP: 21
+this very #SUP: 89
+this very news #SUP: 29
+this very fake #SUP: 29
+this very news fake #SUP: 29
+this other #SUP: 25
+this president #SUP: 43
+this news #SUP: 151
+this news fake #SUP: 145
+this report #SUP: 35
+this reporting #SUP: 38
+this left #SUP: 19
+this another #SUP: 24
+this campaign #SUP: 20
+this hillary #SUP: 31
+this hillary crooked #SUP: 28
+this phony #SUP: 20
+this little #SUP: 20
+this dishonest #SUP: 25
+this watched #SUP: 21
+this because #SUP: 31
+this saying #SUP: 21
+this crooked #SUP: 42
+this happen #SUP: 24
+this russia #SUP: 20
+this ridiculous #SUP: 26
+this order #SUP: 21
+this biden #SUP: 24
+this clinton #SUP: 20
+this states #SUP: 35
+this states united #SUP: 22
+this united #SUP: 27
+this radical #SUP: 19
+this can’t #SUP: 21
+this dems #SUP: 37
+this week #SUP: 25
+this fraud #SUP: 22
+this used #SUP: 19
+this rigged #SUP: 38
+this rigged hunt #SUP: 19
+this rigged witch #SUP: 19
+this rigged hunt witch #SUP: 19
+this american #SUP: 38
+this democrats #SUP: 68
+this democrat #SUP: 23
+this hoax #SUP: 31
+this collusion #SUP: 22
+this fake #SUP: 161
+this fake witch #SUP: 23
+this hunt #SUP: 78
+this hunt witch #SUP: 78
+this hunt mueller #SUP: 19
+this hunt witch mueller #SUP: 19
+this witch #SUP: 83
+this witch mueller #SUP: 19
+this mueller #SUP: 35
+this impeachment #SUP: 19
+action talk #SUP: 21
+again america #SUP: 32
+again america great #SUP: 31
+again america make #SUP: 25
+again america great make #SUP: 25
+again great #SUP: 44
+again great make #SUP: 26
+again make #SUP: 27
+again never #SUP: 24
+again they #SUP: 34
+again have #SUP: 32
+again said #SUP: 19
+again that #SUP: 32
+again with #SUP: 21
+again will #SUP: 22
+again news #SUP: 31
+again news fake #SUP: 24
+again fake #SUP: 26
+america great #SUP: 54
+america great make #SUP: 25
+america great have #SUP: 19
+america make #SUP: 28
+america never #SUP: 19
+america they #SUP: 21
+america have #SUP: 25
+america that #SUP: 31
+america will #SUP: 30
+back bring #SUP: 22
+back great #SUP: 20
+back they #SUP: 44
+back time #SUP: 20
+back have #SUP: 24
+back that #SUP: 52
+back with #SUP: 31
+back people #SUP: 28
+back want #SUP: 22
+back will #SUP: 23
+back country #SUP: 23
+back should #SUP: 19
+back media #SUP: 19
+back very #SUP: 22
+back news #SUP: 25
+back news fake #SUP: 25
+back democrats #SUP: 22
+back fake #SUP: 26
+great make #SUP: 32
+great never #SUP: 44
+great they #SUP: 81
+great they have #SUP: 20
+great they that #SUP: 24
+great they people #SUP: 34
+great time #SUP: 20
+great have #SUP: 91
+great have that #SUP: 20
+great have with #SUP: 35
+great have people #SUP: 25
+great have been #SUP: 24
+great said #SUP: 20
+great that #SUP: 110
+great that with #SUP: 30
+great that people #SUP: 31
+great that will #SUP: 20
+great that country #SUP: 21
+great that very #SUP: 20
+great that news #SUP: 31
+great that news fake #SUP: 21
+great that fake #SUP: 23
+great when #SUP: 20
+great just #SUP: 26
+great really #SUP: 25
+great than #SUP: 36
+great with #SUP: 96
+great with will #SUP: 28
+great with media #SUP: 23
+great with news #SUP: 30
+great with news fake #SUP: 26
+great with fake #SUP: 27
+great governor #SUP: 28
+great about #SUP: 33
+great more #SUP: 29
+great people #SUP: 105
+great people their #SUP: 22
+great people will #SUP: 21
+great people would #SUP: 24
+great people news #SUP: 23
+great people news fake #SUP: 20
+great people fake #SUP: 20
+great want #SUP: 24
+great over #SUP: 21
+great many #SUP: 26
+great their #SUP: 44
+great against #SUP: 25
+great border #SUP: 21
+great totally #SUP: 27
+great well #SUP: 25
+great will #SUP: 104
+great country #SUP: 74
+great last #SUP: 23
+great were #SUP: 22
+great republican #SUP: 22
+great what #SUP: 22
+great years #SUP: 19
+great failing #SUP: 23
+great from #SUP: 29
+great republicans #SUP: 23
+great doing #SUP: 45
+great much #SUP: 26
+great sleepy #SUP: 19
+great corrupt #SUP: 19
+great should #SUP: 25
+great made #SUP: 21
+great total #SUP: 20
+great being #SUP: 26
+great only #SUP: 33
+great been #SUP: 49
+great election #SUP: 19
+great would #SUP: 47
+great done #SUP: 19
+great which #SUP: 20
+great going #SUP: 29
+great there #SUP: 25
+great despite #SUP: 21
+great media #SUP: 70
+great media news #SUP: 45
+great media fake #SUP: 46
+great media news fake #SUP: 45
+great even #SUP: 28
+great very #SUP: 74
+great senator #SUP: 27
+great news #SUP: 119
+great news fake #SUP: 98
+great left #SUP: 25
+great night #SUP: 31
+great state #SUP: 59
+great because #SUP: 19
+great party #SUP: 28
+great united #SUP: 22
+great radical #SUP: 21
+great american #SUP: 31
+great democrats #SUP: 47
+great democrat #SUP: 24
+great three #SUP: 23
+great house #SUP: 19
+great fake #SUP: 101
+great witch #SUP: 22
+make they #SUP: 45
+make have #SUP: 21
+make like #SUP: 24
+make that #SUP: 53
+make when #SUP: 21
+make with #SUP: 25
+make totally #SUP: 22
+make will #SUP: 30
+make look #SUP: 25
+make media #SUP: 37
+make media news #SUP: 24
+make media fake #SUP: 23
+make media news fake #SUP: 23
+make very #SUP: 28
+make news #SUP: 45
+make news fake #SUP: 44
+make trying #SUP: 19
+make dishonest #SUP: 20
+make democrats #SUP: 28
+make fake #SUP: 48
+never they #SUP: 127
+never they today #SUP: 19
+never they have #SUP: 40
+never they have been #SUP: 23
+never they that #SUP: 36
+never they than #SUP: 22
+never they with #SUP: 27
+never they more #SUP: 22
+never they more been #SUP: 19
+never they people #SUP: 25
+never they their #SUP: 22
+never they will #SUP: 28
+never they should #SUP: 19
+never they been #SUP: 45
+never they been media #SUP: 26
+never they media #SUP: 35
+never they media news #SUP: 21
+never they media fake #SUP: 21
+never they media news fake #SUP: 21
+never they even #SUP: 25
+never they news #SUP: 28
+never they news fake #SUP: 28
+never they fake #SUP: 31
+never time #SUP: 20
+never today #SUP: 24
+never have #SUP: 104
+never have that #SUP: 33
+never have with #SUP: 19
+never have should #SUP: 42
+never have should been #SUP: 23
+never have been #SUP: 47
+never have which #SUP: 19
+never have hunt #SUP: 20
+never have hunt witch #SUP: 20
+never have witch #SUP: 20
+never like #SUP: 35
+never said #SUP: 35
+never said that #SUP: 21
+never that #SUP: 101
+never that should #SUP: 29
+never that been #SUP: 26
+never that fake #SUP: 22
+never just #SUP: 39
+never than #SUP: 39
+never than more #SUP: 31
+never than more been #SUP: 29
+never than more dishonest #SUP: 19
+never than more been dishonest #SUP: 19
+never than been #SUP: 29
+never than been dishonest #SUP: 19
+never than dishonest #SUP: 19
+never with #SUP: 60
+never about #SUP: 28
+never more #SUP: 45
+never more been #SUP: 35
+never more been media #SUP: 21
+never more been dishonest #SUP: 22
+never more media #SUP: 21
+never more news #SUP: 21
+never more news fake #SUP: 21
+never more dishonest #SUP: 23
+never more fake #SUP: 21
+never people #SUP: 49
+never many #SUP: 21
+never their #SUP: 44
+never their been #SUP: 19
+never against #SUP: 20
+never totally #SUP: 26
+never will #SUP: 102
+never will fake #SUP: 19
+never country #SUP: 41
+never what #SUP: 26
+never from #SUP: 22
+never nothing #SUP: 19
+never trump #SUP: 19
+never seen #SUP: 27
+never seen before #SUP: 23
+never corrupt #SUP: 39
+never corrupt been #SUP: 21
+never corrupt media #SUP: 21
+never corrupt fake #SUP: 19
+never should #SUP: 74
+never should been #SUP: 27
+never made #SUP: 21
+never before #SUP: 40
+never right #SUP: 22
+never been #SUP: 128
+never been there #SUP: 26
+never been media #SUP: 46
+never been media news #SUP: 34
+never been media fake #SUP: 34
+never been media news fake #SUP: 34
+never been news #SUP: 36
+never been news fake #SUP: 36
+never been dishonest #SUP: 22
+never been fake #SUP: 41
+never election #SUP: 21
+never would #SUP: 24
+never which #SUP: 41
+never going #SUP: 19
+never don’t #SUP: 23
+never there #SUP: 40
+never history #SUP: 20
+never media #SUP: 73
+never media news #SUP: 50
+never media news fake #SUP: 50
+never media dishonest #SUP: 20
+never media mainstream #SUP: 22
+never media fake #SUP: 50
+never wrong #SUP: 21
+never story #SUP: 21
+never even #SUP: 51
+never very #SUP: 32
+never president #SUP: 31
+never news #SUP: 87
+never news fake #SUP: 84
+never left #SUP: 21
+never left radical #SUP: 21
+never another #SUP: 23
+never hillary #SUP: 29
+never hillary crooked #SUP: 21
+never phony #SUP: 19
+never dishonest #SUP: 28
+never crooked #SUP: 22
+never call #SUP: 19
+never happened #SUP: 22
+never radical #SUP: 21
+never american #SUP: 25
+never democrats #SUP: 41
+never hoax #SUP: 25
+never mainstream #SUP: 22
+never collusion #SUP: 19
+never fake #SUP: 97
+never hunt #SUP: 47
+never hunt witch #SUP: 47
+never witch #SUP: 47
+never mueller #SUP: 25
+talk they #SUP: 22
+talk about #SUP: 39
+talk nothing #SUP: 19
+talk news #SUP: 22
+talk news fake #SUP: 22
+talk fake #SUP: 23
+they time #SUP: 40
+they today #SUP: 33
+they have #SUP: 279
+they have said #SUP: 27
+they have that #SUP: 104
+they have that with #SUP: 31
+they have that will #SUP: 38
+they have that been #SUP: 20
+they have that media #SUP: 20
+they have that news #SUP: 30
+they have that news fake #SUP: 25
+they have that dems #SUP: 19
+they have that fake #SUP: 25
+they have when #SUP: 26
+they have just #SUP: 24
+they have with #SUP: 55
+they have about #SUP: 30
+they have more #SUP: 21
+they have people #SUP: 38
+they have many #SUP: 37
+they have their #SUP: 33
+they have will #SUP: 51
+they have will news #SUP: 20
+they have country #SUP: 28
+they have what #SUP: 53
+they have what been #SUP: 19
+they have years #SUP: 30
+they have from #SUP: 30
+they have nothing #SUP: 40
+they have nothing dems #SUP: 20
+they have doing #SUP: 38
+they have things #SUP: 25
+they have them #SUP: 32
+they have lost #SUP: 20
+they have should #SUP: 30
+they have total #SUP: 20
+they have right #SUP: 19
+they have been #SUP: 56
+they have would #SUP: 23
+they have done #SUP: 36
+they have going #SUP: 22
+they have don’t #SUP: 38
+they have most #SUP: 19
+they have media #SUP: 30
+they have media news #SUP: 19
+they have media fake #SUP: 19
+they have media news fake #SUP: 19
+they have false #SUP: 21
+they have even #SUP: 26
+they have very #SUP: 19
+they have other #SUP: 20
+they have president #SUP: 20
+they have news #SUP: 46
+they have news fake #SUP: 41
+they have left #SUP: 19
+they have because #SUP: 31
+they have party #SUP: 22
+they have dems #SUP: 44
+they have democrats #SUP: 50
+they have democrat #SUP: 21
+they have fake #SUP: 43
+they like #SUP: 40
+they said #SUP: 47
+they said that #SUP: 21
+they that #SUP: 308
+they that when #SUP: 28
+they that just #SUP: 38
+they that ratings #SUP: 25
+they that really #SUP: 20
+they that with #SUP: 70
+they that hard #SUP: 20
+they that about #SUP: 23
+they that people #SUP: 55
+they that people news #SUP: 21
+they that people fake #SUP: 21
+they that people news fake #SUP: 21
+they that want #SUP: 22
+they that many #SUP: 32
+they that their #SUP: 27
+they that totally #SUP: 20
+they that will #SUP: 67
+they that will news #SUP: 21
+they that country #SUP: 20
+they that were #SUP: 27
+they that years #SUP: 21
+they that failing #SUP: 23
+they that nothing #SUP: 24
+they that trump #SUP: 20
+they that doing #SUP: 33
+they that badly #SUP: 22
+they that much #SUP: 37
+they that them #SUP: 37
+they that lost #SUP: 20
+they that should #SUP: 26
+they that show #SUP: 21
+they that only #SUP: 32
+they that been #SUP: 30
+they that done #SUP: 29
+they that don’t #SUP: 32
+they that there #SUP: 22
+they that media #SUP: 51
+they that media news #SUP: 35
+they that media fake #SUP: 39
+they that media news fake #SUP: 35
+they that polls #SUP: 19
+they that even #SUP: 20
+they that very #SUP: 44
+they that president #SUP: 20
+they that news #SUP: 76
+they that news fake #SUP: 69
+they that hillary #SUP: 25
+they that hillary crooked #SUP: 25
+they that because #SUP: 35
+they that crooked #SUP: 30
+they that dems #SUP: 26
+they that anything #SUP: 19
+they that democrats #SUP: 46
+they that fake #SUP: 75
+they looking #SUP: 28
+they when #SUP: 85
+they when with #SUP: 27
+they when people #SUP: 25
+they when media #SUP: 23
+they when media fake #SUP: 20
+they when news #SUP: 28
+they when news fake #SUP: 28
+they when fake #SUP: 39
+they just #SUP: 107
+they just with #SUP: 31
+they just with what #SUP: 19
+they just about #SUP: 30
+they just about news #SUP: 20
+they just about fake #SUP: 20
+they just about news fake #SUP: 20
+they just their #SUP: 19
+they just will #SUP: 22
+they just what #SUP: 25
+they just news #SUP: 31
+they just news fake #SUP: 29
+they just everything #SUP: 20
+they just fake #SUP: 31
+they ratings #SUP: 60
+they ratings news #SUP: 33
+they ratings fake #SUP: 29
+they ratings news fake #SUP: 29
+they really #SUP: 61
+they really news #SUP: 21
+they really fake #SUP: 21
+they really news fake #SUP: 21
+they than #SUP: 71
+they than more #SUP: 43
+they than been #SUP: 19
+they with #SUP: 184
+they with about #SUP: 29
+they with about what #SUP: 20
+they with people #SUP: 28
+they with want #SUP: 22
+they with their #SUP: 23
+they with against #SUP: 20
+they with will #SUP: 26
+they with were #SUP: 22
+they with what #SUP: 39
+they with years #SUP: 21
+they with media #SUP: 19
+they with hatred #SUP: 19
+they with very #SUP: 27
+they with news #SUP: 38
+they with news fake #SUP: 34
+they with crooked #SUP: 24
+they with democrats #SUP: 50
+they with fake #SUP: 36
+they down #SUP: 38
+they down their #SUP: 20
+they down news #SUP: 23
+they down news fake #SUP: 19
+they down fake #SUP: 19
+they hard #SUP: 31
+they about #SUP: 114
+they about people #SUP: 19
+they about want #SUP: 24
+they about their #SUP: 26
+they about were #SUP: 19
+they about what #SUP: 28
+they about news #SUP: 47
+they about news fake #SUP: 47
+they about fake #SUP: 49
+they government #SUP: 23
+they mexico #SUP: 21
+they more #SUP: 73
+they more been #SUP: 19
+they more news #SUP: 19
+they more dishonest #SUP: 26
+they people #SUP: 165
+they people want #SUP: 20
+they people their #SUP: 32
+they people will #SUP: 19
+they people country #SUP: 26
+they people there #SUP: 20
+they people media #SUP: 35
+they people media news #SUP: 23
+they people media news fake #SUP: 20
+they people media fake #SUP: 24
+they people media enemy #SUP: 20
+they people truly #SUP: 23
+they people news #SUP: 45
+they people news fake #SUP: 42
+they people news enemy #SUP: 21
+they people because #SUP: 19
+they people true #SUP: 19
+they people democrats #SUP: 20
+they people fake #SUP: 46
+they people fake enemy #SUP: 22
+they people enemy #SUP: 36
+they want #SUP: 112
+they want country #SUP: 19
+they want don’t #SUP: 26
+they want democrats #SUP: 34
+they want open #SUP: 20
+they didn’t #SUP: 28
+they over #SUP: 38
+they many #SUP: 80
+they many going #SUP: 23
+they thank #SUP: 20
+they their #SUP: 133
+they their what #SUP: 25
+they their them #SUP: 23
+they their news #SUP: 32
+they their news fake #SUP: 27
+they their democrats #SUP: 25
+they their fake #SUP: 28
+they against #SUP: 60
+they horrible #SUP: 24
+they terrible #SUP: 24
+they weak #SUP: 20
+they absolutely #SUP: 21
+they border #SUP: 24
+they control #SUP: 22
+they totally #SUP: 60
+they totally news #SUP: 22
+they totally fake #SUP: 22
+they totally news fake #SUP: 22
+they illegal #SUP: 30
+they will #SUP: 149
+they will nothing #SUP: 19
+they will them #SUP: 22
+they will possible #SUP: 19
+they will media #SUP: 30
+they will media news #SUP: 23
+they will media fake #SUP: 20
+they will media news fake #SUP: 20
+they will even #SUP: 26
+they will news #SUP: 43
+they will news fake #SUP: 35
+they will democrats #SUP: 24
+they will fake #SUP: 37
+they become #SUP: 32
+they country #SUP: 90
+they country democrats #SUP: 21
+they stop #SUP: 27
+they were #SUP: 80
+they were news #SUP: 30
+they were fake #SUP: 32
+they were news fake #SUP: 29
+they republican #SUP: 22
+they what #SUP: 118
+they what been #SUP: 24
+they what hatred #SUP: 19
+they what news #SUP: 29
+they what news fake #SUP: 29
+they what fake #SUP: 31
+they years #SUP: 62
+they failing #SUP: 55
+they from #SUP: 78
+they look #SUP: 29
+they such #SUP: 30
+they such news #SUP: 21
+they such fake #SUP: 21
+they such news fake #SUP: 21
+they deal #SUP: 27
+they nothing #SUP: 95
+they nothing doing #SUP: 32
+they nothing done #SUP: 26
+they nothing done democrats #SUP: 19
+they nothing dems #SUP: 24
+they nothing democrats #SUP: 36
+they trump #SUP: 33
+they republicans #SUP: 23
+they doing #SUP: 89
+they doing everything #SUP: 21
+they doing democrats #SUP: 24
+they things #SUP: 44
+they getting #SUP: 22
+they badly #SUP: 40
+they money #SUP: 23
+they much #SUP: 70
+they much news #SUP: 23
+they much fake #SUP: 21
+they much news fake #SUP: 21
+they long #SUP: 26
+they sleepy #SUP: 26
+they crime #SUP: 26
+they corrupt #SUP: 46
+they corrupt media #SUP: 30
+they corrupt media fake #SUP: 20
+they corrupt news #SUP: 22
+they corrupt news fake #SUP: 19
+they corrupt fake #SUP: 24
+they them #SUP: 93
+they lost #SUP: 47
+they credibility #SUP: 33
+they credibility media #SUP: 24
+they should #SUP: 67
+they made #SUP: 41
+they show #SUP: 42
+they show polls #SUP: 19
+they total #SUP: 40
+they worst #SUP: 19
+they congress #SUP: 23
+they must #SUP: 28
+they before #SUP: 19
+they being #SUP: 34
+they take #SUP: 20
+they post #SUP: 28
+they crazy #SUP: 40
+they crazy going #SUP: 22
+they only #SUP: 73
+they only news #SUP: 24
+they only news fake #SUP: 24
+they only democrats #SUP: 21
+they only fake #SUP: 24
+they stories #SUP: 47
+they stories news #SUP: 21
+they stories fake #SUP: 21
+they stories news fake #SUP: 21
+they write #SUP: 26
+they right #SUP: 41
+they after #SUP: 35
+they possible #SUP: 30
+they been #SUP: 91
+they been media #SUP: 28
+they been news #SUP: 19
+they been news fake #SUP: 19
+they been fake #SUP: 19
+they election #SUP: 50
+they would #SUP: 52
+they done #SUP: 66
+they done democrats #SUP: 29
+they ever #SUP: 24
+they which #SUP: 57
+they real #SUP: 28
+they going #SUP: 70
+they going media #SUP: 24
+they going news #SUP: 31
+they going news fake #SUP: 31
+they going fake #SUP: 32
+they york #SUP: 40
+they york times #SUP: 28
+they came #SUP: 20
+they work #SUP: 32
+they don’t #SUP: 118
+they don’t know #SUP: 20
+they don’t even #SUP: 26
+they don’t news #SUP: 19
+they don’t news fake #SUP: 19
+they don’t democrats #SUP: 30
+they don’t fake #SUP: 19
+they there #SUP: 50
+they coming #SUP: 26
+they despite #SUP: 22
+they gone #SUP: 35
+they think #SUP: 24
+they into #SUP: 27
+they most #SUP: 39
+they know #SUP: 55
+they media #SUP: 167
+they media false #SUP: 20
+they media story #SUP: 19
+they media story fake #SUP: 19
+they media very #SUP: 25
+they media news #SUP: 94
+they media news fake #SUP: 91
+they media phony #SUP: 20
+they media dishonest #SUP: 22
+they media democrats #SUP: 19
+they media social #SUP: 19
+they media mainstream #SUP: 27
+they media fake #SUP: 110
+they media enemy #SUP: 20
+they media lamestream #SUP: 23
+they lies #SUP: 26
+they truly #SUP: 33
+they others #SUP: 19
+they wrong #SUP: 46
+they polls #SUP: 47
+they polls fake #SUP: 23
+they good #SUP: 37
+they false #SUP: 50
+they false news #SUP: 28
+they false fake #SUP: 28
+they false news fake #SUP: 28
+they story #SUP: 51
+they story news #SUP: 26
+they story fake #SUP: 33
+they story news fake #SUP: 26
+they even #SUP: 95
+they even news #SUP: 26
+they even fake #SUP: 19
+they even news fake #SUP: 19
+they hatred #SUP: 26
+they almost #SUP: 32
+they very #SUP: 107
+they very news #SUP: 20
+they very fake #SUP: 22
+they very news fake #SUP: 20
+they other #SUP: 46
+they world #SUP: 23
+they president #SUP: 40
+they news #SUP: 268
+they news because #SUP: 20
+they news because fake #SUP: 20
+they news truth #SUP: 19
+they news truth fake #SUP: 19
+they news sick #SUP: 19
+they news sick fake #SUP: 19
+they news fake #SUP: 244
+they news enemy #SUP: 21
+they report #SUP: 29
+they reporting #SUP: 33
+they left #SUP: 58
+they left radical #SUP: 48
+they left democrats #SUP: 25
+they left radical democrats #SUP: 23
+they campaign #SUP: 23
+they always #SUP: 22
+they hillary #SUP: 53
+they hillary crooked #SUP: 48
+they hillary clinton #SUP: 28
+they hillary crooked clinton #SUP: 25
+they phony #SUP: 42
+they state #SUP: 25
+they trying #SUP: 27
+they little #SUP: 22
+they dishonest #SUP: 45
+they vote #SUP: 21
+they because #SUP: 92
+they because fake #SUP: 24
+they party #SUP: 48
+they party democrat #SUP: 23
+they saying #SUP: 28
+they crooked #SUP: 60
+they crooked clinton #SUP: 26
+they some #SUP: 21
+they past #SUP: 19
+they dollars #SUP: 20
+they china #SUP: 30
+they russia #SUP: 31
+they ridiculous #SUP: 21
+they order #SUP: 21
+they presidential #SUP: 30
+they watch #SUP: 32
+they biden #SUP: 23
+they clinton #SUP: 30
+they these #SUP: 24
+they call #SUP: 33
+they could #SUP: 33
+they facts #SUP: 25
+they states #SUP: 33
+they states united #SUP: 21
+they biased #SUP: 21
+they problem #SUP: 38
+they united #SUP: 24
+they working #SUP: 28
+they truth #SUP: 26
+they truth fake #SUP: 19
+they radical #SUP: 51
+they radical democrats #SUP: 24
+they hate #SUP: 19
+they can’t #SUP: 26
+they first #SUP: 19
+they true #SUP: 30
+they fact #SUP: 34
+they times #SUP: 37
+they dems #SUP: 67
+they week #SUP: 23
+they anything #SUP: 33
+they under #SUP: 25
+they everything #SUP: 39
+they come #SUP: 20
+they caught #SUP: 32
+they sick #SUP: 36
+they sick fake #SUP: 19
+they rigged #SUP: 21
+they american #SUP: 21
+they democrats #SUP: 174
+they democrats fake #SUP: 20
+they open #SUP: 23
+they democrat #SUP: 66
+they social #SUP: 19
+they hoax #SUP: 27
+they mainstream #SUP: 27
+they collusion #SUP: 30
+they that’s #SUP: 20
+they house #SUP: 31
+they fake #SUP: 274
+they fake enemy #SUP: 22
+they hunt #SUP: 38
+they hunt witch #SUP: 38
+they witch #SUP: 38
+they nancy #SUP: 27
+they nancy pelosi #SUP: 25
+they pelosi #SUP: 29
+they enemy #SUP: 36
+they mueller #SUP: 41
+they suppression #SUP: 19
+they impeachment #SUP: 26
+they lamestream #SUP: 23
+they msdnc #SUP: 27
+time have #SUP: 36
+time that #SUP: 58
+time just #SUP: 41
+time with #SUP: 40
+time more #SUP: 34
+time people #SUP: 23
+time many #SUP: 31
+time their #SUP: 19
+time will #SUP: 37
+time last #SUP: 23
+time stop #SUP: 19
+time nothing #SUP: 24
+time much #SUP: 19
+time long #SUP: 23
+time corrupt #SUP: 19
+time should #SUP: 35
+time only #SUP: 22
+time been #SUP: 26
+time waste #SUP: 19
+time media #SUP: 21
+time very #SUP: 32
+time news #SUP: 43
+time news fake #SUP: 43
+time democrats #SUP: 23
+time hoax #SUP: 19
+time fake #SUP: 44
+time hunt #SUP: 26
+time hunt witch #SUP: 26
+time witch #SUP: 26
+today that #SUP: 26
+today with #SUP: 19
+today people #SUP: 21
+today will #SUP: 22
+today been #SUP: 20
+today media #SUP: 36
+today media news #SUP: 27
+today media fake #SUP: 27
+today media news fake #SUP: 24
+today news #SUP: 35
+today news fake #SUP: 30
+today fake #SUP: 35
+have like #SUP: 37
+have said #SUP: 61
+have said that #SUP: 20
+have that #SUP: 304
+have that when #SUP: 21
+have that just #SUP: 31
+have that with #SUP: 83
+have that with would #SUP: 19
+have that with news #SUP: 20
+have that with news fake #SUP: 19
+have that with fake #SUP: 20
+have that about #SUP: 22
+have that people #SUP: 37
+have that didn’t #SUP: 22
+have that many #SUP: 32
+have that totally #SUP: 20
+have that will #SUP: 48
+have that what #SUP: 32
+have that from #SUP: 23
+have that nothing #SUP: 24
+have that trump #SUP: 21
+have that doing #SUP: 23
+have that long #SUP: 22
+have that them #SUP: 21
+have that should #SUP: 48
+have that should been #SUP: 23
+have that only #SUP: 19
+have that been #SUP: 63
+have that been mueller #SUP: 21
+have that election #SUP: 21
+have that would #SUP: 36
+have that done #SUP: 34
+have that don’t #SUP: 29
+have that media #SUP: 46
+have that media news #SUP: 26
+have that media fake #SUP: 33
+have that media news fake #SUP: 26
+have that even #SUP: 28
+have that very #SUP: 21
+have that other #SUP: 24
+have that president #SUP: 33
+have that news #SUP: 50
+have that news fake #SUP: 45
+have that because #SUP: 21
+have that first #SUP: 21
+have that dems #SUP: 30
+have that democrats #SUP: 39
+have that fake #SUP: 56
+have that hunt #SUP: 29
+have that hunt witch #SUP: 29
+have that witch #SUP: 29
+have that mueller #SUP: 31
+have numbers #SUP: 21
+have when #SUP: 50
+have when fake #SUP: 19
+have just #SUP: 60
+have ratings #SUP: 28
+have really #SUP: 27
+have than #SUP: 52
+have than more #SUP: 27
+have with #SUP: 190
+have with people #SUP: 20
+have with many #SUP: 21
+have with what #SUP: 27
+have with years #SUP: 27
+have with deal #SUP: 19
+have with made #SUP: 20
+have with been #SUP: 38
+have with would #SUP: 37
+have with done #SUP: 27
+have with there #SUP: 23
+have with media #SUP: 24
+have with president #SUP: 20
+have with news #SUP: 34
+have with news fake #SUP: 33
+have with democrats #SUP: 22
+have with fake #SUP: 37
+have down #SUP: 27
+have about #SUP: 66
+have does #SUP: 28
+have more #SUP: 46
+have people #SUP: 104
+have people will #SUP: 20
+have people would #SUP: 20
+have those #SUP: 22
+have want #SUP: 24
+have didn’t #SUP: 45
+have over #SUP: 43
+have place #SUP: 31
+have place should #SUP: 19
+have many #SUP: 73
+have their #SUP: 69
+have their democrats #SUP: 20
+have against #SUP: 28
+have doesn’t #SUP: 38
+have terrible #SUP: 33
+have obama #SUP: 25
+have border #SUP: 20
+have totally #SUP: 46
+have totally been #SUP: 21
+have will #SUP: 95
+have will media #SUP: 19
+have will news #SUP: 24
+have will news fake #SUP: 21
+have will fake #SUP: 23
+have become #SUP: 26
+have country #SUP: 67
+have last #SUP: 22
+have were #SUP: 46
+have republican #SUP: 19
+have what #SUP: 112
+have what been #SUP: 29
+have what done #SUP: 21
+have years #SUP: 59
+have years been #SUP: 23
+have failing #SUP: 30
+have from #SUP: 66
+have such #SUP: 21
+have deal #SUP: 28
+have nothing #SUP: 86
+have nothing dems #SUP: 31
+have nothing democrats #SUP: 36
+have nothing mueller #SUP: 22
+have trump #SUP: 36
+have republicans #SUP: 21
+have doing #SUP: 54
+have things #SUP: 32
+have badly #SUP: 27
+have money #SUP: 25
+have much #SUP: 28
+have seen #SUP: 27
+have long #SUP: 37
+have sleepy #SUP: 37
+have corrupt #SUP: 29
+have them #SUP: 53
+have lost #SUP: 33
+have should #SUP: 129
+have should been #SUP: 48
+have should been mueller #SUP: 21
+have should done #SUP: 20
+have should president #SUP: 23
+have should first #SUP: 20
+have should democrats #SUP: 21
+have should mueller #SUP: 25
+have made #SUP: 50
+have total #SUP: 35
+have worst #SUP: 24
+have congress #SUP: 31
+have must #SUP: 30
+have before #SUP: 38
+have being #SUP: 29
+have crazy #SUP: 27
+have only #SUP: 48
+have right #SUP: 41
+have after #SUP: 22
+have possible #SUP: 23
+have been #SUP: 179
+have been done #SUP: 23
+have been media #SUP: 20
+have been even #SUP: 22
+have been dems #SUP: 23
+have been democrats #SUP: 22
+have been mueller #SUP: 28
+have election #SUP: 57
+have would #SUP: 83
+have done #SUP: 94
+have done democrats #SUP: 20
+have ever #SUP: 30
+have which #SUP: 44
+have since #SUP: 23
+have going #SUP: 36
+have york #SUP: 27
+have work #SUP: 25
+have clue #SUP: 46
+have don’t #SUP: 64
+have there #SUP: 41
+have your #SUP: 21
+have gone #SUP: 44
+have gone media #SUP: 21
+have history #SUP: 24
+have most #SUP: 34
+have case #SUP: 24
+have media #SUP: 93
+have media even #SUP: 19
+have media news #SUP: 50
+have media news fake #SUP: 50
+have media fake #SUP: 61
+have others #SUP: 33
+have wrong #SUP: 24
+have polls #SUP: 26
+have good #SUP: 32
+have false #SUP: 29
+have even #SUP: 61
+have very #SUP: 60
+have other #SUP: 50
+have world #SUP: 27
+have president #SUP: 70
+have news #SUP: 111
+have news fake #SUP: 101
+have report #SUP: 29
+have report mueller #SUP: 19
+have reporting #SUP: 21
+have left #SUP: 40
+have left radical #SUP: 27
+have another #SUP: 23
+have hillary #SUP: 45
+have hillary crooked #SUP: 26
+have hillary clinton #SUP: 21
+have phony #SUP: 37
+have thing #SUP: 24
+have because #SUP: 47
+have party #SUP: 29
+have saying #SUP: 22
+have crooked #SUP: 44
+have given #SUP: 24
+have some #SUP: 20
+have mess #SUP: 23
+have dollars #SUP: 20
+have china #SUP: 28
+have russia #SUP: 20
+have presidential #SUP: 19
+have biden #SUP: 27
+have clinton #SUP: 22
+have these #SUP: 25
+have could #SUP: 44
+have states #SUP: 30
+have states united #SUP: 21
+have trade #SUP: 19
+have problem #SUP: 24
+have united #SUP: 23
+have radical #SUP: 28
+have can’t #SUP: 20
+have first #SUP: 41
+have fact #SUP: 22
+have times #SUP: 23
+have dems #SUP: 81
+have dems nervous #SUP: 20
+have dems nervous nancy #SUP: 20
+have dems nervous pelosi #SUP: 20
+have dems nervous nancy pelosi #SUP: 20
+have dems nancy #SUP: 23
+have dems nancy pelosi #SUP: 21
+have dems pelosi #SUP: 21
+have everything #SUP: 20
+have nervous #SUP: 24
+have nervous nancy #SUP: 20
+have nervous pelosi #SUP: 20
+have nervous nancy pelosi #SUP: 20
+have disgusting #SUP: 23
+have fraud #SUP: 20
+have taken #SUP: 22
+have rigged #SUP: 33
+have american #SUP: 28
+have democrats #SUP: 131
+have democrat #SUP: 42
+have collusion #SUP: 27
+have house #SUP: 26
+have fake #SUP: 121
+have hunt #SUP: 52
+have hunt witch #SUP: 52
+have hunt mueller #SUP: 19
+have hunt witch mueller #SUP: 19
+have witch #SUP: 52
+have witch mueller #SUP: 19
+have james #SUP: 25
+have james comey #SUP: 25
+have nancy #SUP: 38
+have nancy pelosi #SUP: 26
+have pelosi #SUP: 29
+have comey #SUP: 28
+have mueller #SUP: 62
+have impeachment #SUP: 24
+it's that #SUP: 21
+like that #SUP: 73
+like just #SUP: 50
+like with #SUP: 52
+like about #SUP: 25
+like more #SUP: 28
+like people #SUP: 41
+like many #SUP: 19
+like their #SUP: 26
+like failed #SUP: 20
+like will #SUP: 37
+like what #SUP: 28
+like look #SUP: 25
+like nothing #SUP: 28
+like trump #SUP: 27
+like corrupt #SUP: 23
+like looks #SUP: 31
+like before #SUP: 21
+like only #SUP: 20
+like been #SUP: 26
+like media #SUP: 30
+like media news #SUP: 23
+like media fake #SUP: 23
+like media news fake #SUP: 23
+like even #SUP: 30
+like very #SUP: 34
+like other #SUP: 24
+like president #SUP: 21
+like news #SUP: 52
+like news fake #SUP: 49
+like hillary #SUP: 23
+like crooked #SUP: 22
+like biden #SUP: 24
+like clinton #SUP: 19
+like american #SUP: 19
+like democrats #SUP: 22
+like fake #SUP: 61
+politician corrupt #SUP: 41
+politician biden #SUP: 24
+politician corrupt biden #SUP: 24
+said that #SUP: 104
+said that media #SUP: 23
+said that media news #SUP: 22
+said that media fake #SUP: 22
+said that media news fake #SUP: 22
+said that news #SUP: 29
+said that news fake #SUP: 28
+said that fake #SUP: 31
+said when #SUP: 28
+said just #SUP: 34
+said with #SUP: 31
+said about #SUP: 38
+said people #SUP: 31
+said want #SUP: 20
+said country #SUP: 20
+said what #SUP: 32
+said from #SUP: 20
+said things #SUP: 21
+said should #SUP: 25
+said made #SUP: 29
+said total #SUP: 20
+said been #SUP: 21
+said there #SUP: 23
+said media #SUP: 30
+said media news #SUP: 27
+said media fake #SUP: 28
+said media news fake #SUP: 27
+said wrong #SUP: 31
+said very #SUP: 20
+said president #SUP: 32
+said news #SUP: 50
+said news fake #SUP: 48
+said hillary #SUP: 28
+said crooked #SUP: 21
+said dems #SUP: 26
+said fake #SUP: 58
+that looking #SUP: 34
+that told #SUP: 27
+that when #SUP: 112
+that when with #SUP: 28
+that when news #SUP: 21
+that when news fake #SUP: 20
+that when fake #SUP: 26
+that dead #SUP: 23
+that disaster #SUP: 27
+that just #SUP: 196
+that just with #SUP: 29
+that just about #SUP: 21
+that just many #SUP: 22
+that just will #SUP: 22
+that just failing #SUP: 20
+that just from #SUP: 27
+that just nothing #SUP: 22
+that just news #SUP: 33
+that just news fake #SUP: 32
+that just dems #SUP: 20
+that just democrats #SUP: 21
+that just fake #SUP: 44
+that ratings #SUP: 60
+that ratings with #SUP: 19
+that ratings news #SUP: 20
+that really #SUP: 58
+that better #SUP: 19
+that than #SUP: 75
+that than more #SUP: 30
+that with #SUP: 298
+that with about #SUP: 22
+that with people #SUP: 36
+that with didn’t #SUP: 23
+that with many #SUP: 37
+that with their #SUP: 22
+that with will #SUP: 25
+that with country #SUP: 22
+that with what #SUP: 32
+that with nothing #SUP: 24
+that with much #SUP: 23
+that with sleepy #SUP: 21
+that with only #SUP: 25
+that with would #SUP: 29
+that with done #SUP: 20
+that with there #SUP: 41
+that with there collusion #SUP: 27
+that with media #SUP: 53
+that with media news #SUP: 37
+that with media fake #SUP: 37
+that with media news fake #SUP: 35
+that with very #SUP: 42
+that with president #SUP: 39
+that with news #SUP: 68
+that with news fake #SUP: 60
+that with hillary #SUP: 31
+that with hillary crooked #SUP: 26
+that with crooked #SUP: 37
+that with russia #SUP: 36
+that with biden #SUP: 22
+that with fact #SUP: 26
+that with democrats #SUP: 25
+that with collusion #SUP: 35
+that with fake #SUP: 73
+that with hunt #SUP: 22
+that with hunt witch #SUP: 22
+that with witch #SUP: 23
+that hear #SUP: 19
+that political #SUP: 33
+that governor #SUP: 24
+that hope #SUP: 26
+that court #SUP: 20
+that down #SUP: 27
+that hard #SUP: 54
+that hard fake #SUP: 21
+that john #SUP: 33
+that remember #SUP: 26
+that about #SUP: 108
+that about what #SUP: 20
+that about talking #SUP: 20
+that about very #SUP: 19
+that does #SUP: 45
+that government #SUP: 29
+that more #SUP: 75
+that people #SUP: 200
+that people many #SUP: 33
+that people will #SUP: 27
+that people country #SUP: 22
+that people would #SUP: 21
+that people work #SUP: 20
+that people media #SUP: 37
+that people media news #SUP: 25
+that people media fake #SUP: 27
+that people media news fake #SUP: 25
+that people very #SUP: 24
+that people keep #SUP: 19
+that people news #SUP: 48
+that people news fake #SUP: 44
+that people democrats #SUP: 20
+that people fake #SUP: 46
+that those #SUP: 25
+that want #SUP: 72
+that want democrats #SUP: 26
+that didn’t #SUP: 52
+that over #SUP: 58
+that place #SUP: 32
+that many #SUP: 114
+that many nothing #SUP: 24
+that many media #SUP: 27
+that many others #SUP: 21
+that their #SUP: 108
+that their news #SUP: 25
+that their news fake #SUP: 24
+that their democrats #SUP: 30
+that their fake #SUP: 31
+that against #SUP: 58
+that doesn’t #SUP: 32
+that terrible #SUP: 29
+that obama #SUP: 37
+that absolutely #SUP: 21
+that border #SUP: 21
+that totally #SUP: 103
+that wanted #SUP: 22
+that failed #SUP: 27
+that illegal #SUP: 38
+that will #SUP: 186
+that will country #SUP: 27
+that will doing #SUP: 20
+that will possible #SUP: 19
+that will media #SUP: 32
+that will very #SUP: 23
+that will news #SUP: 29
+that will news fake #SUP: 23
+that will because #SUP: 19
+that will fake #SUP: 28
+that will nancy #SUP: 19
+that become #SUP: 25
+that country #SUP: 102
+that last #SUP: 44
+that were #SUP: 70
+that best #SUP: 28
+that republican #SUP: 50
+that republican party #SUP: 30
+that what #SUP: 85
+that years #SUP: 58
+that boring #SUP: 28
+that failing #SUP: 84
+that failing york #SUP: 23
+that failing york times #SUP: 23
+that failing story #SUP: 19
+that failing times #SUP: 23
+that from #SUP: 101
+that such #SUP: 27
+that deal #SUP: 42
+that nothing #SUP: 103
+that nothing dems #SUP: 23
+that nothing democrats #SUP: 24
+that nothing hunt #SUP: 20
+that nothing hunt witch #SUP: 20
+that nothing witch #SUP: 20
+that trump #SUP: 70
+that trump president #SUP: 21
+that level #SUP: 24
+that republicans #SUP: 44
+that doing #SUP: 77
+that doing news #SUP: 24
+that doing news fake #SUP: 22
+that doing everything #SUP: 21
+that doing fake #SUP: 22
+that things #SUP: 32
+that while #SUP: 30
+that announced #SUP: 19
+that getting #SUP: 26
+that badly #SUP: 50
+that money #SUP: 37
+that much #SUP: 86
+that much very #SUP: 20
+that much news #SUP: 26
+that much news fake #SUP: 19
+that much fake #SUP: 24
+that press #SUP: 23
+that fired #SUP: 25
+that long #SUP: 37
+that sleepy #SUP: 48
+that sleepy biden #SUP: 30
+that crime #SUP: 29
+that corrupt #SUP: 44
+that corrupt media #SUP: 21
+that them #SUP: 72
+that lost #SUP: 40
+that should #SUP: 121
+that should been #SUP: 26
+that should fake #SUP: 20
+that made #SUP: 77
+that made fake #SUP: 21
+that show #SUP: 50
+that wrote #SUP: 29
+that million #SUP: 19
+that total #SUP: 50
+that congress #SUP: 23
+that must #SUP: 51
+that before #SUP: 34
+that being #SUP: 64
+that debate #SUP: 32
+that forced #SUP: 22
+that take #SUP: 33
+that post #SUP: 26
+that post washington #SUP: 21
+that crazy #SUP: 37
+that only #SUP: 88
+that stories #SUP: 34
+that after #SUP: 44
+that possible #SUP: 46
+that been #SUP: 122
+that been mueller #SUP: 25
+that election #SUP: 73
+that would #SUP: 106
+that would very #SUP: 19
+that would news #SUP: 22
+that would fake #SUP: 20
+that administration #SUP: 19
+that done #SUP: 74
+that ever #SUP: 31
+that which #SUP: 30
+that since #SUP: 20
+that going #SUP: 56
+that york #SUP: 46
+that york times #SUP: 37
+that work #SUP: 58
+that talking #SUP: 28
+that don’t #SUP: 70
+that there #SUP: 93
+that there russia #SUP: 22
+that there collusion #SUP: 32
+that there fake #SUP: 20
+that despite #SUP: 33
+that your #SUP: 32
+that gone #SUP: 33
+that think #SUP: 28
+that history #SUP: 37
+that most #SUP: 33
+that wall #SUP: 25
+that also #SUP: 47
+that case #SUP: 26
+that happy #SUP: 23
+that know #SUP: 46
+that media #SUP: 202
+that media story #SUP: 23
+that media story news #SUP: 21
+that media story fake #SUP: 22
+that media story news fake #SUP: 21
+that media very #SUP: 27
+that media very fake #SUP: 19
+that media news #SUP: 130
+that media news fake #SUP: 128
+that media because #SUP: 23
+that media because fake #SUP: 19
+that media fake #SUP: 143
+that media hunt #SUP: 26
+that media hunt witch #SUP: 26
+that media witch #SUP: 26
+that media lamestream #SUP: 29
+that lies #SUP: 19
+that others #SUP: 44
+that wrong #SUP: 40
+that polls #SUP: 42
+that good #SUP: 61
+that good news #SUP: 22
+that good fake #SUP: 21
+that false #SUP: 42
+that story #SUP: 73
+that story news #SUP: 32
+that story fake #SUP: 41
+that story news fake #SUP: 32
+that every #SUP: 23
+that find #SUP: 27
+that massive #SUP: 21
+that even #SUP: 68
+that even fake #SUP: 21
+that almost #SUP: 24
+that angry #SUP: 25
+that very #SUP: 160
+that very news #SUP: 34
+that very fake #SUP: 33
+that very news fake #SUP: 29
+that other #SUP: 79
+that senator #SUP: 24
+that immigration #SUP: 21
+that world #SUP: 32
+that president #SUP: 99
+that keep #SUP: 32
+that news #SUP: 280
+that news reporting #SUP: 23
+that news reporting fake #SUP: 22
+that news because #SUP: 23
+that news because fake #SUP: 23
+that news fake #SUP: 250
+that report #SUP: 60
+that report fake #SUP: 22
+that report mueller #SUP: 27
+that reporting #SUP: 34
+that reporting fake #SUP: 22
+that bernie #SUP: 29
+that bernie sanders #SUP: 20
+that sanders #SUP: 24
+that left #SUP: 62
+that left radical #SUP: 48
+that left democrats #SUP: 19
+that another #SUP: 32
+that campaign #SUP: 45
+that always #SUP: 22
+that hillary #SUP: 137
+that hillary crooked #SUP: 104
+that hillary clinton #SUP: 53
+that hillary crooked clinton #SUP: 37
+that phony #SUP: 30
+that washington #SUP: 23
+that both #SUP: 19
+that night #SUP: 33
+that state #SUP: 40
+that trying #SUP: 36
+that little #SUP: 31
+that shows #SUP: 35
+that dishonest #SUP: 35
+that called #SUP: 19
+that bill #SUP: 24
+that vote #SUP: 31
+that senate #SUP: 24
+that because #SUP: 87
+that because fake #SUP: 27
+that party #SUP: 43
+that saying #SUP: 29
+that asking #SUP: 19
+that crooked #SUP: 124
+that crooked clinton #SUP: 37
+that given #SUP: 23
+that book #SUP: 29
+that some #SUP: 28
+that mess #SUP: 29
+that heard #SUP: 25
+that china #SUP: 38
+that russia #SUP: 71
+that russia collusion #SUP: 20
+that russia fake #SUP: 21
+that ridiculous #SUP: 33
+that order #SUP: 21
+that able #SUP: 21
+that presidential #SUP: 33
+that biden #SUP: 57
+that person #SUP: 21
+that countries #SUP: 21
+that scam #SUP: 30
+that clinton #SUP: 64
+that these #SUP: 21
+that business #SUP: 19
+that call #SUP: 34
+that could #SUP: 35
+that negative #SUP: 23
+that states #SUP: 51
+that states united #SUP: 22
+that same #SUP: 19
+that problem #SUP: 29
+that united #SUP: 25
+that working #SUP: 26
+that reports #SUP: 20
+that having #SUP: 20
+that year #SUP: 28
+that reported #SUP: 33
+that radical #SUP: 54
+that radical democrats #SUP: 19
+that hate #SUP: 19
+that can’t #SUP: 31
+that first #SUP: 45
+that true #SUP: 25
+that fact #SUP: 91
+that lied #SUP: 20
+that times #SUP: 41
+that dems #SUP: 68
+that anything #SUP: 27
+that under #SUP: 19
+that refuses #SUP: 25
+that everything #SUP: 28
+that based #SUP: 20
+that reason #SUP: 31
+that fraud #SUP: 23
+that come #SUP: 23
+that caught #SUP: 22
+that used #SUP: 23
+that sick #SUP: 23
+that race #SUP: 21
+that knew #SUP: 22
+that rigged #SUP: 42
+that actually #SUP: 24
+that american #SUP: 21
+that democrats #SUP: 140
+that democrat #SUP: 41
+that michael #SUP: 19
+that tremendous #SUP: 19
+that hoax #SUP: 47
+that hoax impeachment #SUP: 22
+that stated #SUP: 20
+that so-called #SUP: 24
+that collusion #SUP: 62
+that house #SUP: 59
+that house white #SUP: 34
+that white #SUP: 34
+that fake #SUP: 309
+that fake hunt #SUP: 21
+that fake witch #SUP: 21
+that fake hunt witch #SUP: 21
+that hunt #SUP: 87
+that hunt witch #SUP: 87
+that hunt mueller #SUP: 19
+that hunt witch mueller #SUP: 19
+that witch #SUP: 88
+that witch mueller #SUP: 19
+that james #SUP: 30
+that james comey #SUP: 21
+that nancy #SUP: 43
+that nancy pelosi #SUP: 31
+that pelosi #SUP: 35
+that enemy #SUP: 19
+that russian #SUP: 32
+that comey #SUP: 26
+that testimony #SUP: 20
+that exist #SUP: 19
+that mueller #SUP: 63
+that it’s #SUP: 23
+that impeachment #SUP: 34
+that lamestream #SUP: 33
+looking with #SUP: 21
+looking hillary #SUP: 19
+looking crooked #SUP: 19
+looking hunt #SUP: 20
+looking hunt witch #SUP: 20
+looking witch #SUP: 20
+numbers poll #SUP: 29
+numbers news #SUP: 21
+numbers news fake #SUP: 21
+numbers fake #SUP: 23
+poll just #SUP: 19
+when than #SUP: 27
+when with #SUP: 66
+when with media #SUP: 19
+when with news #SUP: 26
+when with news fake #SUP: 26
+when with fake #SUP: 29
+when remember #SUP: 28
+when about #SUP: 41
+when people #SUP: 49
+when people fake #SUP: 19
+when their #SUP: 23
+when totally #SUP: 24
+when will #SUP: 60
+when country #SUP: 20
+when what #SUP: 27
+when years #SUP: 19
+when failing #SUP: 25
+when nothing #SUP: 31
+when should #SUP: 19
+when made #SUP: 21
+when election #SUP: 22
+when would #SUP: 24
+when came #SUP: 20
+when media #SUP: 52
+when media news #SUP: 32
+when media fake #SUP: 38
+when media news fake #SUP: 31
+when story #SUP: 22
+when even #SUP: 22
+when very #SUP: 37
+when other #SUP: 25
+when president #SUP: 24
+when news #SUP: 63
+when news fake #SUP: 60
+when hillary #SUP: 31
+when hillary crooked #SUP: 22
+when crooked #SUP: 26
+when russia #SUP: 23
+when fact #SUP: 27
+when knew #SUP: 20
+when democrats #SUP: 36
+when fake #SUP: 85
+disaster will #SUP: 27
+disaster total #SUP: 28
+disaster obamacare #SUP: 19
+just ratings #SUP: 29
+just than #SUP: 31
+just with #SUP: 76
+just with about #SUP: 19
+just with what #SUP: 23
+just with news #SUP: 19
+just with news fake #SUP: 19
+just with fake #SUP: 22
+just morning #SUP: 21
+just down #SUP: 19
+just about #SUP: 64
+just about news #SUP: 21
+just about news fake #SUP: 21
+just about watched #SUP: 20
+just about fake #SUP: 22
+just more #SUP: 38
+just people #SUP: 56
+just want #SUP: 25
+just many #SUP: 46
+just their #SUP: 43
+just against #SUP: 35
+just totally #SUP: 49
+just will #SUP: 60
+just country #SUP: 26
+just were #SUP: 28
+just were news #SUP: 19
+just were fake #SUP: 19
+just were news fake #SUP: 19
+just republican #SUP: 23
+just what #SUP: 47
+just what fake #SUP: 19
+just years #SUP: 27
+just failing #SUP: 26
+just from #SUP: 47
+just such #SUP: 30
+just such watched #SUP: 20
+just nothing #SUP: 27
+just trump #SUP: 26
+just doing #SUP: 21
+just things #SUP: 20
+just much #SUP: 30
+just them #SUP: 23
+just should #SUP: 29
+just show #SUP: 23
+just total #SUP: 28
+just before #SUP: 24
+just post #SUP: 23
+just post fake #SUP: 21
+just been #SUP: 39
+just election #SUP: 42
+just going #SUP: 20
+just there #SUP: 24
+just media #SUP: 37
+just media news #SUP: 19
+just media fake #SUP: 22
+just lies #SUP: 26
+just polls #SUP: 23
+just story #SUP: 25
+just even #SUP: 29
+just hatred #SUP: 20
+just very #SUP: 45
+just other #SUP: 29
+just president #SUP: 26
+just news #SUP: 99
+just news fake #SUP: 93
+just report #SUP: 28
+just another #SUP: 37
+just campaign #SUP: 20
+just hillary #SUP: 36
+just hillary crooked #SUP: 29
+just washington #SUP: 21
+just watched #SUP: 56
+just watched fake #SUP: 20
+just party #SUP: 19
+just saying #SUP: 20
+just crooked #SUP: 40
+just biden #SUP: 20
+just dems #SUP: 31
+just everything #SUP: 24
+just democrats #SUP: 52
+just house #SUP: 25
+just house white #SUP: 19
+just white #SUP: 19
+just fake #SUP: 123
+ratings really #SUP: 24
+ratings with #SUP: 52
+ratings with news #SUP: 27
+ratings with fake #SUP: 31
+ratings with news fake #SUP: 21
+ratings morning #SUP: 35
+ratings down #SUP: 38
+ratings about #SUP: 20
+ratings their #SUP: 28
+ratings their news #SUP: 25
+ratings their fake #SUP: 21
+ratings their news fake #SUP: 21
+ratings will #SUP: 29
+ratings doing #SUP: 20
+ratings them #SUP: 23
+ratings very #SUP: 38
+ratings news #SUP: 69
+ratings news fake #SUP: 56
+ratings fake #SUP: 70
+ratings fake comcast #SUP: 20
+ratings comcast #SUP: 20
+really with #SUP: 31
+really people #SUP: 39
+really totally #SUP: 29
+really show #SUP: 22
+really would #SUP: 20
+really news #SUP: 33
+really news fake #SUP: 32
+really fake #SUP: 35
+better than #SUP: 42
+better with #SUP: 20
+better much #SUP: 40
+than with #SUP: 39
+than more #SUP: 161
+than more years #SUP: 22
+than more nothing #SUP: 20
+than more been #SUP: 37
+than more been dishonest #SUP: 19
+than more media #SUP: 27
+than more media news #SUP: 19
+than more media fake #SUP: 19
+than more media news fake #SUP: 19
+than more news #SUP: 29
+than more news fake #SUP: 24
+than more dishonest #SUP: 24
+than more fake #SUP: 26
+than people #SUP: 49
+than their #SUP: 25
+than will #SUP: 33
+than country #SUP: 28
+than years #SUP: 28
+than nothing #SUP: 31
+than republicans #SUP: 19
+than much #SUP: 44
+than them #SUP: 20
+than should #SUP: 28
+than only #SUP: 19
+than been #SUP: 48
+than been media #SUP: 20
+than been dishonest #SUP: 19
+than would #SUP: 28
+than ever #SUP: 21
+than going #SUP: 20
+than don’t #SUP: 20
+than know #SUP: 26
+than media #SUP: 36
+than media news #SUP: 24
+than media fake #SUP: 24
+than media news fake #SUP: 24
+than even #SUP: 40
+than very #SUP: 30
+than other #SUP: 36
+than worse #SUP: 37
+than news #SUP: 55
+than news dishonest #SUP: 19
+than news fake #SUP: 50
+than dishonest #SUP: 37
+than biden #SUP: 23
+than thought #SUP: 21
+than rather #SUP: 20
+than fact #SUP: 20
+than democrats #SUP: 35
+than fake #SUP: 52
+with governor #SUP: 20
+with morning #SUP: 20
+with down #SUP: 36
+with down news #SUP: 19
+with down fake #SUP: 26
+with down news fake #SUP: 19
+with hard #SUP: 20
+with about #SUP: 74
+with about what #SUP: 26
+with about news #SUP: 25
+with about news fake #SUP: 25
+with about fake #SUP: 31
+with does #SUP: 19
+with more #SUP: 28
+with people #SUP: 82
+with people news #SUP: 20
+with want #SUP: 49
+with didn’t #SUP: 34
+with over #SUP: 33
+with many #SUP: 57
+with their #SUP: 103
+with their media #SUP: 20
+with their media news #SUP: 19
+with their media fake #SUP: 20
+with their media news fake #SUP: 19
+with their news #SUP: 35
+with their news fake #SUP: 34
+with their democrats #SUP: 21
+with their fake #SUP: 41
+with against #SUP: 28
+with iran #SUP: 27
+with obama #SUP: 27
+with border #SUP: 22
+with totally #SUP: 44
+with failed #SUP: 29
+with illegal #SUP: 27
+with will #SUP: 114
+with will media #SUP: 20
+with will news #SUP: 25
+with will news fake #SUP: 21
+with will fake #SUP: 27
+with country #SUP: 61
+with last #SUP: 20
+with were #SUP: 40
+with what #SUP: 94
+with what news #SUP: 19
+with what fake #SUP: 24
+with what news fake #SUP: 19
+with years #SUP: 50
+with failing #SUP: 32
+with from #SUP: 29
+with such #SUP: 39
+with deal #SUP: 45
+with nothing #SUP: 68
+with trump #SUP: 52
+with trump haters #SUP: 20
+with trump fake #SUP: 19
+with republicans #SUP: 28
+with doing #SUP: 40
+with while #SUP: 22
+with getting #SUP: 19
+with badly #SUP: 30
+with much #SUP: 48
+with sleepy #SUP: 30
+with crime #SUP: 26
+with corrupt #SUP: 44
+with corrupt media #SUP: 26
+with corrupt media news #SUP: 21
+with corrupt media fake #SUP: 20
+with corrupt news #SUP: 23
+with corrupt news fake #SUP: 20
+with corrupt fake #SUP: 25
+with them #SUP: 53
+with lost #SUP: 21
+with should #SUP: 48
+with made #SUP: 47
+with total #SUP: 22
+with congress #SUP: 25
+with must #SUP: 34
+with being #SUP: 54
+with crazy #SUP: 32
+with only #SUP: 56
+with after #SUP: 23
+with been #SUP: 65
+with election #SUP: 37
+with would #SUP: 76
+with would news #SUP: 20
+with would fake #SUP: 20
+with would news fake #SUP: 20
+with done #SUP: 45
+with help #SUP: 20
+with which #SUP: 22
+with going #SUP: 48
+with going news #SUP: 19
+with going fake #SUP: 19
+with going news fake #SUP: 19
+with york #SUP: 24
+with work #SUP: 35
+with there #SUP: 82
+with there russia #SUP: 27
+with there russia collusion #SUP: 24
+with there collusion #SUP: 39
+with there fake #SUP: 21
+with there hunt #SUP: 20
+with there hunt witch #SUP: 20
+with there witch #SUP: 20
+with coming #SUP: 19
+with your #SUP: 24
+with history #SUP: 29
+with also #SUP: 23
+with case #SUP: 21
+with happy #SUP: 19
+with media #SUP: 128
+with media news #SUP: 99
+with media news tremendous #SUP: 19
+with media news tremendous fake #SUP: 19
+with media news fake #SUP: 94
+with media news fake hunt #SUP: 23
+with media news fake witch #SUP: 23
+with media news fake hunt witch #SUP: 23
+with media news hunt #SUP: 23
+with media news hunt witch #SUP: 23
+with media news witch #SUP: 23
+with media tremendous #SUP: 20
+with media tremendous fake #SUP: 19
+with media fake #SUP: 101
+with media fake hunt #SUP: 23
+with media fake witch #SUP: 23
+with media fake hunt witch #SUP: 23
+with media hunt #SUP: 27
+with media hunt witch #SUP: 27
+with media witch #SUP: 27
+with lies #SUP: 20
+with others #SUP: 23
+with wrong #SUP: 29
+with good #SUP: 36
+with false #SUP: 28
+with story #SUP: 38
+with story news #SUP: 20
+with story fake #SUP: 24
+with story news fake #SUP: 20
+with even #SUP: 37
+with hatred #SUP: 26
+with almost #SUP: 21
+with very #SUP: 104
+with very news #SUP: 21
+with very democrats #SUP: 19
+with very fake #SUP: 25
+with other #SUP: 34
+with president #SUP: 89
+with president news #SUP: 21
+with president fake #SUP: 19
+with president news fake #SUP: 19
+with news #SUP: 183
+with news democrats #SUP: 19
+with news democrats fake #SUP: 19
+with news tremendous #SUP: 21
+with news tremendous fake #SUP: 21
+with news fake #SUP: 171
+with news fake hunt #SUP: 23
+with news fake witch #SUP: 23
+with news fake hunt witch #SUP: 23
+with news hunt #SUP: 23
+with news hunt witch #SUP: 23
+with news witch #SUP: 23
+with report #SUP: 29
+with bernie #SUP: 20
+with left #SUP: 23
+with another #SUP: 31
+with campaign #SUP: 27
+with hillary #SUP: 72
+with hillary crooked #SUP: 56
+with hillary clinton #SUP: 29
+with hillary crooked clinton #SUP: 21
+with phony #SUP: 25
+with washington #SUP: 19
+with senate #SUP: 20
+with because #SUP: 33
+with party #SUP: 21
+with saying #SUP: 21
+with crooked #SUP: 69
+with crooked clinton #SUP: 21
+with china #SUP: 26
+with russia #SUP: 67
+with russia collusion #SUP: 34
+with russia fake #SUP: 23
+with russia hunt #SUP: 19
+with russia hunt witch #SUP: 19
+with russia witch #SUP: 19
+with biden #SUP: 41
+with clinton #SUP: 35
+with these #SUP: 19
+with call #SUP: 33
+with trade #SUP: 23
+with problem #SUP: 23
+with having #SUP: 26
+with respect #SUP: 20
+with first #SUP: 24
+with fact #SUP: 35
+with dems #SUP: 46
+with come #SUP: 19
+with democrats #SUP: 102
+with democrats fake #SUP: 25
+with open #SUP: 19
+with haters #SUP: 22
+with democrat #SUP: 39
+with tremendous #SUP: 35
+with tremendous fake #SUP: 21
+with meeting #SUP: 29
+with hoax #SUP: 25
+with along #SUP: 26
+with north #SUP: 24
+with north korea #SUP: 19
+with collusion #SUP: 64
+with collusion hunt #SUP: 20
+with collusion witch #SUP: 20
+with collusion hunt witch #SUP: 20
+with house #SUP: 29
+with fake #SUP: 204
+with fake hunt #SUP: 27
+with fake witch #SUP: 27
+with fake hunt witch #SUP: 27
+with hunt #SUP: 73
+with hunt witch #SUP: 73
+with witch #SUP: 74
+with nancy #SUP: 34
+with nancy pelosi #SUP: 29
+with pelosi #SUP: 33
+with korea #SUP: 19
+with mueller #SUP: 33
+political history #SUP: 30
+governor york #SUP: 20
+governor state #SUP: 20
+governor cuomo #SUP: 22
+morning watched #SUP: 21
+court supreme #SUP: 38
+down their #SUP: 25
+down will #SUP: 28
+down what #SUP: 21
+down lies #SUP: 19
+down even #SUP: 19
+down news #SUP: 40
+down news fake #SUP: 30
+down democrats #SUP: 19
+down fake #SUP: 40
+hard people #SUP: 19
+hard will #SUP: 20
+hard media #SUP: 35
+hard media news #SUP: 20
+hard media fake #SUP: 23
+hard media news fake #SUP: 20
+hard very #SUP: 22
+hard news #SUP: 34
+hard news fake #SUP: 34
+hard working #SUP: 53
+hard fake #SUP: 37
+john mccain #SUP: 20
+john bolton #SUP: 23
+justice department #SUP: 26
+once will #SUP: 19
+about people #SUP: 61
+about want #SUP: 27
+about over #SUP: 19
+about many #SUP: 32
+about their #SUP: 50
+about their news #SUP: 19
+about their fake #SUP: 20
+about their news fake #SUP: 19
+about obama #SUP: 20
+about totally #SUP: 29
+about will #SUP: 56
+about country #SUP: 28
+about were #SUP: 26
+about were news #SUP: 20
+about were fake #SUP: 20
+about were news fake #SUP: 20
+about what #SUP: 54
+about years #SUP: 20
+about failing #SUP: 33
+about from #SUP: 27
+about nothing #SUP: 54
+about trump #SUP: 22
+about things #SUP: 22
+about fired #SUP: 21
+about should #SUP: 25
+about made #SUP: 34
+about total #SUP: 20
+about being #SUP: 25
+about post #SUP: 19
+about crazy #SUP: 19
+about only #SUP: 20
+about stories #SUP: 26
+about been #SUP: 40
+about election #SUP: 21
+about done #SUP: 20
+about york #SUP: 19
+about knows #SUP: 19
+about talking #SUP: 53
+about talking fake #SUP: 20
+about don’t #SUP: 19
+about know #SUP: 25
+about media #SUP: 46
+about media news #SUP: 22
+about media fake #SUP: 27
+about media news fake #SUP: 22
+about lies #SUP: 24
+about false #SUP: 26
+about story #SUP: 39
+about even #SUP: 22
+about very #SUP: 55
+about president #SUP: 23
+about news #SUP: 112
+about news fake #SUP: 106
+about hillary #SUP: 40
+about hillary crooked #SUP: 19
+about phony #SUP: 20
+about watched #SUP: 20
+about crooked #SUP: 27
+about book #SUP: 24
+about clinton #SUP: 19
+about democrats #SUP: 24
+about fake #SUP: 124
+does what #SUP: 22
+does media #SUP: 20
+does news #SUP: 23
+does news fake #SUP: 21
+does fake #SUP: 24
+more people #SUP: 38
+more many #SUP: 20
+more their #SUP: 29
+more totally #SUP: 19
+more will #SUP: 31
+more country #SUP: 23
+more years #SUP: 30
+more nothing #SUP: 28
+more trump #SUP: 20
+more republicans #SUP: 22
+more much #SUP: 37
+more corrupt #SUP: 19
+more should #SUP: 39
+more made #SUP: 19
+more crazy #SUP: 19
+more only #SUP: 20
+more been #SUP: 49
+more been media #SUP: 21
+more been dishonest #SUP: 22
+more would #SUP: 20
+more done #SUP: 23
+more there #SUP: 28
+more there news #SUP: 22
+more there fake #SUP: 22
+more there news fake #SUP: 22
+more media #SUP: 46
+more media news #SUP: 30
+more media news fake #SUP: 30
+more media dishonest #SUP: 22
+more media fake #SUP: 32
+more even #SUP: 37
+more very #SUP: 32
+more other #SUP: 24
+more president #SUP: 24
+more news #SUP: 79
+more news dishonest #SUP: 25
+more news fake #SUP: 71
+more news dishonest fake #SUP: 21
+more report #SUP: 19
+more hillary #SUP: 22
+more dishonest #SUP: 43
+more dishonest fake #SUP: 23
+more crooked #SUP: 19
+more mess #SUP: 19
+more democrats #SUP: 30
+more fake #SUP: 75
+people want #SUP: 44
+people over #SUP: 36
+people many #SUP: 69
+people their #SUP: 71
+people against #SUP: 20
+people terrible #SUP: 20
+people absolutely #SUP: 19
+people totally #SUP: 21
+people will #SUP: 84
+people country #SUP: 75
+people last #SUP: 22
+people were #SUP: 22
+people what #SUP: 40
+people years #SUP: 36
+people failing #SUP: 31
+people from #SUP: 45
+people nothing #SUP: 43
+people republicans #SUP: 19
+people doing #SUP: 21
+people things #SUP: 24
+people much #SUP: 32
+people sleepy #SUP: 19
+people corrupt #SUP: 35
+people corrupt media #SUP: 22
+people them #SUP: 34
+people should #SUP: 27
+people made #SUP: 29
+people total #SUP: 24
+people must #SUP: 21
+people being #SUP: 31
+people crazy #SUP: 21
+people only #SUP: 36
+people been #SUP: 38
+people election #SUP: 33
+people would #SUP: 55
+people done #SUP: 25
+people real #SUP: 21
+people going #SUP: 32
+people work #SUP: 37
+people don’t #SUP: 27
+people there #SUP: 39
+people most #SUP: 20
+people know #SUP: 29
+people media #SUP: 93
+people media news #SUP: 60
+people media news fake #SUP: 57
+people media news enemy #SUP: 24
+people media news fake enemy #SUP: 21
+people media fake #SUP: 64
+people media fake enemy #SUP: 25
+people media enemy #SUP: 32
+people millions #SUP: 19
+people truly #SUP: 28
+people others #SUP: 25
+people every #SUP: 21
+people even #SUP: 40
+people angry #SUP: 21
+people very #SUP: 56
+people president #SUP: 28
+people keep #SUP: 22
+people news #SUP: 120
+people news fake #SUP: 110
+people news enemy #SUP: 40
+people news fake enemy #SUP: 37
+people reporting #SUP: 20
+people left #SUP: 20
+people hillary #SUP: 27
+people hillary crooked #SUP: 23
+people phony #SUP: 20
+people dishonest #SUP: 29
+people because #SUP: 33
+people party #SUP: 23
+people crooked #SUP: 27
+people watch #SUP: 24
+people these #SUP: 35
+people call #SUP: 20
+people working #SUP: 25
+people radical #SUP: 19
+people true #SUP: 19
+people fact #SUP: 23
+people dems #SUP: 19
+people anything #SUP: 19
+people under #SUP: 20
+people fraud #SUP: 21
+people american #SUP: 52
+people democrats #SUP: 72
+people democrat #SUP: 22
+people hoax #SUP: 26
+people fake #SUP: 119
+people fake enemy #SUP: 41
+people hunt #SUP: 24
+people hunt witch #SUP: 24
+people witch #SUP: 25
+people enemy #SUP: 65
+people mueller #SUP: 21
+want didn’t #SUP: 23
+want their #SUP: 30
+want doesn’t #SUP: 27
+want will #SUP: 23
+want country #SUP: 38
+want nothing #SUP: 21
+want them #SUP: 25
+want don’t #SUP: 44
+want don’t democrats #SUP: 24
+want very #SUP: 28
+want news #SUP: 29
+want news fake #SUP: 27
+want report #SUP: 20
+want left #SUP: 19
+want because #SUP: 28
+want crooked #SUP: 19
+want dems #SUP: 46
+want democrats #SUP: 76
+want open #SUP: 22
+want fake #SUP: 27
+didn’t many #SUP: 21
+didn’t democrats #SUP: 22
+didn’t fake #SUP: 20
+paid crooked #SUP: 20
+over what #SUP: 23
+over years #SUP: 31
+over nothing #SUP: 19
+over made #SUP: 21
+over media #SUP: 49
+over media news #SUP: 20
+over media fake #SUP: 29
+over media news fake #SUP: 20
+over very #SUP: 26
+over news #SUP: 34
+over news fake #SUP: 33
+over democrat #SUP: 19
+over fake #SUP: 43
+place should #SUP: 19
+place first #SUP: 23
+many their #SUP: 21
+many totally #SUP: 21
+many will #SUP: 29
+many country #SUP: 21
+many were #SUP: 23
+many what #SUP: 24
+many years #SUP: 41
+many from #SUP: 31
+many nothing #SUP: 30
+many trump #SUP: 19
+many doing #SUP: 20
+many things #SUP: 28
+many show #SUP: 20
+many being #SUP: 25
+many possible #SUP: 21
+many been #SUP: 28
+many election #SUP: 26
+many going #SUP: 37
+many there #SUP: 24
+many media #SUP: 50
+many media news #SUP: 25
+many media fake #SUP: 31
+many media news fake #SUP: 25
+many lies #SUP: 20
+many others #SUP: 28
+many even #SUP: 25
+many very #SUP: 27
+many other #SUP: 36
+many news #SUP: 54
+many news fake #SUP: 51
+many hillary #SUP: 21
+many hillary crooked #SUP: 20
+many crooked #SUP: 22
+many dems #SUP: 19
+many democrats #SUP: 26
+many fake #SUP: 63
+stock market #SUP: 20
+thank news #SUP: 21
+thank fake #SUP: 23
+thank news fake #SUP: 20
+their totally #SUP: 23
+their will #SUP: 44
+their country #SUP: 30
+their were #SUP: 32
+their what #SUP: 37
+their failing #SUP: 20
+their from #SUP: 36
+their nothing #SUP: 45
+their nothing democrats #SUP: 25
+their republicans #SUP: 24
+their doing #SUP: 30
+their while #SUP: 21
+their corrupt #SUP: 21
+their them #SUP: 60
+their should #SUP: 41
+their made #SUP: 21
+their being #SUP: 31
+their stories #SUP: 24
+their been #SUP: 33
+their election #SUP: 24
+their going #SUP: 38
+their going news #SUP: 21
+their going fake #SUP: 21
+their going news fake #SUP: 21
+their don’t #SUP: 20
+their media #SUP: 69
+their media news #SUP: 50
+their media news fake #SUP: 50
+their media fake #SUP: 51
+their media partner #SUP: 19
+their wrong #SUP: 21
+their hatred #SUP: 25
+their almost #SUP: 23
+their very #SUP: 29
+their other #SUP: 24
+their news #SUP: 117
+their news democrats #SUP: 21
+their news fake #SUP: 108
+their news democrats fake #SUP: 21
+their left #SUP: 27
+their left radical #SUP: 21
+their hillary #SUP: 19
+their phony #SUP: 23
+their dishonest #SUP: 22
+their because #SUP: 35
+their radical #SUP: 21
+their dems #SUP: 36
+their everything #SUP: 20
+their democrats #SUP: 107
+their democrats fake #SUP: 22
+their democrat #SUP: 23
+their sources #SUP: 25
+their fake #SUP: 119
+their hunt #SUP: 25
+their hunt witch #SUP: 25
+their witch #SUP: 26
+their impeachment #SUP: 21
+their partner #SUP: 25
+against will #SUP: 41
+against should #SUP: 20
+against media #SUP: 24
+against news #SUP: 19
+against news fake #SUP: 19
+against hillary #SUP: 33
+against hillary crooked #SUP: 25
+against because #SUP: 21
+against party #SUP: 20
+against crooked #SUP: 27
+against democrats #SUP: 20
+against fake #SUP: 25
+doesn’t media #SUP: 19
+doesn’t news #SUP: 25
+doesn’t news fake #SUP: 25
+doesn’t fake #SUP: 26
+ineffective weak #SUP: 21
+iran deal #SUP: 34
+obama years #SUP: 21
+obama administration #SUP: 22
+obama president #SUP: 47
+obama hillary #SUP: 24
+weak illegal #SUP: 26
+weak illegal immigration #SUP: 26
+weak crime #SUP: 25
+weak very #SUP: 30
+weak immigration #SUP: 36
+absolutely nothing #SUP: 22
+border security #SUP: 29
+border southern #SUP: 35
+border been #SUP: 20
+border wall #SUP: 24
+border very #SUP: 20
+border democrats #SUP: 30
+control media #SUP: 20
+totally what #SUP: 23
+totally corrupt #SUP: 29
+totally should #SUP: 23
+totally made #SUP: 20
+totally been #SUP: 32
+totally going #SUP: 26
+totally media #SUP: 49
+totally media news #SUP: 24
+totally media news fake #SUP: 24
+totally media dishonest #SUP: 20
+totally media fake #SUP: 24
+totally false #SUP: 22
+totally story #SUP: 27
+totally even #SUP: 19
+totally very #SUP: 24
+totally news #SUP: 59
+totally news fake #SUP: 56
+totally hillary #SUP: 35
+totally hillary crooked #SUP: 22
+totally hillary clinton #SUP: 20
+totally state #SUP: 20
+totally dishonest #SUP: 39
+totally crooked #SUP: 22
+totally clinton #SUP: 21
+totally biased #SUP: 29
+totally truth #SUP: 24
+totally democrats #SUP: 21
+totally fake #SUP: 61
+well doing #SUP: 20
+well news #SUP: 23
+well news fake #SUP: 23
+well fake #SUP: 24
+failed candidate #SUP: 35
+failed candidate presidential #SUP: 31
+failed presidential #SUP: 37
+failed former #SUP: 19
+illegal immigrants #SUP: 23
+illegal country #SUP: 21
+illegal very #SUP: 22
+illegal immigration #SUP: 39
+illegal hunt #SUP: 35
+illegal hunt witch #SUP: 35
+illegal witch #SUP: 35
+laws immigration #SUP: 19
+will country #SUP: 62
+will best #SUP: 19
+will republican #SUP: 22
+will what #SUP: 35
+will years #SUP: 39
+will failing #SUP: 34
+will from #SUP: 44
+will deal #SUP: 19
+will nothing #SUP: 42
+will republicans #SUP: 33
+will doing #SUP: 37
+will much #SUP: 37
+will long #SUP: 22
+will sleepy #SUP: 37
+will sleepy biden #SUP: 25
+will corrupt #SUP: 28
+will them #SUP: 49
+will should #SUP: 21
+will made #SUP: 26
+will show #SUP: 22
+will total #SUP: 26
+will before #SUP: 19
+will take #SUP: 19
+will crazy #SUP: 20
+will only #SUP: 36
+will possible #SUP: 27
+will been #SUP: 45
+will election #SUP: 47
+will done #SUP: 32
+will ever #SUP: 47
+will which #SUP: 27
+will soon #SUP: 25
+will going #SUP: 35
+will don’t #SUP: 19
+will there #SUP: 35
+will your #SUP: 19
+will think #SUP: 27
+will history #SUP: 33
+will into #SUP: 22
+will also #SUP: 20
+will media #SUP: 86
+will media news #SUP: 52
+will media fake #SUP: 51
+will media news fake #SUP: 49
+will good #SUP: 32
+will even #SUP: 40
+will very #SUP: 48
+will worse #SUP: 20
+will change #SUP: 20
+will news #SUP: 99
+will news fake #SUP: 89
+will report #SUP: 29
+will left #SUP: 19
+will hillary #SUP: 85
+will hillary crooked #SUP: 58
+will hillary clinton #SUP: 26
+will hillary crooked clinton #SUP: 20
+will state #SUP: 25
+will vote #SUP: 22
+will because #SUP: 33
+will party #SUP: 24
+will crooked #SUP: 60
+will crooked clinton #SUP: 20
+will biden #SUP: 38
+will clinton #SUP: 28
+will these #SUP: 19
+will obamacare #SUP: 21
+will radical #SUP: 22
+will dems #SUP: 41
+will anything #SUP: 26
+will democrats #SUP: 65
+will november #SUP: 20
+will hoax #SUP: 24
+will that’s #SUP: 21
+will house #SUP: 19
+will fake #SUP: 105
+will hunt #SUP: 37
+will hunt witch #SUP: 37
+will witch #SUP: 37
+will nancy #SUP: 27
+will mueller #SUP: 21
+will impeachment #SUP: 19
+become media #SUP: 21
+become news #SUP: 22
+become news fake #SUP: 22
+become fake #SUP: 22
+country stop #SUP: 24
+country were #SUP: 22
+country what #SUP: 30
+country failing #SUP: 22
+country from #SUP: 22
+country nothing #SUP: 34
+country doing #SUP: 23
+country them #SUP: 20
+country should #SUP: 43
+country must #SUP: 22
+country before #SUP: 19
+country been #SUP: 30
+country would #SUP: 20
+country there #SUP: 21
+country history #SUP: 29
+country media #SUP: 46
+country media news #SUP: 31
+country media fake #SUP: 32
+country media news fake #SUP: 31
+country good #SUP: 24
+country very #SUP: 45
+country news #SUP: 46
+country news fake #SUP: 44
+country hillary #SUP: 22
+country hillary crooked #SUP: 20
+country party #SUP: 24
+country crooked #SUP: 21
+country dems #SUP: 36
+country democrats #SUP: 55
+country democrat #SUP: 22
+country hoax #SUP: 20
+country fake #SUP: 49
+country hunt #SUP: 19
+country hunt witch #SUP: 19
+country witch #SUP: 19
+last night #SUP: 79
+were nothing #SUP: 20
+were trump #SUP: 23
+were been #SUP: 24
+were almost #SUP: 19
+were news #SUP: 38
+were news fake #SUP: 37
+were democrats #SUP: 41
+were fake #SUP: 42
+were mueller #SUP: 23
+best ever #SUP: 26
+best news #SUP: 19
+best news fake #SUP: 19
+best fake #SUP: 19
+republican news #SUP: 21
+republican news fake #SUP: 19
+republican party #SUP: 85
+republican fake #SUP: 19
+what from #SUP: 31
+what doing #SUP: 43
+what should #SUP: 27
+what must #SUP: 23
+what been #SUP: 42
+what election #SUP: 26
+what would #SUP: 33
+what done #SUP: 27
+what going #SUP: 39
+what york #SUP: 20
+what there #SUP: 24
+what media #SUP: 33
+what even #SUP: 25
+what hatred #SUP: 20
+what almost #SUP: 20
+what very #SUP: 23
+what news #SUP: 58
+what news fake #SUP: 53
+what left #SUP: 20
+what hillary #SUP: 33
+what hillary crooked #SUP: 24
+what crooked #SUP: 31
+what radical #SUP: 19
+what happening #SUP: 21
+what dems #SUP: 26
+what democrats #SUP: 36
+what democrat #SUP: 22
+what hoax #SUP: 20
+what fake #SUP: 60
+what hunt #SUP: 24
+what hunt witch #SUP: 24
+what witch #SUP: 25
+what mueller #SUP: 26
+years failing #SUP: 20
+years nothing #SUP: 21
+years after #SUP: 24
+years been #SUP: 59
+years done #SUP: 27
+years other #SUP: 24
+years hillary #SUP: 21
+years crooked #SUP: 23
+years biden #SUP: 25
+years first #SUP: 20
+years fake #SUP: 26
+boring book #SUP: 19
+failing from #SUP: 23
+failing badly #SUP: 22
+failing should #SUP: 20
+failing wrote #SUP: 22
+failing been #SUP: 22
+failing done #SUP: 21
+failing york #SUP: 61
+failing york times #SUP: 60
+failing media #SUP: 34
+failing media news #SUP: 24
+failing media fake #SUP: 25
+failing media news fake #SUP: 24
+failing false #SUP: 21
+failing story #SUP: 49
+failing story times #SUP: 19
+failing very #SUP: 29
+failing news #SUP: 49
+failing news fake #SUP: 43
+failing reporting #SUP: 23
+failing times #SUP: 62
+failing fake #SUP: 52
+from nothing #SUP: 21
+from take #SUP: 20
+from post #SUP: 22
+from been #SUP: 29
+from election #SUP: 19
+from would #SUP: 22
+from media #SUP: 38
+from media news #SUP: 24
+from media fake #SUP: 24
+from media news fake #SUP: 22
+from very #SUP: 38
+from president #SUP: 22
+from news #SUP: 55
+from news fake #SUP: 49
+from hillary #SUP: 38
+from hillary crooked #SUP: 32
+from crooked #SUP: 40
+from china #SUP: 19
+from clinton #SUP: 22
+from away #SUP: 20
+from rigged #SUP: 23
+from democrats #SUP: 42
+from democrat #SUP: 19
+from fake #SUP: 59
+from hunt #SUP: 30
+from hunt witch #SUP: 30
+from witch #SUP: 30
+look even #SUP: 26
+look news #SUP: 24
+look news fake #SUP: 24
+look hillary #SUP: 26
+look hillary crooked #SUP: 24
+look crooked #SUP: 25
+look clinton #SUP: 19
+look fake #SUP: 25
+such news #SUP: 34
+such news fake #SUP: 34
+such watched #SUP: 20
+such fake #SUP: 36
+deal made #SUP: 23
+deal very #SUP: 22
+nothing trump #SUP: 25
+nothing doing #SUP: 65
+nothing doing democrats #SUP: 25
+nothing them #SUP: 36
+nothing should #SUP: 24
+nothing show #SUP: 19
+nothing being #SUP: 20
+nothing been #SUP: 27
+nothing done #SUP: 67
+nothing done democrats #SUP: 24
+nothing going #SUP: 23
+nothing knows #SUP: 22
+nothing work #SUP: 19
+nothing media #SUP: 31
+nothing media fake #SUP: 22
+nothing false #SUP: 20
+nothing even #SUP: 22
+nothing very #SUP: 32
+nothing other #SUP: 23
+nothing president #SUP: 19
+nothing news #SUP: 38
+nothing news fake #SUP: 36
+nothing party #SUP: 27
+nothing dems #SUP: 51
+nothing democrats #SUP: 180
+nothing democrats hoax #SUP: 30
+nothing democrats impeachment #SUP: 32
+nothing democrats hoax impeachment #SUP: 20
+nothing democrat #SUP: 19
+nothing hoax #SUP: 33
+nothing hoax impeachment #SUP: 23
+nothing fake #SUP: 45
+nothing hunt #SUP: 33
+nothing hunt witch #SUP: 33
+nothing witch #SUP: 33
+nothing nancy #SUP: 26
+nothing mueller #SUP: 25
+nothing impeachment #SUP: 42
+trump them #SUP: 21
+trump should #SUP: 24
+trump been #SUP: 19
+trump administration #SUP: 21
+trump media #SUP: 24
+trump media news #SUP: 19
+trump media fake #SUP: 19
+trump media news fake #SUP: 19
+trump even #SUP: 23
+trump other #SUP: 21
+trump president #SUP: 33
+trump news #SUP: 48
+trump news fake #SUP: 45
+trump report #SUP: 20
+trump campaign #SUP: 23
+trump first #SUP: 22
+trump democrats #SUP: 32
+trump democrats haters #SUP: 25
+trump haters #SUP: 31
+trump fake #SUP: 52
+trump mueller #SUP: 19
+republicans must #SUP: 25
+republicans dems #SUP: 27
+republicans democrats #SUP: 41
+republicans impeachment #SUP: 19
+continues hunt #SUP: 24
+continues witch #SUP: 24
+continues hunt witch #SUP: 24
+doing badly #SUP: 24
+doing much #SUP: 19
+doing possible #SUP: 28
+doing possible everything #SUP: 25
+doing been #SUP: 24
+doing done #SUP: 21
+doing media #SUP: 36
+doing media news #SUP: 21
+doing media fake #SUP: 26
+doing media news fake #SUP: 21
+doing very #SUP: 33
+doing other #SUP: 24
+doing news #SUP: 50
+doing news fake #SUP: 48
+doing dems #SUP: 19
+doing everything #SUP: 41
+doing democrats #SUP: 40
+doing fake #SUP: 57
+things other #SUP: 20
+while news #SUP: 22
+while fake #SUP: 21
+while news fake #SUP: 21
+getting congress #SUP: 23
+getting done #SUP: 32
+getting dems #SUP: 19
+getting fake #SUP: 21
+badly done #SUP: 19
+badly very #SUP: 29
+funny news #SUP: 25
+funny news fake #SUP: 25
+funny watch #SUP: 29
+funny fake #SUP: 34
+money should #SUP: 22
+much being #SUP: 26
+much only #SUP: 29
+much would #SUP: 25
+much media #SUP: 37
+much media news #SUP: 26
+much media fake #SUP: 26
+much media news fake #SUP: 24
+much very #SUP: 42
+much other #SUP: 23
+much worse #SUP: 20
+much news #SUP: 69
+much news fake #SUP: 59
+much fake #SUP: 66
+seen before #SUP: 32
+eyes sleepy #SUP: 24
+press news #SUP: 25
+press fake #SUP: 28
+press news fake #SUP: 24
+watching news #SUP: 22
+can't hillary #SUP: 19
+fired should #SUP: 21
+long only #SUP: 19
+long been #SUP: 21
+long president #SUP: 19
+sleepy media #SUP: 20
+sleepy news #SUP: 26
+sleepy news fake #SUP: 25
+sleepy bernie #SUP: 20
+sleepy biden #SUP: 94
+sleepy fake #SUP: 27
+crime democrats #SUP: 26
+billion dollars #SUP: 20
+corrupt been #SUP: 37
+corrupt been media #SUP: 20
+corrupt there #SUP: 20
+corrupt most #SUP: 33
+corrupt media #SUP: 96
+corrupt media news #SUP: 54
+corrupt media news fake #SUP: 51
+corrupt media dishonest #SUP: 30
+corrupt media mainstream #SUP: 21
+corrupt media mainstream fake #SUP: 19
+corrupt media fake #SUP: 61
+corrupt news #SUP: 66
+corrupt news fake #SUP: 59
+corrupt hillary #SUP: 24
+corrupt dishonest #SUP: 30
+corrupt biden #SUP: 46
+corrupt mainstream #SUP: 21
+corrupt mainstream fake #SUP: 19
+corrupt fake #SUP: 74
+corrupt hunt #SUP: 19
+corrupt hunt witch #SUP: 19
+corrupt witch #SUP: 19
+corrupt schiff #SUP: 30
+them should #SUP: 19
+them there #SUP: 19
+them media #SUP: 44
+them media news #SUP: 21
+them media fake #SUP: 24
+them media news fake #SUP: 21
+them even #SUP: 21
+them very #SUP: 25
+them news #SUP: 37
+them news fake #SUP: 35
+them left #SUP: 20
+them left radical #SUP: 19
+them because #SUP: 23
+them radical #SUP: 19
+them dems #SUP: 23
+them democrats #SUP: 32
+them fake #SUP: 44
+lost credibility #SUP: 29
+lost media #SUP: 21
+lost news #SUP: 20
+lost news fake #SUP: 19
+lost fake #SUP: 19
+credibility media #SUP: 30
+credibility fake #SUP: 20
+should allowed #SUP: 26
+should only #SUP: 25
+should been #SUP: 62
+should been mueller #SUP: 21
+should done #SUP: 35
+should which #SUP: 29
+should ashamed #SUP: 24
+should media #SUP: 26
+should media news #SUP: 25
+should media fake #SUP: 25
+should media news fake #SUP: 25
+should even #SUP: 20
+should very #SUP: 26
+should other #SUP: 20
+should president #SUP: 45
+should news #SUP: 47
+should news fake #SUP: 45
+should report #SUP: 20
+should another #SUP: 22
+should hillary #SUP: 26
+should crooked #SUP: 19
+should first #SUP: 23
+should democrats #SUP: 39
+should hoax #SUP: 20
+should collusion #SUP: 19
+should fake #SUP: 50
+should hunt #SUP: 35
+should hunt witch #SUP: 35
+should witch #SUP: 35
+should mueller #SUP: 34
+made total #SUP: 19
+made stories #SUP: 24
+made stories book #SUP: 19
+made been #SUP: 26
+made ever #SUP: 21
+made media #SUP: 25
+made media news #SUP: 20
+made media fake #SUP: 20
+made media news fake #SUP: 20
+made story #SUP: 32
+made president #SUP: 25
+made statement #SUP: 26
+made news #SUP: 44
+made news fake #SUP: 41
+made book #SUP: 25
+made fake #SUP: 60
+show media #SUP: 22
+show polls #SUP: 25
+show news #SUP: 25
+show news fake #SUP: 25
+show fake #SUP: 30
+loser total #SUP: 22
+total report #SUP: 19
+total collusion #SUP: 19
+total hunt #SUP: 23
+total hunt witch #SUP: 23
+total witch #SUP: 23
+total mueller #SUP: 21
+worst history #SUP: 30
+congress must #SUP: 22
+congress been #SUP: 19
+congress done #SUP: 22
+congress democrats #SUP: 31
+must news #SUP: 20
+must fake #SUP: 21
+must news fake #SUP: 19
+before election #SUP: 32
+before which #SUP: 22
+before fake #SUP: 22
+being only #SUP: 19
+being would #SUP: 22
+being media #SUP: 41
+being media news #SUP: 20
+being media fake #SUP: 25
+being media news fake #SUP: 19
+being very #SUP: 19
+being news #SUP: 48
+being news fake #SUP: 42
+being democrats #SUP: 21
+being fake #SUP: 49
+debate mike #SUP: 25
+debate mini #SUP: 25
+debate mike mini #SUP: 25
+take democrats #SUP: 19
+post news #SUP: 24
+post news fake #SUP: 23
+post washington #SUP: 100
+post washington fake #SUP: 47
+post washington amazon #SUP: 36
+post fake #SUP: 53
+post amazon #SUP: 39
+crazy going #SUP: 36
+crazy going media #SUP: 19
+crazy going news #SUP: 23
+crazy going news fake #SUP: 23
+crazy going fake #SUP: 23
+crazy media #SUP: 27
+crazy news #SUP: 32
+crazy news fake #SUP: 30
+crazy bernie #SUP: 54
+crazy democrats #SUP: 29
+crazy fake #SUP: 31
+crazy nancy #SUP: 55
+crazy nancy pelosi #SUP: 25
+crazy pelosi #SUP: 26
+only been #SUP: 19
+only election #SUP: 21
+only don’t #SUP: 25
+only media #SUP: 35
+only media news #SUP: 23
+only media fake #SUP: 26
+only media news fake #SUP: 23
+only very #SUP: 27
+only worse #SUP: 25
+only news #SUP: 64
+only news fake #SUP: 62
+only hillary #SUP: 23
+only because #SUP: 26
+only democrats #SUP: 37
+only fake #SUP: 68
+stories been #SUP: 20
+stories media #SUP: 40
+stories media news #SUP: 29
+stories media fake #SUP: 29
+stories media news fake #SUP: 29
+stories false #SUP: 19
+stories news #SUP: 49
+stories news fake #SUP: 49
+stories dishonest #SUP: 22
+stories book #SUP: 21
+stories sources #SUP: 21
+stories fake #SUP: 55
+right been #SUP: 25
+right left #SUP: 24
+after news #SUP: 29
+after fake #SUP: 22
+after news fake #SUP: 22
+possible media #SUP: 21
+possible media fake #SUP: 19
+possible news #SUP: 31
+possible news fake #SUP: 31
+possible everything #SUP: 25
+possible fake #SUP: 33
+been election #SUP: 22
+been would #SUP: 25
+been done #SUP: 40
+been which #SUP: 19
+been there #SUP: 48
+been media #SUP: 66
+been media news #SUP: 49
+been media fake #SUP: 49
+been media news fake #SUP: 49
+been wrong #SUP: 26
+been false #SUP: 25
+been even #SUP: 24
+been very #SUP: 32
+been worse #SUP: 26
+been president #SUP: 23
+been news #SUP: 71
+been news fake #SUP: 67
+been report #SUP: 20
+been hillary #SUP: 28
+been dishonest #SUP: 27
+been crooked #SUP: 23
+been russia #SUP: 23
+been dems #SUP: 30
+been democrats #SUP: 31
+been fake #SUP: 72
+been pelosi #SUP: 20
+been mueller #SUP: 33
+election media #SUP: 44
+election media fake #SUP: 24
+election news #SUP: 31
+election news fake #SUP: 27
+election hillary #SUP: 27
+election hillary crooked #SUP: 25
+election because #SUP: 19
+election crooked #SUP: 29
+election presidential #SUP: 23
+election fraud #SUP: 22
+election rigged #SUP: 64
+election democrats #SUP: 41
+election fake #SUP: 44
+would media #SUP: 24
+would media fake #SUP: 19
+would very #SUP: 41
+would president #SUP: 27
+would news #SUP: 42
+would news fake #SUP: 38
+would hillary #SUP: 25
+would because #SUP: 28
+would democrats #SUP: 38
+would fake #SUP: 40
+would hunt #SUP: 20
+would hunt witch #SUP: 20
+would witch #SUP: 20
+done work #SUP: 26
+done there #SUP: 19
+done president #SUP: 22
+done dems #SUP: 21
+done democrats #SUP: 39
+done fake #SUP: 19
+done hunt #SUP: 19
+done hunt witch #SUP: 19
+done witch #SUP: 19
+ever most #SUP: 25
+ever media #SUP: 26
+ever media news #SUP: 20
+ever media fake #SUP: 23
+ever media news fake #SUP: 20
+ever news #SUP: 28
+ever news fake #SUP: 28
+ever democrats #SUP: 19
+ever fake #SUP: 31
+ever hunt #SUP: 19
+ever hunt witch #SUP: 19
+ever witch #SUP: 19
+which even #SUP: 26
+which news #SUP: 24
+which news fake #SUP: 19
+which fake #SUP: 23
+small very #SUP: 23
+real media #SUP: 36
+real media fake #SUP: 24
+real story #SUP: 20
+real news #SUP: 29
+real news fake #SUP: 28
+real fake #SUP: 38
+going there #SUP: 20
+going media #SUP: 42
+going media news #SUP: 31
+going media fake #SUP: 32
+going media news fake #SUP: 31
+going news #SUP: 71
+going news fake #SUP: 64
+going hillary #SUP: 21
+going dems #SUP: 19
+going democrats #SUP: 21
+going fake #SUP: 68
+york story #SUP: 34
+york story times #SUP: 34
+york times #SUP: 124
+york times fake #SUP: 29
+york fake #SUP: 29
+york cuomo #SUP: 21
+came fake #SUP: 21
+work media #SUP: 20
+work democrats #SUP: 20
+work fake #SUP: 21
+talking news #SUP: 21
+talking fake #SUP: 23
+talking news fake #SUP: 21
+don’t know #SUP: 42
+don’t even #SUP: 30
+don’t other #SUP: 19
+don’t news #SUP: 37
+don’t news fake #SUP: 37
+don’t democrats #SUP: 44
+don’t fake #SUP: 41
+there media #SUP: 46
+there media news #SUP: 36
+there media fake #SUP: 40
+there media news fake #SUP: 36
+there very #SUP: 33
+there news #SUP: 59
+there news fake #SUP: 59
+there russia #SUP: 35
+there russia collusion #SUP: 25
+there democrats #SUP: 21
+there democrat #SUP: 21
+there collusion #SUP: 65
+there collusion fake #SUP: 20
+there collusion hunt #SUP: 30
+there collusion hunt witch #SUP: 30
+there collusion witch #SUP: 30
+there fake #SUP: 72
+there hunt #SUP: 38
+there hunt witch #SUP: 38
+there witch #SUP: 42
+despite media #SUP: 32
+despite media news #SUP: 28
+despite media fake #SUP: 28
+despite media news fake #SUP: 28
+despite very #SUP: 22
+despite news #SUP: 44
+despite news fake #SUP: 44
+despite fake #SUP: 49
+give democrats #SUP: 20
+your media #SUP: 22
+your media news #SUP: 21
+your media fake #SUP: 21
+your media news fake #SUP: 21
+your president #SUP: 20
+your news #SUP: 31
+your news fake #SUP: 28
+your fake #SUP: 29
+gone media #SUP: 30
+gone news #SUP: 25
+gone news fake #SUP: 19
+gone fake #SUP: 19
+rate third #SUP: 31
+dangerous very #SUP: 26
+history most #SUP: 21
+history greatest #SUP: 47
+history greatest hunt #SUP: 28
+history greatest witch #SUP: 28
+history greatest hunt witch #SUP: 28
+history american #SUP: 37
+history hunt #SUP: 34
+history hunt witch #SUP: 34
+history witch #SUP: 34
+into news #SUP: 20
+into fake #SUP: 19
+into news fake #SUP: 19
+most media #SUP: 25
+most media news #SUP: 21
+most media fake #SUP: 23
+most media news fake #SUP: 21
+most news #SUP: 31
+most news fake #SUP: 28
+most dishonest #SUP: 19
+most fake #SUP: 33
+borders open #SUP: 21
+wall journal #SUP: 19
+wall journal street #SUP: 19
+wall street #SUP: 35
+wall fake #SUP: 22
+also very #SUP: 25
+also news #SUP: 23
+also news fake #SUP: 20
+also fake #SUP: 27
+lawyer michael #SUP: 20
+beat hillary #SUP: 20
+elizabeth goofy #SUP: 42
+elizabeth warren #SUP: 66
+elizabeth goofy warren #SUP: 40
+know other #SUP: 20
+know news #SUP: 24
+know news fake #SUP: 24
+know fake #SUP: 26
+media wrong #SUP: 36
+media wrong news #SUP: 21
+media wrong fake #SUP: 21
+media wrong news fake #SUP: 21
+media polls #SUP: 32
+media polls news #SUP: 28
+media polls fake #SUP: 30
+media polls news fake #SUP: 28
+media false #SUP: 34
+media false news #SUP: 20
+media false news fake #SUP: 20
+media false reporting #SUP: 19
+media false fake #SUP: 20
+media story #SUP: 47
+media story news #SUP: 31
+media story fake #SUP: 40
+media story news fake #SUP: 31
+media even #SUP: 37
+media even fake #SUP: 22
+media very #SUP: 89
+media very news #SUP: 53
+media very news fake #SUP: 53
+media very dishonest #SUP: 20
+media very fake #SUP: 59
+media other #SUP: 28
+media other fake #SUP: 19
+media worse #SUP: 22
+media president #SUP: 23
+media keep #SUP: 25
+media news #SUP: 433
+media news reporting #SUP: 31
+media news reporting fake #SUP: 31
+media news left #SUP: 24
+media news left radical #SUP: 22
+media news left fake #SUP: 24
+media news left radical fake #SUP: 22
+media news phony #SUP: 30
+media news phony fake #SUP: 30
+media news dishonest #SUP: 26
+media news dishonest fake #SUP: 26
+media news because #SUP: 19
+media news because fake #SUP: 19
+media news party #SUP: 19
+media news party fake #SUP: 19
+media news russia #SUP: 24
+media news russia fake #SUP: 24
+media news purposely #SUP: 23
+media news purposely fake #SUP: 23
+media news radical #SUP: 24
+media news radical fake #SUP: 24
+media news democrats #SUP: 29
+media news democrats fake #SUP: 29
+media news tremendous #SUP: 22
+media news tremendous fake #SUP: 22
+media news social #SUP: 28
+media news social fake #SUP: 28
+media news mainstream #SUP: 24
+media news mainstream fake #SUP: 24
+media news fake #SUP: 426
+media news fake hunt #SUP: 34
+media news fake hunt witch #SUP: 34
+media news fake witch #SUP: 34
+media news fake enemy #SUP: 21
+media news fake lamestream #SUP: 30
+media news hunt #SUP: 34
+media news hunt witch #SUP: 34
+media news witch #SUP: 34
+media news enemy #SUP: 24
+media news lamestream #SUP: 31
+media report #SUP: 28
+media reporting #SUP: 43
+media reporting fake #SUP: 31
+media left #SUP: 46
+media left radical #SUP: 43
+media left fake #SUP: 24
+media left radical fake #SUP: 22
+media hillary #SUP: 29
+media hillary crooked #SUP: 23
+media phony #SUP: 41
+media phony fake #SUP: 32
+media little #SUP: 20
+media dishonest #SUP: 90
+media dishonest fake #SUP: 30
+media because #SUP: 34
+media because fake #SUP: 21
+media party #SUP: 34
+media party fake #SUP: 23
+media crooked #SUP: 30
+media russia #SUP: 29
+media russia fake #SUP: 25
+media purposely #SUP: 23
+media purposely fake #SUP: 23
+media working #SUP: 22
+media truth #SUP: 23
+media radical #SUP: 46
+media radical fake #SUP: 24
+media coverage #SUP: 24
+media dems #SUP: 30
+media dems fake #SUP: 19
+media refuses #SUP: 19
+media sick #SUP: 19
+media rigged #SUP: 26
+media democrats #SUP: 41
+media democrats fake #SUP: 34
+media economy #SUP: 19
+media democrat #SUP: 39
+media democrat fake #SUP: 24
+media tremendous #SUP: 24
+media tremendous fake #SUP: 22
+media social #SUP: 41
+media social fake #SUP: 31
+media hoax #SUP: 26
+media hoax fake #SUP: 20
+media mainstream #SUP: 58
+media mainstream fake #SUP: 33
+media collusion #SUP: 25
+media fake #SUP: 480
+media fake hunt #SUP: 34
+media fake hunt witch #SUP: 34
+media fake witch #SUP: 34
+media fake enemy #SUP: 25
+media fake lamestream #SUP: 33
+media hunt #SUP: 45
+media hunt witch #SUP: 45
+media witch #SUP: 45
+media enemy #SUP: 33
+media partner #SUP: 19
+media lamestream #SUP: 99
+though even #SUP: 21
+lies news #SUP: 21
+lies news fake #SUP: 21
+lies week #SUP: 19
+lies fake #SUP: 29
+truly fake #SUP: 19
+others news #SUP: 23
+others fake #SUP: 27
+others news fake #SUP: 23
+wrong news #SUP: 33
+wrong news fake #SUP: 29
+wrong purposely #SUP: 22
+wrong fake #SUP: 31
+polls news #SUP: 45
+polls fake #SUP: 61
+polls news fake #SUP: 45
+raise taxes #SUP: 20
+good very #SUP: 30
+good news #SUP: 34
+good news fake #SUP: 22
+good democrats #SUP: 23
+good fake #SUP: 33
+false story #SUP: 28
+false news #SUP: 40
+false news fake #SUP: 37
+false reporting #SUP: 31
+false fake #SUP: 40
+story even #SUP: 23
+story very #SUP: 25
+story news #SUP: 84
+story news russia #SUP: 19
+story news fake #SUP: 76
+story news russia fake #SUP: 19
+story another #SUP: 26
+story phony #SUP: 19
+story russia #SUP: 31
+story russia fake #SUP: 19
+story times #SUP: 35
+story fake #SUP: 99
+every fake #SUP: 19
+even very #SUP: 44
+even other #SUP: 25
+even worse #SUP: 23
+even news #SUP: 56
+even news fake #SUP: 43
+even crooked #SUP: 22
+even clinton #SUP: 19
+even call #SUP: 27
+even dems #SUP: 24
+even democrats #SUP: 22
+even fake #SUP: 61
+even hunt #SUP: 28
+even hunt witch #SUP: 28
+even witch #SUP: 28
+even mueller #SUP: 19
+hatred news #SUP: 19
+hatred fake #SUP: 19
+hatred news fake #SUP: 19
+almost news #SUP: 31
+almost fake #SUP: 36
+almost news fake #SUP: 30
+angry democrats #SUP: 65
+angry democrats hunt #SUP: 22
+angry democrats hunt witch #SUP: 22
+angry democrats witch #SUP: 22
+angry democrats mueller #SUP: 22
+angry hunt #SUP: 23
+angry hunt witch #SUP: 23
+angry witch #SUP: 23
+angry mueller #SUP: 31
+very president #SUP: 27
+very news #SUP: 96
+very news fake #SUP: 89
+very reporting #SUP: 24
+very left #SUP: 20
+very always #SUP: 20
+very hillary #SUP: 22
+very night #SUP: 25
+very little #SUP: 37
+very unfair #SUP: 22
+very dishonest #SUP: 40
+very because #SUP: 30
+very crooked #SUP: 22
+very democrats #SUP: 45
+very democrat #SUP: 20
+very house #SUP: 19
+very fake #SUP: 103
+very witch #SUP: 19
+very weekend #SUP: 20
+networks news #SUP: 30
+networks fake #SUP: 30
+networks news fake #SUP: 30
+other because #SUP: 22
+other biden #SUP: 20
+other countries #SUP: 30
+other democrats #SUP: 21
+other fake #SUP: 27
+other side #SUP: 19
+senator lightweight #SUP: 25
+immigration democrats #SUP: 21
+worse news #SUP: 28
+worse fake #SUP: 31
+worse news fake #SUP: 27
+president news #SUP: 40
+president news fake #SUP: 32
+president hillary #SUP: 44
+president hillary crooked #SUP: 29
+president hillary clinton #SUP: 29
+president crooked #SUP: 29
+president clinton #SUP: 33
+president call #SUP: 19
+president democrats #SUP: 23
+president house #SUP: 20
+president fake #SUP: 36
+president hunt #SUP: 19
+president hunt witch #SUP: 19
+president witch #SUP: 19
+keep news #SUP: 20
+news report #SUP: 52
+news report fake #SUP: 46
+news reporting #SUP: 74
+news reporting purposely #SUP: 20
+news reporting fake #SUP: 63
+news reporting purposely fake #SUP: 20
+news left #SUP: 37
+news left radical #SUP: 31
+news left fake #SUP: 33
+news left radical fake #SUP: 29
+news another #SUP: 19
+news phony #SUP: 44
+news phony fake #SUP: 44
+news washington #SUP: 22
+news washington fake #SUP: 21
+news dishonest #SUP: 50
+news dishonest fake #SUP: 43
+news watched #SUP: 22
+news watched fake #SUP: 22
+news record #SUP: 22
+news record fake #SUP: 21
+news because #SUP: 40
+news because fake #SUP: 35
+news party #SUP: 29
+news party fake #SUP: 27
+news saying #SUP: 23
+news saying fake #SUP: 19
+news russia #SUP: 47
+news russia fake #SUP: 42
+news major #SUP: 21
+news major fake #SUP: 21
+news amazing #SUP: 20
+news amazing fake #SUP: 20
+news watch #SUP: 42
+news watch fake #SUP: 42
+news inaccurate #SUP: 21
+news purposely #SUP: 35
+news purposely fake #SUP: 33
+news these #SUP: 27
+news these fake #SUP: 22
+news business #SUP: 22
+news facts #SUP: 29
+news facts fake #SUP: 29
+news working #SUP: 28
+news working fake #SUP: 28
+news truth #SUP: 30
+news truth fake #SUP: 30
+news reported #SUP: 23
+news reported fake #SUP: 21
+news radical #SUP: 33
+news radical fake #SUP: 31
+news first #SUP: 31
+news first fake #SUP: 31
+news true #SUP: 19
+news fact #SUP: 19
+news fact fake #SUP: 19
+news dems #SUP: 27
+news dems fake #SUP: 27
+news everything #SUP: 29
+news everything fake #SUP: 29
+news caught #SUP: 23
+news caught fake #SUP: 23
+news sick #SUP: 26
+news sick fake #SUP: 26
+news actually #SUP: 29
+news actually fake #SUP: 25
+news american #SUP: 20
+news american fake #SUP: 20
+news democrats #SUP: 49
+news democrats fake #SUP: 45
+news democrat #SUP: 26
+news democrat fake #SUP: 24
+news tremendous #SUP: 28
+news tremendous fake #SUP: 28
+news social #SUP: 28
+news social fake #SUP: 28
+news hoax #SUP: 19
+news sources #SUP: 35
+news sources fake #SUP: 35
+news mainstream #SUP: 24
+news mainstream fake #SUP: 24
+news that’s #SUP: 23
+news that’s fake #SUP: 22
+news house #SUP: 26
+news house white #SUP: 26
+news house fake #SUP: 22
+news house white fake #SUP: 22
+news white #SUP: 26
+news white fake #SUP: 22
+news fake #SUP: 1042
+news fake hunt #SUP: 42
+news fake hunt witch #SUP: 42
+news fake witch #SUP: 42
+news fake enemy #SUP: 39
+news fake exist #SUP: 20
+news fake opposition #SUP: 20
+news fake lamestream #SUP: 30
+news fake msdnc #SUP: 27
+news hunt #SUP: 42
+news hunt witch #SUP: 42
+news witch #SUP: 42
+news enemy #SUP: 42
+news exist #SUP: 20
+news opposition #SUP: 20
+news lamestream #SUP: 31
+news msdnc #SUP: 27
+report crooked #SUP: 20
+report democrats #SUP: 26
+report democrats mueller #SUP: 22
+report collusion #SUP: 27
+report collusion mueller #SUP: 22
+report fake #SUP: 51
+report hunt #SUP: 28
+report hunt witch #SUP: 28
+report witch #SUP: 28
+report mueller #SUP: 61
+reporting dishonest #SUP: 31
+reporting purposely #SUP: 22
+reporting purposely fake #SUP: 20
+reporting fake #SUP: 70
+bernie sanders #SUP: 76
+bernie sanders hillary #SUP: 26
+bernie sanders crooked #SUP: 24
+bernie sanders hillary crooked #SUP: 22
+bernie hillary #SUP: 38
+bernie hillary crooked #SUP: 34
+bernie hillary clinton #SUP: 21
+bernie crooked #SUP: 37
+bernie clinton #SUP: 23
+sanders hillary #SUP: 29
+sanders crooked #SUP: 28
+sanders hillary crooked #SUP: 23
+left radical #SUP: 186
+left radical democrats #SUP: 70
+left radical democrat #SUP: 25
+left radical fake #SUP: 29
+left democrats #SUP: 77
+left democrat #SUP: 30
+left fake #SUP: 33
+another fake #SUP: 31
+campaign hillary #SUP: 28
+campaign hillary crooked #SUP: 21
+campaign hillary clinton #SUP: 20
+campaign crooked #SUP: 26
+campaign crooked clinton #SUP: 19
+campaign clinton #SUP: 26
+campaign democrats #SUP: 23
+candidate presidential #SUP: 49
+romney mitt #SUP: 33
+anymore watch #SUP: 19
+hillary because #SUP: 20
+hillary crooked #SUP: 413
+hillary crooked russia #SUP: 19
+hillary crooked clinton #SUP: 189
+hillary crooked clinton democrats #SUP: 23
+hillary crooked rigged #SUP: 34
+hillary crooked democrats #SUP: 39
+hillary crooked judgement #SUP: 22
+hillary crooked fake #SUP: 20
+hillary crooked hunt #SUP: 20
+hillary crooked hunt witch #SUP: 20
+hillary crooked witch #SUP: 20
+hillary russia #SUP: 20
+hillary clinton #SUP: 271
+hillary clinton rigged #SUP: 19
+hillary clinton democrats #SUP: 24
+hillary clinton judgement #SUP: 26
+hillary isis #SUP: 19
+hillary rigged #SUP: 44
+hillary democrats #SUP: 40
+hillary judgement #SUP: 35
+hillary unfit #SUP: 20
+hillary fake #SUP: 22
+hillary hunt #SUP: 20
+hillary hunt witch #SUP: 20
+hillary witch #SUP: 20
+phony fake #SUP: 47
+phony hunt #SUP: 37
+phony hunt witch #SUP: 37
+phony witch #SUP: 41
+washington fake #SUP: 51
+washington amazon #SUP: 36
+night live #SUP: 24
+night live saturday #SUP: 24
+night late #SUP: 21
+night saturday #SUP: 32
+night fake #SUP: 20
+lightweight marco #SUP: 33
+lightweight rubio #SUP: 38
+lightweight marco rubio #SUP: 32
+trying democrats #SUP: 21
+marco rubio #SUP: 57
+dishonest fake #SUP: 49
+watched fake #SUP: 26
+record fake #SUP: 25
+because dems #SUP: 33
+because democrats #SUP: 25
+because fake #SUP: 44
+party dems #SUP: 24
+party democrat #SUP: 40
+party fake #SUP: 34
+party nancy #SUP: 19
+saying fake #SUP: 19
+crooked russia #SUP: 21
+crooked clinton #SUP: 196
+crooked clinton democrats #SUP: 23
+crooked rigged #SUP: 36
+crooked democrats #SUP: 41
+crooked judgement #SUP: 22
+crooked collusion #SUP: 21
+crooked fake #SUP: 27
+crooked hunt #SUP: 24
+crooked hunt witch #SUP: 24
+crooked witch #SUP: 24
+book michael #SUP: 20
+book fake #SUP: 19
+some fake #SUP: 21
+dollars billions #SUP: 30
+china biden #SUP: 33
+china fake #SUP: 19
+china virus #SUP: 21
+russia democrats #SUP: 28
+russia hoax #SUP: 34
+russia collusion #SUP: 41
+russia fake #SUP: 51
+russia hunt #SUP: 36
+russia hunt witch #SUP: 36
+russia witch #SUP: 36
+live saturday #SUP: 24
+major fake #SUP: 24
+amazing fake #SUP: 20
+journal street #SUP: 19
+watch fake #SUP: 46
+biden swine #SUP: 20
+scam impeachment #SUP: 25
+inaccurate fake #SUP: 21
+purposely fake #SUP: 33
+system rigged #SUP: 36
+clinton rigged #SUP: 20
+clinton democrats #SUP: 25
+clinton judgement #SUP: 28
+these fake #SUP: 27
+call fake #SUP: 22
+facts fake #SUP: 29
+negative fake #SUP: 21
+states united #SUP: 95
+states democrats #SUP: 20
+showing fake #SUP: 19
+working democrats #SUP: 21
+working fake #SUP: 32
+truth fake #SUP: 33
+reported fake #SUP: 21
+radical dems #SUP: 19
+radical democrats #SUP: 72
+radical democrat #SUP: 27
+radical fake #SUP: 31
+cruz lyin' #SUP: 24
+first fake #SUP: 34
+fact fake #SUP: 21
+lied comey #SUP: 21
+greatest hunt #SUP: 32
+greatest witch #SUP: 32
+greatest hunt witch #SUP: 32
+coverage fake #SUP: 20
+times fake #SUP: 35
+dems nervous #SUP: 20
+dems nervous nancy #SUP: 20
+dems nervous pelosi #SUP: 20
+dems nervous nancy pelosi #SUP: 20
+dems democrats #SUP: 39
+dems fake #SUP: 33
+dems hunt #SUP: 24
+dems hunt witch #SUP: 24
+dems witch #SUP: 24
+dems nancy #SUP: 29
+dems nancy pelosi #SUP: 24
+dems pelosi #SUP: 24
+dems mueller #SUP: 24
+refuses fake #SUP: 19
+everything fake #SUP: 29
+nervous nancy #SUP: 35
+nervous pelosi #SUP: 29
+nervous nancy pelosi #SUP: 29
+fraud voter #SUP: 24
+caught fake #SUP: 25
+sick fake #SUP: 26
+knew fake #SUP: 20
+rigged democrats #SUP: 24
+rigged hunt #SUP: 55
+rigged hunt witch #SUP: 55
+rigged witch #SUP: 56
+actually fake #SUP: 27
+goofy warren #SUP: 40
+american democrats #SUP: 24
+american fake #SUP: 21
+democrats haters #SUP: 25
+democrats hoax #SUP: 54
+democrats hoax impeachment #SUP: 30
+democrats collusion #SUP: 27
+democrats house #SUP: 32
+democrats fake #SUP: 63
+democrats hunt #SUP: 53
+democrats hunt witch #SUP: 53
+democrats witch #SUP: 53
+democrats mueller #SUP: 46
+democrats impeachment #SUP: 45
+federal reserve #SUP: 27
+democrat fake #SUP: 35
+democrat hunt #SUP: 28
+democrat hunt witch #SUP: 28
+democrat witch #SUP: 28
+michael cohen #SUP: 19
+tremendous fake #SUP: 28
+handling swine #SUP: 19
+chuck todd #SUP: 20
+chuck schumer #SUP: 40
+chuck schumer cryin’ #SUP: 24
+chuck cryin’ #SUP: 28
+social fake #SUP: 31
+bloomberg mike #SUP: 50
+bloomberg mini #SUP: 50
+bloomberg mike mini #SUP: 50
+hoax collusion #SUP: 21
+hoax fake #SUP: 23
+hoax hunt #SUP: 33
+hoax hunt witch #SUP: 33
+hoax witch #SUP: 33
+hoax nancy #SUP: 21
+hoax russian #SUP: 21
+hoax impeachment #SUP: 88
+sources fake #SUP: 35
+mainstream fake #SUP: 33
+robert hunt #SUP: 21
+robert hunt witch #SUP: 21
+robert hunt mueller #SUP: 21
+robert hunt witch mueller #SUP: 21
+robert witch #SUP: 21
+robert witch mueller #SUP: 21
+robert mueller #SUP: 45
+information fake #SUP: 23
+north korea #SUP: 40
+collusion fake #SUP: 25
+collusion hunt #SUP: 50
+collusion hunt witch #SUP: 50
+collusion witch #SUP: 50
+collusion russian #SUP: 36
+collusion obstruction #SUP: 30
+collusion mueller #SUP: 45
+that’s fake #SUP: 22
+house white #SUP: 102
+house fake #SUP: 29
+house white fake #SUP: 28
+white fake #SUP: 28
+mike mini #SUP: 92
+fake hunt #SUP: 48
+fake hunt witch #SUP: 48
+fake witch #SUP: 53
+fake enemy #SUP: 43
+fake exist #SUP: 21
+fake amazon #SUP: 23
+fake dossier #SUP: 25
+fake comcast #SUP: 22
+fake opposition #SUP: 24
+fake suppression #SUP: 25
+fake lamestream #SUP: 33
+fake msdnc #SUP: 27
+hunt witch #SUP: 325
+hunt witch russian #SUP: 39
+hunt witch mueller #SUP: 46
+hunt russian #SUP: 39
+hunt mueller #SUP: 46
+witch russian #SUP: 39
+witch mueller #SUP: 46
+james comey #SUP: 95
+nancy pelosi #SUP: 105
+nancy impeachment #SUP: 24
+pelosi schumer #SUP: 24
+schumer cryin’ #SUP: 24
+puerto rico #SUP: 24
+roger stone #SUP: 21
+adam schiff #SUP: 66
+adam shifty #SUP: 19
+adam schiff shifty #SUP: 19
+schiff shifty #SUP: 45
+cummings elijah #SUP: 20
+swine h1n1 #SUP: 24

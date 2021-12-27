@@ -83,7 +83,7 @@ def plot_hasse():
     Draw "hasse-like" graph.
     :return:
     """
-    nodes = load_fis_from_file("../output/output-experiment-2-0.04-words.txt")
+    nodes = load_fis_from_file("../output/output-experiment-2-0.1-words.txt")
 
     G = nx.DiGraph()
     for node in nodes:
@@ -91,14 +91,14 @@ def plot_hasse():
     for i in range(len(nodes)):
         for j in range(len(nodes)):
             if len(nodes[i]) == len(nodes[j]):
-                break
+                continue
             elif len(nodes[i]) < len(nodes[j]):
                 ok = True
                 for item in nodes[i]:
                     if item not in nodes[j]:
                         ok = False
                         break
-                if ok:
+                if ok and abs(len(nodes[i]) - len(nodes[j])) == 1:
                     G.add_edge(str(nodes[i]), str(nodes[j]), length=2)
             else:
                 ok = True
@@ -106,10 +106,10 @@ def plot_hasse():
                     if item not in nodes[i]:
                         ok = False
                         break
-                if ok:
+                if ok and abs(len(nodes[i]) - len(nodes[j])) == 1:
                     G.add_edge(str(nodes[j]), str(nodes[i]), length=2)
     pos = nx.spiral_layout(G)
-    nx.draw(G, pos, with_labels=True, connectionstyle='arc3, rad = 0.1')
+    nx.draw(G, pos, with_labels=True, connectionstyle='arc3, rad = 0.3')
     plt.show()
 
 

@@ -1,0 +1,53 @@
+been #SUP: 780
+have #SUP: 1956
+just #SUP: 1303
+should #SUP: 904
+they #SUP: 2421
+this #SUP: 1460
+with #SUP: 2003
+great #SUP: 1176
+never #SUP: 1031
+time #SUP: 636
+like #SUP: 889
+that #SUP: 2830
+when #SUP: 724
+will #SUP: 1763
+than #SUP: 725
+about #SUP: 935
+people #SUP: 1378
+more #SUP: 838
+many #SUP: 843
+their #SUP: 1042
+totally #SUP: 629
+would #SUP: 730
+country #SUP: 803
+what #SUP: 831
+from #SUP: 809
+nothing #SUP: 859
+much #SUP: 674
+even #SUP: 940
+only #SUP: 701
+president #SUP: 673
+which #SUP: 694
+very #SUP: 1223
+media #SUP: 1220
+news #SUP: 1994
+hillary #SUP: 882
+crooked #SUP: 784
+democrats #SUP: 1129
+fake #SUP: 2157
+witch #SUP: 633
+have they #SUP: 707
+have that #SUP: 665
+they that #SUP: 821
+they news #SUP: 696
+they news fake #SUP: 646
+they fake #SUP: 738
+with that #SUP: 706
+that news #SUP: 672
+that fake #SUP: 719
+media news #SUP: 785
+media fake #SUP: 849
+media news fake #SUP: 760
+news fake #SUP: 1815
+hillary crooked #SUP: 662

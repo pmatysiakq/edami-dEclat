@@ -83,7 +83,7 @@ def plot_hasse():
     Draw "hasse-like" graph.
     :return:
     """
-    nodes = load_fis_from_file("../output/output-declat-0.06-words.txt")
+    nodes = load_fis_from_file("../output/output-experiment-2-0.04-words.txt")
 
     G = nx.DiGraph()
     for node in nodes:

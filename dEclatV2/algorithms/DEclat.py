@@ -1,7 +1,7 @@
 from dEclatV2.db.TransactionDatabase import *
 import time, math, tracemalloc
 
-class Eclat:
+class DEclat:
 
     def __init__(self):
         self.minsup_relative: int
@@ -229,13 +229,18 @@ class Eclat:
         print("===========================================================================")
 
     def perform_experiment(self):
-        sup_values = [0.1, 0.08, 0.06, 0.04, 0.02, 0.008, 0.006, 0.004, 0.002, 0.0015, 0.0013, 0.0012, 0.0011]
+        # Define different min_sup values
+        sup_values = [0.1, 0.08, 0.06, 0.04, 0.03, 0.02, 0.01, 0.009, 0.008, 0.007, 0.006, 0.005]
+        # Create file to save results
         results = open("../results/trump-experiment.csv", "w", encoding="utf-8")
+        # Indicate input database file and create new database instance
         input = "../input_data/trump-transactions.txt"
         database = TransactionDatabase(file_path=input)
+        # describe values in csv file
         results.write("min_sup,total_time,peak_memory,db_size,fis_count")
+        # For each support value, run declat algorithm and save results to the scv file
         for sup in sup_values:
-            output = f"../output/output-declat-{sup}.txt"
+            output = f"../output/output-experiment-2-{sup}.txt"
             start_time, end_time, memory, db_size, fi_count = self.run_algorithm(output=output, database=database, minsupp=sup)
             total_time = end_time - start_time
             results.write(f"\n{sup},{total_time},{memory},{db_size},{fi_count}")
@@ -244,19 +249,23 @@ class Eclat:
 
 
 if __name__ == "__main__":
+    # # We define path to the input file
     # input = "../input_data/elonmusk-transactions.txt"
-    # # input = "../input_data/covid-transactions.txt"
-    # # input = "../input_data/trump-transactions.txt"
-    # output = "../output/output-declat.txt"
-    # min_supp = 0.1
-    #
+    # # We define path to the output file
+    # output = "../output/output-experiment-1.txt"
+    # # We set-up min-supp parameter - 5%
+    # min_supp = 0.05
+    # # We create TransactionDatabase instance using input file
     # database = TransactionDatabase(file_path=input)
     #
-    # eclat = Eclat()
-    # eclat.run_algorithm(output=output, database=database, minsupp=min_supp)
-    # eclat.print_stats()
-    #
+    # # We create dEclat instance
+    # declat = DEclat()
+    # # We run algorithm for specified parameters
+    # declat.run_algorithm(output=output, database=database, minsupp=min_supp)
+    # # We print out statistics
+    # declat.print_stats()
+    # # Additionally, we translate found frequent item-sets to the actual words
     # database.translate_integers_into_words(file_path=output)
 
-    eclat = Eclat()
-    eclat.perform_experiment()
+    declat = DEclat()
+    declat.perform_experiment()

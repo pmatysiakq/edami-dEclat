@@ -143,7 +143,7 @@ class Parser:
             for line in trumpy.readlines():
                 with open("tweets_raw/trump-tweets.txt", "a", encoding='utf-8') as file:
                     try:
-                        file.write(line.split(",")[4].strip("\n"))
+                        file.write(line.split("\",\"")[4].strip("\n"))
                         file.write("\n")
                     except Exception as e:
                         print(f"Couldn't save line. Exception: {e}")

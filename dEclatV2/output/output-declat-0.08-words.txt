@@ -1,8 +1,0 @@
-they #SUP: 1142
-have #SUP: 961
-that #SUP: 1667
-with #SUP: 953
-will #SUP: 762
-news #SUP: 1159
-fake #SUP: 1251
-news fake #SUP: 1042

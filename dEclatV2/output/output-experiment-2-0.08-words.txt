@@ -1,0 +1,27 @@
+have #SUP: 1956
+just #SUP: 1303
+should #SUP: 904
+they #SUP: 2421
+this #SUP: 1460
+with #SUP: 2003
+great #SUP: 1176
+never #SUP: 1031
+like #SUP: 889
+that #SUP: 2830
+will #SUP: 1763
+about #SUP: 935
+people #SUP: 1378
+more #SUP: 838
+many #SUP: 843
+their #SUP: 1042
+what #SUP: 831
+nothing #SUP: 859
+even #SUP: 940
+very #SUP: 1223
+media #SUP: 1220
+news #SUP: 1994
+hillary #SUP: 882
+democrats #SUP: 1129
+fake #SUP: 2157
+media fake #SUP: 849
+news fake #SUP: 1815

@@ -1,0 +1,311 @@
+resolution #SUP: 2
+than #SUP: 6
+reality #SUP: 3
+with #SUP: 11
+someone #SUP: 3
+their #SUP: 2
+yeah #SUP: 3
+haha #SUP: 4
+have #SUP: 5
+more #SUP: 6
+rendering #SUP: 2
+spend #SUP: 2
+that #SUP: 13
+will #SUP: 13
+until #SUP: 2
+people #SUP: 5
+physics #SUP: 2
+about #SUP: 3
+compressing #SUP: 2
+game #SUP: 3
+like #SUP: 8
+much #SUP: 5
+reverse #SUP: 2
+small #SUP: 2
+video #SUP: 3
+orbit #SUP: 2
+what #SUP: 6
+goes #SUP: 3
+long #SUP: 2
+still #SUP: 7
+this #SUP: 14
+christmas #SUP: 2
+good #SUP: 5
+it’s #SUP: 4
+crazy #SUP: 2
+tesla #SUP: 9
+would #SUP: 3
+year #SUP: 4
+from #SUP: 3
+complete #SUP: 2
+holidays #SUP: 2
+putting #SUP: 2
+some #SUP: 4
+that’s #SUP: 4
+there #SUP: 5
+lots #SUP: 2
+time #SUP: 5
+your #SUP: 4
+such #SUP: 2
+added #SUP: 2
+holiday #SUP: 3
+release #SUP: 4
+software #SUP: 4
+today #SUP: 4
+looks #SUP: 2
+doge #SUP: 2
+also #SUP: 2
+hard #SUP: 4
+working #SUP: 3
+area #SUP: 2
+decade #SUP: 2
+despite #SUP: 2
+half #SUP: 2
+over #SUP: 6
+radar #SUP: 2
+vision #SUP: 2
+find #SUP: 2
+might #SUP: 2
+being #SUP: 2
+internal #SUP: 2
+owners #SUP: 2
+aiming #SUP: 3
+improvement #SUP: 2
+we’re #SUP: 2
+great #SUP: 3
+almost #SUP: 2
+done #SUP: 2
+sales #SUP: 2
+when #SUP: 3
+believe #SUP: 2
+better #SUP: 4
+especially #SUP: 2
+pure #SUP: 2
+which #SUP: 2
+towards #SUP: 2
+don’t #SUP: 3
+realize #SUP: 2
+takes #SUP: 2
+work #SUP: 4
+taxes #SUP: 3
+coming #SUP: 3
+just #SUP: 8
+satellites #SUP: 2
+falcon #SUP: 3
+heavy #SUP: 2
+rocket #SUP: 2
+spacex #SUP: 2
+going #SUP: 2
+web3 #SUP: 2
+could #SUP: 2
+games #SUP: 2
+starlink #SUP: 3
+maybe #SUP: 2
+wondering #SUP: 2
+future #SUP: 2
+real #SUP: 2
+seems #SUP: 2
+sounds #SUP: 3
+years #SUP: 2
+very #SUP: 4
+well #SUP: 2
+giga #SUP: 2
+texas #SUP: 2
+really #SUP: 2
+starship #SUP: 2
+book #SUP: 2
+should #SUP: 2
+raptor #SUP: 3
+booster #SUP: 2
+ship #SUP: 3
+test #SUP: 2
+close #SUP: 2
+hopefully #SUP: 2
+pretty #SUP: 3
+engines #SUP: 2
+load #SUP: 2
+propellant #SUP: 2
+vacuum #SUP: 2
+next #SUP: 2
+steering #SUP: 2
+engine #SUP: 2
+american #SUP: 2
+history #SUP: 3
+individual #SUP: 2
+senator #SUP: 2
+while #SUP: 2
+deal #SUP: 2
+cool #SUP: 2
+wait #SUP: 3
+anything #SUP: 2
+love #SUP: 2
+karen #SUP: 2
+school #SUP: 2
+jobs #SUP: 2
+call #SUP: 2
+manager #SUP: 2
+does #SUP: 2
+please #SUP: 2
+actually #SUP: 2
+than more #SUP: 4
+than more will #SUP: 2
+than more like #SUP: 2
+than more this #SUP: 2
+than more love #SUP: 2
+than will #SUP: 2
+than like #SUP: 2
+than this #SUP: 2
+than love #SUP: 2
+reality like #SUP: 2
+with will #SUP: 3
+with will tesla #SUP: 2
+with tesla #SUP: 3
+with putting #SUP: 2
+with some #SUP: 2
+with being #SUP: 2
+with internal #SUP: 2
+with games #SUP: 2
+with next #SUP: 2
+have that #SUP: 2
+have will #SUP: 2
+more that #SUP: 2
+more will #SUP: 4
+more will just #SUP: 2
+more like #SUP: 2
+more this #SUP: 2
+more just #SUP: 2
+more love #SUP: 2
+that people #SUP: 2
+that still #SUP: 2
+that this #SUP: 2
+will what #SUP: 2
+will what future #SUP: 2
+will this #SUP: 2
+will this year #SUP: 2
+will this taxes #SUP: 2
+will this year taxes #SUP: 2
+will tesla #SUP: 2
+will year #SUP: 2
+will year taxes #SUP: 2
+will some #SUP: 2
+will added #SUP: 2
+will over #SUP: 2
+will taxes #SUP: 2
+will just #SUP: 3
+will wondering #SUP: 2
+will future #SUP: 2
+will raptor #SUP: 2
+will ship #SUP: 2
+will ship engines #SUP: 2
+will ship engines load #SUP: 2
+will ship engines load propellant #SUP: 2
+will ship engines load vacuum #SUP: 2
+will ship engines load propellant vacuum #SUP: 2
+will ship engines propellant #SUP: 2
+will ship engines propellant vacuum #SUP: 2
+will ship engines vacuum #SUP: 2
+will ship load #SUP: 2
+will ship load propellant #SUP: 2
+will ship load vacuum #SUP: 2
+will ship load propellant vacuum #SUP: 2
+will ship propellant #SUP: 2
+will ship propellant vacuum #SUP: 2
+will ship vacuum #SUP: 2
+will engines #SUP: 2
+will engines load #SUP: 2
+will engines load propellant #SUP: 2
+will engines load vacuum #SUP: 2
+will engines load propellant vacuum #SUP: 2
+will engines propellant #SUP: 2
+will engines propellant vacuum #SUP: 2
+will engines vacuum #SUP: 2
+will load #SUP: 2
+will load propellant #SUP: 2
+will load vacuum #SUP: 2
+will load propellant vacuum #SUP: 2
+will propellant #SUP: 2
+will propellant vacuum #SUP: 2
+will vacuum #SUP: 2
+people this #SUP: 2
+compressing like #SUP: 2
+like what #SUP: 2
+like just #SUP: 2
+like sounds #SUP: 2
+what future #SUP: 2
+goes tesla #SUP: 2
+still done #SUP: 2
+this year #SUP: 2
+this year taxes #SUP: 2
+this time #SUP: 2
+this taxes #SUP: 3
+this american #SUP: 2
+this american history #SUP: 2
+this history #SUP: 2
+tesla year #SUP: 2
+tesla holiday #SUP: 3
+tesla holiday release #SUP: 3
+tesla holiday release software #SUP: 3
+tesla holiday release today #SUP: 2
+tesla holiday release software today #SUP: 2
+tesla holiday software #SUP: 3
+tesla holiday software today #SUP: 2
+tesla holiday today #SUP: 2
+tesla release #SUP: 3
+tesla release software #SUP: 3
+tesla release today #SUP: 2
+tesla release software today #SUP: 2
+tesla software #SUP: 3
+tesla software today #SUP: 2
+tesla today #SUP: 2
+would year #SUP: 2
+year your #SUP: 2
+year taxes #SUP: 2
+lots your #SUP: 2
+holiday release #SUP: 3
+holiday release software #SUP: 3
+holiday release today #SUP: 2
+holiday release software today #SUP: 2
+holiday software #SUP: 3
+holiday software today #SUP: 2
+holiday today #SUP: 2
+release software #SUP: 3
+release today #SUP: 2
+release software today #SUP: 2
+software today #SUP: 2
+hard working #SUP: 2
+decade over #SUP: 2
+despite over #SUP: 2
+half over #SUP: 2
+over jobs #SUP: 2
+radar vision #SUP: 2
+rocket spacex #SUP: 2
+giga texas #SUP: 2
+booster ship #SUP: 2
+ship engines #SUP: 2
+ship engines load #SUP: 2
+ship engines load propellant #SUP: 2
+ship engines load vacuum #SUP: 2
+ship engines load propellant vacuum #SUP: 2
+ship engines propellant #SUP: 2
+ship engines propellant vacuum #SUP: 2
+ship engines vacuum #SUP: 2
+ship load #SUP: 2
+ship load propellant #SUP: 2
+ship load vacuum #SUP: 2
+ship load propellant vacuum #SUP: 2
+ship propellant #SUP: 2
+ship propellant vacuum #SUP: 2
+ship vacuum #SUP: 2
+engines load #SUP: 2
+engines load propellant #SUP: 2
+engines load vacuum #SUP: 2
+engines load propellant vacuum #SUP: 2
+engines propellant #SUP: 2
+engines propellant vacuum #SUP: 2
+engines vacuum #SUP: 2
+load propellant #SUP: 2
+load vacuum #SUP: 2
+load propellant vacuum #SUP: 2
+propellant vacuum #SUP: 2
+american history #SUP: 2
+call manager #SUP: 2

@@ -2,12 +2,16 @@
 
 ## dEclatV1
 
-It's a **1st phase** of the Project. This dEclat implementation is based on [this description](http://www.philippe-fournier-viger.com/spmf/Eclat_dEclat.php).
-
+This initial implementation of dEclat isn't efficient. That's why we implemented dEclatV2 based on
+[Philippe Fournier Viger Java implementation](http://www.philippe-fournier-viger.com/spmf/Eclat_dEclat.php).
 
 ## dEclatV2
 
-**Second phase** TODO
+This implementation i directly based on 
+[Philippe Fournier Viger Java implementation](http://www.philippe-fournier-viger.com/spmf/Eclat_dEclat.php).
+
+We provide Eclat algorithm, dEclat algorithm and our `Parser` to create `Transactional database` using
+raw twitter data. We use tweepy to fetch tweets and download Twitter datasets from Kaggle.
 
 # TODO List
 

@@ -19,6 +19,7 @@ def load_experiment_data():
         print(memory_usage)
     return supports, times, memory_usage, dis_counts
 
+
 def load_fis_from_file(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         lines = file.readlines()
@@ -32,6 +33,7 @@ def load_fis_from_file(file_path):
                 fi.append(item)
             fis.append(fi)
     return fis
+
 
 def plot_supports_memory():
     """
@@ -48,6 +50,7 @@ def plot_supports_memory():
     plt.ylabel("Memory [bytes]")
     plt.show()
 
+
 def plot_supports_time():
     """
         Draw plot f(x) = y
@@ -63,6 +66,7 @@ def plot_supports_time():
     plt.ylabel("Time [seconds]")
     plt.show()
 
+
 def plot_supports_dis_couts():
     """
         Draw plot f(x) = y
@@ -77,6 +81,7 @@ def plot_supports_dis_couts():
     plt.xlabel("Min Support [%]")
     plt.ylabel("Frequent Itemsets [-]")
     plt.show()
+
 
 def plot_hasse():
     """

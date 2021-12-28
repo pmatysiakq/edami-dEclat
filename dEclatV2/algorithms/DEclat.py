@@ -8,11 +8,8 @@ class DEclat:
         self.database: TransactionDatabase
         self.start_timestamp = 0
         self.end_timestamp = 0
-        self.frequent_itemsets = []
         self.itemset_count = 0
-        self.BUFFER_SIZE = 2000
         self.itemset_buffer = []
-        self.show_transaction_ids = False
         self.max_itemset_size = 99999
         self.output_file = None
         self.peak_memory = None
@@ -33,13 +30,13 @@ class DEclat:
 
         tracemalloc.start()
 
-        # for each item | Only when Triangular Matrix Optimization is used
+        # Returns a map of tidsets for each item
         _, map_item_count = self.calculate_support_single_items(database)
 
         # Create the list of single items
         frequent_items = []
 
-        # for each item
+        # Find frequent items of length 1 and save them to the file.
         for key in map_item_count.keys():
             # get tie tidset of that item
             tidset = map_item_count[key]
@@ -50,12 +47,13 @@ class DEclat:
                 frequent_items.append(item)
                 self.save_single_item(item, tidset, len(tidset))
 
-        # TODO check if it's okay. It may need lambda or sth.
-        # self.frequentItemsets.sort()
+        # TODO Sort frequent items based on support - important?
+        # frequent_items.sort()
 
-        # Now we will combine each pair of signle items to generate equivalence classes
-        # of 2-item-sets
+        # Combine each pair of single items to generate
+        # equivalence classes of 2-itemsets
         if self.max_itemset_size >= 2:
+            # For each item "i" in frequent_items
             for i in range(len(frequent_items)):
                 item_I = frequent_items[i]
                 tidset_I = map_item_count[item_I]
@@ -66,14 +64,18 @@ class DEclat:
                 # List of sets
                 equivalence_class_I_tidsets = []
 
+                # For each item "j", where j > i
                 for j in range(i+1, len(frequent_items)):
                     item_J = frequent_items[j]
                     tidset_J = map_item_count[item_J]
                     support_J = len(tidset_J)
 
+                    # Finds tidset of items IJ
                     tidset_IJ = self.perform_AND_first_time(tidset_I, support_I, tidset_J, support_J)
 
                     if self.calculate_support(2, support_I, tidset_IJ) >= self.minsup_relative:
+                        # We add only item_J to the equivalence class, but item "i" is provided as
+                        # a priefix so we know item_IJ
                         equivalence_class_I_items.append(item_J)
                         equivalence_class_I_tidsets.append(tidset_IJ)
                 if len(equivalence_class_I_items) > 0:
@@ -82,6 +84,8 @@ class DEclat:
                     except:
                         self.itemset_buffer.append(0)
                         self.itemset_buffer[0] = item_I
+                    # Here we process frequent itemsets which are greater than 2
+                    # This method is called recursively
                     self.process_equivalence_class(self.itemset_buffer, 1, support_I,
                                                    equivalence_class_I_items, equivalence_class_I_tidsets)
         self.end_timestamp = time.time()
@@ -89,7 +93,6 @@ class DEclat:
 
         _, self.peak_memory = tracemalloc.get_traced_memory()
         tracemalloc.stop()
-
         return self.start_timestamp, self.end_timestamp, self.peak_memory, self.database.size, len(frequent_items)
 
     def process_equivalence_class(self, prefix: [], prefix_length: int, support_prefix: int,
@@ -230,7 +233,7 @@ class DEclat:
 
     def perform_experiment(self):
         # Define different min_sup values
-        sup_values = [0.1, 0.08, 0.06, 0.04, 0.03, 0.02, 0.01, 0.009, 0.008, 0.007, 0.006, 0.005]
+        sup_values = [0.1, 0.08, 0.06, 0.04, 0.03, 0.02, 0.01, 0.009, 0.008, 0.007, 0.006, 0.005, 0.004]
         # Create file to save results
         results = open("../results/trump-experiment.csv", "w", encoding="utf-8")
         # Indicate input database file and create new database instance
@@ -250,11 +253,11 @@ class DEclat:
 
 if __name__ == "__main__":
     # # We define path to the input file
-    # input = "../input_data/elonmusk-transactions.txt"
+    # input = "../input_data/trump-transactions.txt"
     # # We define path to the output file
-    # output = "../output/output-experiment-1.txt"
-    # # We set-up min-supp parameter - 5%
-    # min_supp = 0.05
+    # output = "../output/output-test.txt"
+    # # We set-up min-supp parameter - 10%
+    # min_supp = 0.01
     # # We create TransactionDatabase instance using input file
     # database = TransactionDatabase(file_path=input)
     #
@@ -267,5 +270,6 @@ if __name__ == "__main__":
     # # Additionally, we translate found frequent item-sets to the actual words
     # database.translate_integers_into_words(file_path=output)
 
+    # Experiment #2
     declat = DEclat()
     declat.perform_experiment()

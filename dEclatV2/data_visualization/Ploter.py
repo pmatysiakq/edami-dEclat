@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import networkx as nx
 
-def load_experiment_data():
-    with open("../results/trump-experiment.csv", "r", encoding='utf-8') as file:
+def load_experiment_data(file_path):
+    with open(file_path, "r", encoding='utf-8') as file:
         lines = file.readlines()
         fields = lines[0].strip("\n").split(",")
 
@@ -35,7 +35,7 @@ def load_fis_from_file(file_path):
     return fis
 
 
-def plot_supports_memory():
+def plot_supports_memory(declat_file_path, imprv_file_path=""):
     """
     Draw plot f(x) = y
 
@@ -43,15 +43,20 @@ def plot_supports_memory():
         * x - Min Support
         * y - Memory usage
     """
-    x, _, y, _ = load_experiment_data()
-    plt.scatter(x, y)
+    x1, _, y1, _ = load_experiment_data(declat_file_path)
+    plt.scatter(x1, y1, label="Basic dEclat")
+    if imprv_file_path != "":
+        x2, _, y2, _ = load_experiment_data(imprv_file_path)
+        plt.scatter(x2, y2, label="Improved dEclat", marker="*")
+
     plt.title("Memory usage ( Min Support )")
     plt.xlabel("Min Support [%]")
     plt.ylabel("Memory [bytes]")
+    plt.legend()
     plt.show()
 
 
-def plot_supports_time():
+def plot_supports_time(declat_file_path, imprv_file_path=""):
     """
         Draw plot f(x) = y
 
@@ -59,15 +64,20 @@ def plot_supports_time():
             * x - Min Support
             * y - Time
         """
-    x, y, _, _ = load_experiment_data()
-    plt.scatter(x, y)
+    x1, y1, _, _ = load_experiment_data(declat_file_path)
+    plt.scatter(x1, y1, label="Basic dEclat")
+    if imprv_file_path != "":
+        x2, y2, _, _ = load_experiment_data(imprv_file_path)
+        plt.scatter(x2, y2, label="Improved dEclat", marker="*")
+
     plt.title("Time ( Min Support )")
     plt.xlabel("Min Support [%]")
     plt.ylabel("Time [seconds]")
+    plt.legend()
     plt.show()
 
 
-def plot_supports_dis_couts():
+def plot_supports_dis_couts(declat_file_path, imprv_file_path=""):
     """
         Draw plot f(x) = y
 
@@ -75,11 +85,16 @@ def plot_supports_dis_couts():
             * x - Min Support
             * y - Frequent Item-sets count
         """
-    x, _, _, y = load_experiment_data()
-    plt.scatter(x, y)
+    x1, _, _, y1 = load_experiment_data(declat_file_path)
+    plt.scatter(x1, y1, label="Basic dEclat")
+    if imprv_file_path != "":
+        x2, _, _, y2 = load_experiment_data(imprv_file_path)
+        plt.scatter(x2, y2, label="Improved dEclat", marker="*")
+
     plt.title("Frequent Itemsets ( Min Support )")
     plt.xlabel("Min Support [%]")
     plt.ylabel("Frequent Itemsets [-]")
+    plt.legend()
     plt.show()
 
 
@@ -119,8 +134,16 @@ def plot_hasse():
 
 
 if __name__ == "__main__":
-    # plot_supports_memory()
-    # plot_supports_time()
-    # plot_supports_dis_couts()
+    declat_file = "../results/trump-experiment.csv"
+    imprv_declat_file = "../results/trump-experiment-imprv.csv"
+
+    plot_supports_memory(declat_file)
+    plot_supports_time(declat_file)
+    plot_supports_dis_couts(declat_file)
+
+    plot_supports_memory(declat_file, imprv_declat_file)
+    plot_supports_time(declat_file, imprv_declat_file)
+    plot_supports_dis_couts(declat_file, imprv_declat_file)
 
     plot_hasse()
+"../results/trump-experiment.csv"

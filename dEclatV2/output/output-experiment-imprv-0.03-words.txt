@@ -1,0 +1,168 @@
+been #SUP: 780
+have #SUP: 1956
+just #SUP: 1303
+should #SUP: 904
+they #SUP: 2421
+this #SUP: 1460
+with #SUP: 2003
+again #SUP: 329
+back #SUP: 395
+great #SUP: 1176
+make #SUP: 417
+never #SUP: 1031
+time #SUP: 636
+like #SUP: 889
+said #SUP: 538
+that #SUP: 2830
+when #SUP: 724
+will #SUP: 1763
+ratings #SUP: 371
+really #SUP: 405
+than #SUP: 725
+about #SUP: 935
+people #SUP: 1378
+down #SUP: 386
+more #SUP: 838
+because #SUP: 519
+many #SUP: 843
+them #SUP: 594
+want #SUP: 568
+over #SUP: 431
+their #SUP: 1042
+against #SUP: 439
+obama #SUP: 317
+totally #SUP: 629
+would #SUP: 730
+country #SUP: 803
+last #SUP: 329
+were #SUP: 515
+republican #SUP: 338
+what #SUP: 831
+years #SUP: 539
+into #SUP: 311
+failing #SUP: 456
+from #SUP: 809
+look #SUP: 345
+nothing #SUP: 859
+trump #SUP: 491
+doing #SUP: 596
+money #SUP: 311
+much #SUP: 674
+sleepy #SUP: 373
+crime #SUP: 341
+corrupt #SUP: 549
+wrong #SUP: 373
+made #SUP: 530
+total #SUP: 542
+even #SUP: 940
+york #SUP: 314
+must #SUP: 380
+before #SUP: 338
+being #SUP: 443
+crazy #SUP: 396
+only #SUP: 701
+after #SUP: 405
+president #SUP: 673
+election #SUP: 585
+done #SUP: 449
+ever #SUP: 316
+which #SUP: 694
+going #SUP: 500
+there #SUP: 574
+your #SUP: 332
+don’t #SUP: 537
+very #SUP: 1223
+history #SUP: 389
+most #SUP: 380
+also #SUP: 371
+know #SUP: 385
+media #SUP: 1220
+others #SUP: 354
+good #SUP: 464
+story #SUP: 369
+other #SUP: 513
+news #SUP: 1994
+left #SUP: 478
+clinton #SUP: 486
+hillary #SUP: 882
+campaign #SUP: 332
+phony #SUP: 382
+state #SUP: 328
+dishonest #SUP: 376
+party #SUP: 337
+crooked #SUP: 784
+russia #SUP: 344
+biden #SUP: 421
+radical #SUP: 391
+dems #SUP: 567
+house #SUP: 320
+american #SUP: 315
+democrats #SUP: 1129
+democrat #SUP: 469
+hoax #SUP: 393
+collusion #SUP: 365
+fake #SUP: 2157
+hunt #SUP: 613
+witch #SUP: 633
+mueller #SUP: 313
+been have #SUP: 380
+have they #SUP: 707
+have this #SUP: 330
+have with #SUP: 498
+have that #SUP: 665
+have will #SUP: 320
+have news #SUP: 400
+have news fake #SUP: 370
+have democrats #SUP: 324
+have fake #SUP: 418
+just they #SUP: 334
+just that #SUP: 451
+just fake #SUP: 358
+they this #SUP: 349
+they with #SUP: 582
+they that #SUP: 821
+they will #SUP: 477
+they people #SUP: 417
+they their #SUP: 459
+they even #SUP: 311
+they media #SUP: 434
+they media fake #SUP: 338
+they news #SUP: 696
+they news fake #SUP: 646
+they democrats #SUP: 471
+they fake #SUP: 738
+this with #SUP: 328
+this that #SUP: 494
+this news #SUP: 381
+this news fake #SUP: 357
+this fake #SUP: 424
+with that #SUP: 706
+with will #SUP: 361
+with news #SUP: 499
+with news fake #SUP: 475
+with fake #SUP: 559
+great will #SUP: 338
+never that #SUP: 316
+that will #SUP: 507
+that people #SUP: 441
+that their #SUP: 311
+that very #SUP: 396
+that media #SUP: 417
+that media fake #SUP: 319
+that news #SUP: 672
+that news fake #SUP: 614
+that democrats #SUP: 372
+that fake #SUP: 719
+will fake #SUP: 332
+than more #SUP: 373
+people fake #SUP: 324
+their news #SUP: 332
+their fake #SUP: 342
+media news #SUP: 785
+media fake #SUP: 849
+media news fake #SUP: 760
+news fake #SUP: 1815
+left radical #SUP: 366
+clinton hillary #SUP: 372
+hillary crooked #SUP: 662
+hunt witch #SUP: 610

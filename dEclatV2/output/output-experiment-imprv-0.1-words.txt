@@ -1,0 +1,16 @@
+have #SUP: 1956
+just #SUP: 1303
+they #SUP: 2421
+this #SUP: 1460
+with #SUP: 2003
+great #SUP: 1176
+that #SUP: 2830
+will #SUP: 1763
+people #SUP: 1378
+their #SUP: 1042
+very #SUP: 1223
+media #SUP: 1220
+news #SUP: 1994
+democrats #SUP: 1129
+fake #SUP: 2157
+news fake #SUP: 1815

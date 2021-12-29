@@ -38,14 +38,13 @@ class DEclat:
 
         # Find frequent items of length 1 and save them to the file.
         for key in map_item_count.keys():
-            # get tie tidset of that item
+            # get tidset of that item
             tidset = map_item_count[key]
             # get the support of that item
             support = len(tidset)
-            item = key
             if support >= self.minsup_relative and self.max_itemset_size >= 1:
-                frequent_items.append(item)
-                self.save_single_item(item, tidset, len(tidset))
+                frequent_items.append(key)
+                self.save_single_item(key, tidset, len(tidset))
 
         # TODO Sort frequent items based on support - important?
         # frequent_items.sort()
@@ -176,11 +175,11 @@ class DEclat:
                 diffset_IJ.add(tid)
         return diffset_IJ
 
-    def perform_AND(self, tidset_I: set, support_I: int, tidset_J: set, support_J: int):
+    def perform_AND(self, diffset_I: set, support_I: int, diffset_J: set, support_J: int):
         diffsetIJ = set()
 
-        for tid in tidset_J:
-            if tid not in tidset_I:
+        for tid in diffset_J:
+            if tid not in diffset_I:
                 diffsetIJ.add(tid)
         return diffsetIJ
 

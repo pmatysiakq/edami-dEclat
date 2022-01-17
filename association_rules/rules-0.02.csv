@@ -1,0 +1,12 @@
+that media -> news fake: 0.7170263788968825
+with media news -> fake: 0.9638009049773756
+they media news -> fake: 0.9801324503311258
+they media -> news fake: 0.6820276497695853
+that -> media news fake: 0.10565371024734982
+they that news -> fake: 0.9227941176470589
+they -> that news fake: 0.1036761668731929
+with -> media news fake: 0.10634048926610085
+with media -> news fake: 0.7123745819397993
+they that -> news fake: 0.30572472594397077
+that media news -> fake: 0.9771241830065359
+they -> media news fake: 0.12226352746798844

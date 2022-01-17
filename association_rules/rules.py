@@ -18,7 +18,7 @@ def read_fi_file(file_path):
     return fis
 
 
-def create_rules(itemsets, min_confidence=0.5):
+def create_rules(itemsets, min_confidence=0.1):
     max_fis_cnt = -1
     for fis, _ in itemsets:
         max_fis_cnt = max(max_fis_cnt, len(fis))
@@ -51,6 +51,6 @@ def save_rules_to_file(rules, output):
             file.write(f"{left_side} -> {right_side}: {rule_data[2]}\n")
 
 
-itemsets = read_fi_file("../dEclatV2/output/output-experiment-2-0.005-words.txt")
+itemsets = read_fi_file("../dEclatV2/output/output-experiment-2-0.1-words.txt")
 rules = create_rules(itemsets)
-save_rules_to_file(rules, "test_rules.csv")
+save_rules_to_file(rules, "rules-0.1.csv")

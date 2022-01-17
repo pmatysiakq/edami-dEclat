@@ -18,29 +18,29 @@ def read_fi_file(file_path):
     return fis
 
 
-def create_rules(itemsets, min_confidence=0.1):
+def create_rules(itemsets, min_confidence=0.5):
     max_fis_cnt = -1
     for fis, _ in itemsets:
-        max_fis_cnt = max(max_fis_cnt, len(fis))
+        max_fis_cnt = max(max_fis_cnt, len(fis)) #checking how many items are in iremset and finds the  max number of item (longest) in each itemset
     # make dictionary with keys as string with items separated by space and values as support
     itemsets_dict = {" ".join(fi): sup for fi, sup in itemsets}
     print(itemsets_dict)
-    max_fises = []
-    for fis, support in itemsets:
+    max_fises = [] # list of the longest items
+    for fis, support in itemsets: # adding to list
         if len(fis) == max_fis_cnt:
             max_fises.append(fis)
     rules = []
-    for fis in max_fises:
-        for fis_perm in permutations(fis):
-            for ii in range(1, len(fis_perm)):
+    for fis in max_fises: # itering each elements with  biggest itemsets, checking all permutations
+        for fis_perm in permutations(fis): #iterating over permutation over itemsets
+            for ii in range(1, len(fis_perm)):  # iterating over dividing where rules were created
                 left_side = fis[:ii]
                 right_side = fis[ii:]
                 left_support = itemsets_dict[" ".join(left_side)]
                 full_support = itemsets_dict[" ".join(fis)]
-                confidence = full_support/left_support
+                confidence = full_support/left_support # calculating confidence
                 if confidence > min_confidence:
-                    rules.append((tuple(left_side), tuple(right_side), confidence))
-    return list(set(rules))
+                    rules.append((tuple(left_side), tuple(right_side), confidence)) #each list element left side right side and confidence
+    return list(set(rules)) # delete duplications
 
 
 def save_rules_to_file(rules, output):
@@ -51,6 +51,6 @@ def save_rules_to_file(rules, output):
             file.write(f"{left_side} -> {right_side}: {rule_data[2]}\n")
 
 
-itemsets = read_fi_file("../dEclatV2/output/output-experiment-2-0.1-words.txt")
+itemsets = read_fi_file("../dEclatV2/output/output-experiment-imprv-0.009-words.txt")
 rules = create_rules(itemsets)
-save_rules_to_file(rules, "rules-0.1.csv")
+save_rules_to_file(rules, "rules-imprv-0.009.csv")
